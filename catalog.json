@@ -17,6 +17,70 @@
         "url": "banks/STEP3-2026-Oct-SIM2-v202612-e9ff4ad7730a.zip",
         "size": 6049015
       }
+    },
+    {
+      "id": "step3-2026-oct-sim2-alt1",
+      "title": "UWorld Step 3 Self-Assessment Form 2 – October 2026",
+      "version": "202612",
+      "type": "uworld",
+      "databaseName": "uworldSTEP3-2026-Oct-SIM2.db",
+      "description": "160-question STEP3 self-assessment bank supplied for the custom-store pilot.",
+      "addedDate": "20261025",
+      "featured": true,
+      "installedSize": 7750097,
+      "icon": "Icons/uworld.png",
+      "download": {
+        "url": "banks/STEP3-2026-Oct-SIM2-v202612-e9ff4ad7730a.zip",
+        "size": 6049015
+      }
+    },
+    {
+      "id": "step3-2026-oct-sim2-alt2",
+      "title": "USMLE STEP 3 UWorld Simulation 2 (Oct 2026)",
+      "version": "202612",
+      "type": "uworld",
+      "databaseName": "uworldSTEP3-2026-Oct-SIM2.db",
+      "description": "160-question STEP3 self-assessment bank supplied for the custom-store pilot.",
+      "addedDate": "20261025",
+      "featured": true,
+      "installedSize": 7750097,
+      "icon": "Icons/uworld.png",
+      "download": {
+        "url": "banks/STEP3-2026-Oct-SIM2-v202612-e9ff4ad7730a.zip",
+        "size": 6049015
+      }
+    },
+    {
+      "id": "step3-2026-oct-sim2-alt3",
+      "title": "UWorld USMLE Step 3 CCS + MCQ Self Assessment #2 – October 2026",
+      "version": "202612",
+      "type": "uworld",
+      "databaseName": "uworldSTEP3-2026-Oct-SIM2.db",
+      "description": "160-question STEP3 self-assessment bank supplied for the custom-store pilot.",
+      "addedDate": "20261025",
+      "featured": true,
+      "installedSize": 7750097,
+      "icon": "Icons/uworld.png",
+      "download": {
+        "url": "banks/STEP3-2026-Oct-SIM2-v202612-e9ff4ad7730a.zip",
+        "size": 6049015
+      }
+    },
+    {
+      "id": "step3-2026-oct-sim2-alt4",
+      "title": "STEP3 Self-Assessment Simulation 2 (UWorld) – Oct 2026",
+      "version": "202612",
+      "type": "uworld",
+      "databaseName": "uworldSTEP3-2026-Oct-SIM2.db",
+      "description": "160-question STEP3 self-assessment bank supplied for the custom-store pilot.",
+      "addedDate": "20261025",
+      "featured": true,
+      "installedSize": 7750097,
+      "icon": "Icons/uworld.png",
+      "download": {
+        "url": "banks/STEP3-2026-Oct-SIM2-v202612-e9ff4ad7730a.zip",
+        "size": 6049015
+      }
     }
   ]
 }
