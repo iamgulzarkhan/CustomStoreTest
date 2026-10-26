@@ -20,66 +20,130 @@
     },
     {
       "id": "step3-2026-oct-sim2-alt1",
-      "title": "UWorld Step 3 Self-Assessment Form 2 – October 2026",
+      "title": "TEST 01 - UWorld Step 3 Self-Assessment Form 2 – October 2026",
       "version": "202612",
       "type": "uworld",
-      "databaseName": "uworldSTEP3-2026-Oct-SIM2.db",
-      "description": "160-question STEP3 self-assessment bank supplied for the custom-store pilot.",
-      "addedDate": "20261025",
+      "databaseName": "dummy-store-item-01.db",
+      "description": "Dummy listing for store layout, scrolling, search, and icon testing. The download URL and displayed sizes are placeholders; no downloadable database is attached.",
+      "addedDate": "20261026",
       "featured": true,
-      "installedSize": 7750097,
+      "installedSize": 2097152,
       "icon": "Icons/uworld.png",
       "download": {
-        "url": "banks/STEP3-2026-Oct-SIM2-v202612-e9ff4ad7730a.zip",
-        "size": 6049015
+        "url": "https://example.invalid/dummy-store-item-01.zip",
+        "size": 1048576
       }
     },
     {
       "id": "step3-2026-oct-sim2-alt2",
-      "title": "USMLE STEP 3 UWorld Simulation 2 (Oct 2026)",
+      "title": "TEST 02 - USMLE STEP 3 UWorld Simulation 2 (Oct 2026)",
       "version": "202612",
       "type": "uworld",
-      "databaseName": "uworldSTEP3-2026-Oct-SIM2.db",
-      "description": "160-question STEP3 self-assessment bank supplied for the custom-store pilot.",
-      "addedDate": "20261025",
-      "featured": true,
-      "installedSize": 7750097,
+      "databaseName": "dummy-store-item-02.db",
+      "description": "Dummy listing for store layout, scrolling, search, and icon testing. The download URL and displayed sizes are placeholders; no downloadable database is attached.",
+      "addedDate": "20261026",
+      "featured": false,
+      "installedSize": 4194304,
       "icon": "Icons/uworld.png",
       "download": {
-        "url": "banks/STEP3-2026-Oct-SIM2-v202612-e9ff4ad7730a.zip",
-        "size": 6049015
+        "url": "https://example.invalid/dummy-store-item-02.zip",
+        "size": 2097152
       }
     },
     {
       "id": "step3-2026-oct-sim2-alt3",
-      "title": "UWorld USMLE Step 3 CCS + MCQ Self Assessment #2 – October 2026",
+      "title": "TEST 03 - UWorld USMLE Step 3 CCS + MCQ Self Assessment #2 – October 2026",
       "version": "202612",
       "type": "uworld",
-      "databaseName": "uworldSTEP3-2026-Oct-SIM2.db",
-      "description": "160-question STEP3 self-assessment bank supplied for the custom-store pilot.",
-      "addedDate": "20261025",
+      "databaseName": "dummy-store-item-03.db",
+      "description": "Dummy listing for store layout, scrolling, search, and icon testing. The download URL and displayed sizes are placeholders; no downloadable database is attached.",
+      "addedDate": "20261026",
       "featured": true,
-      "installedSize": 7750097,
+      "installedSize": 6291456,
       "icon": "Icons/uworld.png",
       "download": {
-        "url": "banks/STEP3-2026-Oct-SIM2-v202612-e9ff4ad7730a.zip",
-        "size": 6049015
+        "url": "https://example.invalid/dummy-store-item-03.zip",
+        "size": 3145728
       }
     },
     {
       "id": "step3-2026-oct-sim2-alt4",
-      "title": "STEP3 Self-Assessment Simulation 2 (UWorld) – Oct 2026",
+      "title": "TEST 04 - STEP3 Self-Assessment Simulation 2 (UWorld) – Oct 2026",
       "version": "202612",
       "type": "uworld",
-      "databaseName": "uworldSTEP3-2026-Oct-SIM2.db",
-      "description": "160-question STEP3 self-assessment bank supplied for the custom-store pilot.",
-      "addedDate": "20261025",
-      "featured": true,
-      "installedSize": 7750097,
+      "databaseName": "dummy-store-item-04.db",
+      "description": "Dummy listing for store layout, scrolling, search, and icon testing. The download URL and displayed sizes are placeholders; no downloadable database is attached.",
+      "addedDate": "20261026",
+      "featured": false,
+      "installedSize": 8388608,
       "icon": "Icons/uworld.png",
       "download": {
-        "url": "banks/STEP3-2026-Oct-SIM2-v202612-e9ff4ad7730a.zip",
-        "size": 6049015
+        "url": "https://example.invalid/dummy-store-item-04.zip",
+        "size": 4194304
+      }
+    },
+    {
+      "id": "dummy-store-item-05",
+      "title": "TEST 05 - Short Sample Bank",
+      "version": "202612",
+      "type": "uworld",
+      "databaseName": "dummy-store-item-05.db",
+      "description": "Dummy listing for store layout, scrolling, search, and icon testing. The download URL and displayed sizes are placeholders; no downloadable database is attached.",
+      "addedDate": "20261026",
+      "featured": true,
+      "installedSize": 10485760,
+      "icon": "Icons/uworld.png",
+      "download": {
+        "url": "https://example.invalid/dummy-store-item-05.zip",
+        "size": 5242880
+      }
+    },
+    {
+      "id": "dummy-store-item-06",
+      "title": "TEST 06 - A Longer Sample Bank Title for Checking Text Wrapping in the Store",
+      "version": "202612",
+      "type": "uworld",
+      "databaseName": "dummy-store-item-06.db",
+      "description": "Dummy listing for store layout, scrolling, search, and icon testing. The download URL and displayed sizes are placeholders; no downloadable database is attached.",
+      "addedDate": "20261026",
+      "featured": false,
+      "installedSize": 12582912,
+      "icon": "Icons/uworld.png",
+      "download": {
+        "url": "https://example.invalid/dummy-store-item-06.zip",
+        "size": 6291456
+      }
+    },
+    {
+      "id": "dummy-store-item-07",
+      "title": "TEST 07 - Practice Questions - Sample Collection",
+      "version": "202612",
+      "type": "uworld",
+      "databaseName": "dummy-store-item-07.db",
+      "description": "Dummy listing for store layout, scrolling, search, and icon testing. The download URL and displayed sizes are placeholders; no downloadable database is attached.",
+      "addedDate": "20261026",
+      "featured": true,
+      "installedSize": 14680064,
+      "icon": "Icons/uworld.png",
+      "download": {
+        "url": "https://example.invalid/dummy-store-item-07.zip",
+        "size": 7340032
+      }
+    },
+    {
+      "id": "dummy-store-item-08",
+      "title": "TEST 08 - Final Sample Bank - Scroll Test",
+      "version": "202612",
+      "type": "uworld",
+      "databaseName": "dummy-store-item-08.db",
+      "description": "Dummy listing for store layout, scrolling, search, and icon testing. The download URL and displayed sizes are placeholders; no downloadable database is attached.",
+      "addedDate": "20261026",
+      "featured": false,
+      "installedSize": 16777216,
+      "icon": "Icons/uworld.png",
+      "download": {
+        "url": "https://example.invalid/dummy-store-item-08.zip",
+        "size": 8388608
       }
     }
   ]
