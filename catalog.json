@@ -3,147 +3,195 @@
   "storeName": "Gulzar's Handywork",
   "items": [
     {
-      "id": "step3-2026-oct-sim2",
-      "title": "UWorld USMLE STEP3 Self Assessment Simulation 2 - October 2026",
-      "version": "202612",
+      "id": "clinical-2026-sept",
+      "title": "UWorld Clinical QBANK - September 2026",
+      "version": "202611",
       "type": "uworld",
-      "databaseName": "uworldSTEP3-2026-Oct-SIM2.db",
-      "description": "160-question STEP3 self-assessment bank supplied for the custom-store pilot.",
-      "addedDate": "20261025",
+      "databaseName": "uworldCLINICAL-2026-sept.db",
+      "description": "UWorld Clinical QBank - September 2026",
+      "addedDate": "20260922",
       "featured": true,
-      "installedSize": 7750097,
+      "installedSize": 462277090,
       "icon": "Icons/uworld.png",
       "download": {
-        "url": "https://pub-6f9986b5bc434c89b0052b46d7a3984d.r2.dev/STEP3-2026-Oct-SIM2-v202612-e9ff4ad7730a.zip",
-        "size": 6049015
+        "url": "https://pub-6f9986b5bc434c89b0052b46d7a3984d.r2.dev/CLINICAL-2026-sept.zip",
+        "size": 446955239
       }
     },
     {
-      "id": "step3-2026-oct-sim2-alt1",
-      "title": "TEST 01 - UWorld Step 3 Self-Assessment Form 2 – October 2026",
-      "version": "202612",
-      "type": "uworld",
-      "databaseName": "dummy-store-item-01.db",
-      "description": "Dummy listing for store layout, scrolling, search, and icon testing. The download URL and displayed sizes are placeholders; no downloadable database is attached.",
-      "addedDate": "20261026",
+      "id": "imduptodate2026-10-10",
+      "title": "Uptodate",
+      "version": "20261010",
+      "type": "uptodate",
+      "databaseName": "uptodate",
+      "description": "Uptodate (offline) - 20261010",
+      "addedDate": "20261010",
       "featured": true,
-      "installedSize": 2097152,
-      "icon": "Icons/uworld.png",
+      "installedSize": 4498961246,
+      "icon": "Icons/uptodate.png",
       "download": {
-        "url": "https://example.invalid/dummy-store-item-01.zip",
-        "size": 1048576
+        "url": "https://pub-6f9986b5bc434c89b0052b46d7a3984d.r2.dev/imduptodate2026-10-10.zip",
+        "size": 2936382143
       }
     },
     {
-      "id": "step3-2026-oct-sim2-alt2",
-      "title": "TEST 02 - USMLE STEP 3 UWorld Simulation 2 (Oct 2026)",
-      "version": "202612",
+      "id": "internal-2026-sept",
+      "title": "UWorld Internal Medicine QBank (ABIM) - September 2026",
+      "version": "202611",
       "type": "uworld",
-      "databaseName": "dummy-store-item-02.db",
-      "description": "Dummy listing for store layout, scrolling, search, and icon testing. The download URL and displayed sizes are placeholders; no downloadable database is attached.",
-      "addedDate": "20261026",
+      "databaseName": "uworldINTERNAL-2026-sept.db",
+      "description": "UWorld Internal Medicine QBank (ABIM) - September 2026",
+      "addedDate": "20260922",
+      "featured": true,
+      "installedSize": 110000000,
+      "icon": "Icons/uworld.png",
+      "download": {
+        "url": "https://pub-6f9986b5bc434c89b0052b46d7a3984d.r2.dev/INTERNAL-2026-sept.zip",
+        "size": 104926334
+      }
+    },
+    {
+      "id": "pm-1-qbank-2025",
+      "title": "PassMedicine - MRCP Part 1 QBank - 2025",
+      "version": "202512",
+      "type": "uworld",
+      "databaseName": "pm-1-qbank-2025.db",
+      "description": "PassMedicine MRCP Part 1 QBank - 2025",
+      "addedDate": "20260521",
       "featured": false,
-      "installedSize": 4194304,
-      "icon": "Icons/uworld.png",
+      "installedSize": 85218699,
+      "icon": "Icons/passmedicine.jpg",
       "download": {
-        "url": "https://example.invalid/dummy-store-item-02.zip",
-        "size": 2097152
+        "url": "https://pub-6f9986b5bc434c89b0052b46d7a3984d.r2.dev/pm-1-qbank-2025.zip",
+        "size": 53177681
       }
     },
     {
-      "id": "step3-2026-oct-sim2-alt3",
-      "title": "TEST 03 - UWorld USMLE Step 3 CCS + MCQ Self Assessment #2 – October 2026",
-      "version": "202612",
+      "id": "step1-2026-sept",
+      "title": "UWorld USMLE STEP1 QBank - September 2026",
+      "version": "202611",
       "type": "uworld",
-      "databaseName": "dummy-store-item-03.db",
-      "description": "Dummy listing for store layout, scrolling, search, and icon testing. The download URL and displayed sizes are placeholders; no downloadable database is attached.",
-      "addedDate": "20261026",
+      "databaseName": "uworldSTEP1-2026-sept.db",
+      "description": "UWorld USMLE STEP1 QBank - September 2026",
+      "addedDate": "20260922",
       "featured": true,
-      "installedSize": 6291456,
+      "installedSize": 1145040307,
       "icon": "Icons/uworld.png",
       "download": {
-        "url": "https://example.invalid/dummy-store-item-03.zip",
-        "size": 3145728
+        "url": "https://pub-6f9986b5bc434c89b0052b46d7a3984d.r2.dev/STEP1-2026-sept.zip",
+        "size": 1121410925
       }
     },
     {
-      "id": "step3-2026-oct-sim2-alt4",
-      "title": "TEST 04 - STEP3 Self-Assessment Simulation 2 (UWorld) – Oct 2026",
-      "version": "202612",
-      "type": "uworld",
-      "databaseName": "dummy-store-item-04.db",
-      "description": "Dummy listing for store layout, scrolling, search, and icon testing. The download URL and displayed sizes are placeholders; no downloadable database is attached.",
-      "addedDate": "20261026",
+      "id": "pm-1-text-2025",
+      "title": "PassMedicine - MRCP Part 1 Textbook - 2025",
+      "version": "202511",
+      "type": "epub",
+      "databaseName": "pm-1-text-2025.db",
+      "description": "PassMedicine MRCP Part 1 Textbook - 2025",
+      "addedDate": "20260521",
       "featured": false,
-      "installedSize": 8388608,
-      "icon": "Icons/uworld.png",
+      "installedSize": 110300073,
+      "icon": "Icons/passmedicine.jpg",
       "download": {
-        "url": "https://example.invalid/dummy-store-item-04.zip",
-        "size": 4194304
+        "url": "https://pub-6f9986b5bc434c89b0052b46d7a3984d.r2.dev/pm-1-text-2025.zip",
+        "size": 94670023
       }
     },
     {
-      "id": "dummy-store-item-05",
-      "title": "TEST 05 - Short Sample Bank",
-      "version": "202612",
+      "id": "step2-2026-sept",
+      "title": "UWorld USMLE STEP2 QBank - September 2026",
+      "version": "202611",
       "type": "uworld",
-      "databaseName": "dummy-store-item-05.db",
-      "description": "Dummy listing for store layout, scrolling, search, and icon testing. The download URL and displayed sizes are placeholders; no downloadable database is attached.",
-      "addedDate": "20261026",
+      "databaseName": "uworldSTEP2-2026-sept.db",
+      "description": "UWorld USMLE STEP2 QBank - September 2026",
+      "addedDate": "20260922",
       "featured": true,
-      "installedSize": 10485760,
+      "installedSize": 341170525,
       "icon": "Icons/uworld.png",
       "download": {
-        "url": "https://example.invalid/dummy-store-item-05.zip",
-        "size": 5242880
+        "url": "https://pub-6f9986b5bc434c89b0052b46d7a3984d.r2.dev/STEP2-2026-sept.zip",
+        "size": 308311502
       }
     },
     {
-      "id": "dummy-store-item-06",
-      "title": "TEST 06 - A Longer Sample Bank Title for Checking Text Wrapping in the Store",
-      "version": "202612",
+      "id": "pm-6-qbank-2025",
+      "title": "PassMedicine - MRCP Part 2 Written QBank - 2025",
+      "version": "202512",
       "type": "uworld",
-      "databaseName": "dummy-store-item-06.db",
-      "description": "Dummy listing for store layout, scrolling, search, and icon testing. The download URL and displayed sizes are placeholders; no downloadable database is attached.",
-      "addedDate": "20261026",
+      "databaseName": "pm-6-qbank-2025.db",
+      "description": "PassMedicine MRCP Part 2 Written QBank - 2025",
+      "addedDate": "20260521",
       "featured": false,
-      "installedSize": 12582912,
-      "icon": "Icons/uworld.png",
+      "installedSize": 64823227,
+      "icon": "Icons/passmedicine.jpg",
       "download": {
-        "url": "https://example.invalid/dummy-store-item-06.zip",
-        "size": 6291456
+        "url": "https://pub-6f9986b5bc434c89b0052b46d7a3984d.r2.dev/pm-6-qbank-2025.zip",
+        "size": 45889108
       }
     },
     {
-      "id": "dummy-store-item-07",
-      "title": "TEST 07 - Practice Questions - Sample Collection",
-      "version": "202612",
+      "id": "pm-6-text-2025",
+      "title": "PassMedicine - MRCP Part 2 Written Textbook - 2025",
+      "version": "202511",
+      "type": "epub",
+      "databaseName": "pm-6-text-2025.db",
+      "description": "PassMedicine MRCP Part 2 Written Textbook - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 111242738,
+      "icon": "Icons/passmedicine.jpg",
+      "download": {
+        "url": "https://pub-6f9986b5bc434c89b0052b46d7a3984d.r2.dev/pm-6-text-2025.zip",
+        "size": 98772389
+      }
+    },
+    {
+      "id": "step3-2026-sept",
+      "title": "UWorld USMLE STEP3 QBank - September 2026",
+      "version": "202611",
       "type": "uworld",
-      "databaseName": "dummy-store-item-07.db",
-      "description": "Dummy listing for store layout, scrolling, search, and icon testing. The download URL and displayed sizes are placeholders; no downloadable database is attached.",
-      "addedDate": "20261026",
+      "databaseName": "uworldSTEP3-2026-sept.db",
+      "description": "UWorld USMLE STEP3 QBank - September 2026",
+      "addedDate": "20260922",
       "featured": true,
-      "installedSize": 14680064,
+      "installedSize": 437330979,
       "icon": "Icons/uworld.png",
       "download": {
-        "url": "https://example.invalid/dummy-store-item-07.zip",
-        "size": 7340032
+        "url": "https://pub-6f9986b5bc434c89b0052b46d7a3984d.r2.dev/STEP3-2026-sept.zip",
+        "size": 421213584
       }
     },
     {
-      "id": "dummy-store-item-08",
-      "title": "TEST 08 - Final Sample Bank - Scroll Test",
-      "version": "202612",
-      "type": "uworld",
-      "databaseName": "dummy-store-item-08.db",
-      "description": "Dummy listing for store layout, scrolling, search, and icon testing. The download URL and displayed sizes are placeholders; no downloadable database is attached.",
-      "addedDate": "20261026",
-      "featured": false,
-      "installedSize": 16777216,
+      "id": "uworldstep1library-september-2026",
+      "title": "UWORLD Medical Library - September 2026",
+      "version": "202610",
+      "type": "epub",
+      "databaseName": "uworldstep1library-September-2026.db",
+      "description": "UWORLD Medical Library - September 2026",
+      "addedDate": "20260923",
+      "featured": true,
+      "installedSize": 1167376114,
       "icon": "Icons/uworld.png",
       "download": {
-        "url": "https://example.invalid/dummy-store-item-08.zip",
-        "size": 8388608
+        "url": "https://pub-6f9986b5bc434c89b0052b46d7a3984d.r2.dev/uworldstep1library-September-2026.zip",
+        "size": 944408003
+      }
+    },
+    {
+      "id": "amboss-2025",
+      "title": "Amboss USMLE Library - 2025",
+      "version": "202512",
+      "type": "epub",
+      "databaseName": "amboss-2025.db",
+      "description": "Amboss USMLE Library - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 1824148493,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://pub-6f9986b5bc434c89b0052b46d7a3984d.r2.dev/amboss-2025.zip",
+        "size": 1330256233
       }
     }
   ]
