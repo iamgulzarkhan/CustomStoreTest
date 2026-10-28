@@ -4513,6 +4513,166 @@
         "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/uworldFAMILY-2026-sept.zip",
         "size": 58394487
       }
+    },
+    {
+      "id": "23576",
+      "title": "Mehlman - Step 3 Qbank - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "mehlman-3-2025.db",
+      "description": "Mehlman - Step 3 Qbank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 896811392,
+      "icon": "Icons/mehlman.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/mehlman-3-2025.zip",
+        "size": 514553496
+      }
+    },
+    {
+      "id": "23575",
+      "title": "Mehlman - Step 2 CK Qbank - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "mehlman-2-2025.db",
+      "description": "Mehlman - Step 2 CK Qbank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 1210911459,
+      "icon": "Icons/mehlman.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/mehlman-2-2025.zip",
+        "size": 786758960
+      }
+    },
+    {
+      "id": "23574",
+      "title": "Mehlman - Step 1 QBank - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "mehlman-1-2025.db",
+      "description": "Mehlman - Step 1 QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 2028605546,
+      "icon": "Icons/mehlman.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/mehlman-1-2025.zip",
+        "size": 1762318274
+      }
+    },
+    {
+      "id": "23573",
+      "title": "Mehlman - HY Surgery - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "mehlman-6-2025.db",
+      "description": "Mehlman - HY Surgery - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 431385462,
+      "icon": "Icons/mehlman.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/mehlman-6-2025.zip",
+        "size": 152589983
+      }
+    },
+    {
+      "id": "23572",
+      "title": "Mehlman - HY Psychiatry - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "mehlman-10-2025.db",
+      "description": "Mehlman - HY Psychiatry - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 460306063,
+      "icon": "Icons/mehlman.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/mehlman-10-2025.zip",
+        "size": 105574570
+      }
+    },
+    {
+      "id": "23571",
+      "title": "Mehlman - HY Pediatrics - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "mehlman-4-2025.db",
+      "description": "Mehlman - HY Pediatrics - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 593625681,
+      "icon": "Icons/mehlman.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/mehlman-4-2025.zip",
+        "size": 211392797
+      }
+    },
+    {
+      "id": "23570",
+      "title": "Mehlman - HY Obgyn - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "mehlman-5-2025.db",
+      "description": "Mehlman - HY Obgyn - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 394731666,
+      "icon": "Icons/mehlman.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/mehlman-5-2025.zip",
+        "size": 101953749
+      }
+    },
+    {
+      "id": "23569",
+      "title": "Mehlman - HY Internal Medicine - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "mehlman-7-2025.db",
+      "description": "Mehlman - HY Internal Medicine - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 546044022,
+      "icon": "Icons/mehlman.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/mehlman-7-2025.zip",
+        "size": 236748012
+      }
+    },
+    {
+      "id": "23568",
+      "title": "Mehlman - HY Family Medicine - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "mehlman-8-2025.db",
+      "description": "Mehlman - HY Family Medicine - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 536522871,
+      "icon": "Icons/mehlman.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/mehlman-8-2025.zip",
+        "size": 199687581
+      }
+    },
+    {
+      "id": "23567",
+      "title": "Mehlman - HY Emergency Medicine - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "mehlman-9-2025.db",
+      "description": "Mehlman - HY Emergency Medicine - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 477280685,
+      "icon": "Icons/mehlman.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/mehlman-9-2025.zip",
+        "size": 181407740
+      }
     }
   ]
 }
