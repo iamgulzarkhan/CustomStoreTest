@@ -273,6 +273,742 @@
         "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/nbme-Neurology-11.zip",
         "size": 542866
       }
+    },
+    {
+      "id": "9210",
+      "title": "NBME - Clinical Mastery Series - Family Medicine Self-Assessment - Form 7",
+      "version": "202611",
+      "type": "uworld",
+      "databaseName": "nbme-Family Medicine-7.db",
+      "description": "NBME - Clinical Mastery Series - Family Medicine Self-Assessment - Form 7",
+      "addedDate": "20261023",
+      "featured": false,
+      "installedSize": 2043196,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/nbme-Family%20Medicine-7.zip",
+        "size": 1510351
+      }
+    },
+    {
+      "id": "9209",
+      "title": "NBME - Clinical Mastery Series - Family Medicine Self-Assessment - Form 6",
+      "version": "202611",
+      "type": "uworld",
+      "databaseName": "nbme-Family Medicine-6.db",
+      "description": "NBME - Clinical Mastery Series - Family Medicine Self-Assessment - Form 6",
+      "addedDate": "20261023",
+      "featured": false,
+      "installedSize": 2476620,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/nbme-Family%20Medicine-6.zip",
+        "size": 1918648
+      }
+    },
+    {
+      "id": "9196",
+      "title": "NBME - Clinical Mastery Series - Emergency Medicine Self-Assessment - Form 4",
+      "version": "202611",
+      "type": "uworld",
+      "databaseName": "nbme-Emergency Medicine-4.db",
+      "description": "NBME - Clinical Mastery Series - Emergency Medicine Self-Assessment - Form 4",
+      "addedDate": "20261023",
+      "featured": false,
+      "installedSize": 2837580,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/nbme-Emergency%20Medicine-4.zip",
+        "size": 2247366
+      }
+    },
+    {
+      "id": "9290",
+      "title": "NBME - Comprehensive Clinical Science Self-Assessment - Form 16",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-2-16.db",
+      "description": "NBME - Comprehensive Clinical Science Self-Assessment - Form 16",
+      "addedDate": "20260929",
+      "featured": false,
+      "installedSize": 4698252,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/nbme-2-16.zip",
+        "size": 2956791
+      }
+    },
+    {
+      "id": "9288",
+      "title": "NBME - Comprehensive Clinical Science Self-Assessment - Form 15",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-2-15.db",
+      "description": "NBME - Comprehensive Clinical Science Self-Assessment - Form 15",
+      "addedDate": "20260929",
+      "featured": false,
+      "installedSize": 3910780,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/nbme-2-15.zip",
+        "size": 2223561
+      }
+    },
+    {
+      "id": "9285",
+      "title": "NBME - Comprehensive Clinical Medicine Self-Assessment - Form 8",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-3-8.db",
+      "description": "NBME - Comprehensive Clinical Medicine Self-Assessment - Form 8",
+      "addedDate": "20260929",
+      "featured": false,
+      "installedSize": 9682844,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/nbme-3-8.zip",
+        "size": 7874373
+      }
+    },
+    {
+      "id": "9282",
+      "title": "NBME - Comprehensive Clinical Medicine Self-Assessment - Form 7",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-3-7.db",
+      "description": "NBME - Comprehensive Clinical Medicine Self-Assessment - Form 7",
+      "addedDate": "20260929",
+      "featured": false,
+      "installedSize": 4714764,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/nbme-3-7.zip",
+        "size": 2740875
+      }
+    },
+    {
+      "id": "9279",
+      "title": "NBME - Comprehensive Clinical Medicine Self-Assessment - Form 6",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-3-6.db",
+      "description": "NBME - Comprehensive Clinical Medicine Self-Assessment - Form 6",
+      "addedDate": "20260929",
+      "featured": false,
+      "installedSize": 4638748,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/nbme-3-6.zip",
+        "size": 2636949
+      }
+    },
+    {
+      "id": "9276",
+      "title": "NBME - Comprehensive Basic Science Self-Assessment - Form 34",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-1-34.db",
+      "description": "NBME - Comprehensive Basic Science Self-Assessment - Form 34",
+      "addedDate": "20260929",
+      "featured": false,
+      "installedSize": 10761404,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/nbme-1-34.zip",
+        "size": 9136086
+      }
+    },
+    {
+      "id": "9273",
+      "title": "NBME - Comprehensive Basic Science Self-Assessment - Form 33",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-1-33.db",
+      "description": "NBME - Comprehensive Basic Science Self-Assessment - Form 33",
+      "addedDate": "20260929",
+      "featured": false,
+      "installedSize": 4013852,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/nbme-1-33.zip",
+        "size": 2493006
+      }
+    },
+    {
+      "id": "9271",
+      "title": "NBME - Comprehensive Basic Science Self-Assessment - Form 32",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-1-32.db",
+      "description": "NBME - Comprehensive Basic Science Self-Assessment - Form 32",
+      "addedDate": "20260929",
+      "featured": false,
+      "installedSize": 4284684,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/nbme-1-32.zip",
+        "size": 2703360
+      }
+    },
+    {
+      "id": "9268",
+      "title": "NBME - Clinical Mastery Series - Surgery Self-Assessment - Form 9",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-Surgery-9.db",
+      "description": "NBME - Clinical Mastery Series - Surgery Self-Assessment - Form 9",
+      "addedDate": "20260929",
+      "featured": false,
+      "installedSize": 2074604,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/nbme-Surgery-9.zip",
+        "size": 1490163
+      }
+    },
+    {
+      "id": "9265",
+      "title": "NBME - Clinical Mastery Series - Surgery Self-Assessment - Form 8",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-Surgery-8.db",
+      "description": "NBME - Clinical Mastery Series - Surgery Self-Assessment - Form 8",
+      "addedDate": "20260929",
+      "featured": false,
+      "installedSize": 1193532,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/nbme-Surgery-8.zip",
+        "size": 642461
+      }
+    },
+    {
+      "id": "9262",
+      "title": "NBME - Clinical Mastery Series - Surgery Self-Assessment - Form 7",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-Surgery-7.db",
+      "description": "NBME - Clinical Mastery Series - Surgery Self-Assessment - Form 7",
+      "addedDate": "20260929",
+      "featured": false,
+      "installedSize": 1109388,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/nbme-Surgery-7.zip",
+        "size": 578185
+      }
+    },
+    {
+      "id": "9259",
+      "title": "NBME - Clinical Mastery Series - Surgery Self-Assessment - Form 6",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-Surgery-6.db",
+      "description": "NBME - Clinical Mastery Series - Surgery Self-Assessment - Form 6",
+      "addedDate": "20260929",
+      "featured": false,
+      "installedSize": 965548,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/nbme-Surgery-6.zip",
+        "size": 469370
+      }
+    },
+    {
+      "id": "9256",
+      "title": "NBME - Clinical Mastery Series - Surgery Self-Assessment - Form 5",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-Surgery-5.db",
+      "description": "NBME - Clinical Mastery Series - Surgery Self-Assessment - Form 5",
+      "addedDate": "20260929",
+      "featured": false,
+      "installedSize": 1102428,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/nbme-Surgery-5.zip",
+        "size": 598456
+      }
+    },
+    {
+      "id": "9253",
+      "title": "NBME - Clinical Mastery Series - Psychiatry Self-Assessment - Form 8",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-Psychiatry-8.db",
+      "description": "NBME - Clinical Mastery Series - Psychiatry Self-Assessment - Form 8",
+      "addedDate": "20260929",
+      "featured": false,
+      "installedSize": 965900,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/nbme-Psychiatry-8.zip",
+        "size": 370692
+      }
+    },
+    {
+      "id": "9251",
+      "title": "NBME - Clinical Mastery Series - Psychiatry Self-Assessment - Form 7",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-Psychiatry-7.db",
+      "description": "NBME - Clinical Mastery Series - Psychiatry Self-Assessment - Form 7",
+      "addedDate": "20260929",
+      "featured": false,
+      "installedSize": 900364,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/nbme-Psychiatry-7.zip",
+        "size": 349691
+      }
+    },
+    {
+      "id": "9248",
+      "title": "NBME - Clinical Mastery Series - Psychiatry Self-Assessment - Form 6",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-Psychiatry-6.db",
+      "description": "NBME - Clinical Mastery Series - Psychiatry Self-Assessment - Form 6",
+      "addedDate": "20260929",
+      "featured": false,
+      "installedSize": 888076,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/nbme-Psychiatry-6.zip",
+        "size": 357614
+      }
+    },
+    {
+      "id": "9245",
+      "title": "NBME - Clinical Mastery Series - Psychiatry Self-Assessment - Form 5",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-Psychiatry-5.db",
+      "description": "NBME - Clinical Mastery Series - Psychiatry Self-Assessment - Form 5",
+      "addedDate": "20260929",
+      "featured": false,
+      "installedSize": 900332,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/nbme-Psychiatry-5.zip",
+        "size": 358809
+      }
+    },
+    {
+      "id": "9242",
+      "title": "NBME - Clinical Mastery Series - Pedtiatrics Self-Assessment - Form 9",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-Pedtiatrics-9.db",
+      "description": "NBME - Clinical Mastery Series - Pedtiatrics Self-Assessment - Form 9",
+      "addedDate": "20260929",
+      "featured": false,
+      "installedSize": 2167228,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/nbme-Pedtiatrics-9.zip",
+        "size": 1554183
+      }
+    },
+    {
+      "id": "9240",
+      "title": "NBME - Clinical Mastery Series - Pediatrics Self-Assessment - Form 9",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-Pediatrics-9.db",
+      "description": "NBME - Clinical Mastery Series - Pediatrics Self-Assessment - Form 9",
+      "addedDate": "20260929",
+      "featured": false,
+      "installedSize": 2167228,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/nbme-Pediatrics-9.zip",
+        "size": 1554160
+      }
+    },
+    {
+      "id": "9238",
+      "title": "NBME - Clinical Mastery Series - Pediatrics Self-Assessment - Form 8",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-Pediatrics-8.db",
+      "description": "NBME - Clinical Mastery Series - Pediatrics Self-Assessment - Form 8",
+      "addedDate": "20260929",
+      "featured": false,
+      "installedSize": 965164,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/nbme-Pediatrics-8.zip",
+        "size": 439118
+      }
+    },
+    {
+      "id": "9235",
+      "title": "NBME - Clinical Mastery Series - Pediatrics Self-Assessment - Form 7",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-Pediatrics-7.db",
+      "description": "NBME - Clinical Mastery Series - Pediatrics Self-Assessment - Form 7",
+      "addedDate": "20260929",
+      "featured": false,
+      "installedSize": 1047980,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/nbme-Pediatrics-7.zip",
+        "size": 506649
+      }
+    },
+    {
+      "id": "9232",
+      "title": "NBME - Clinical Mastery Series - Pediatrics Self-Assessment - Form 6",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-Pediatrics-6.db",
+      "description": "NBME - Clinical Mastery Series - Pediatrics Self-Assessment - Form 6",
+      "addedDate": "20260929",
+      "featured": false,
+      "installedSize": 1091036,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/nbme-Pediatrics-6.zip",
+        "size": 550684
+      }
+    },
+    {
+      "id": "9229",
+      "title": "NBME - Clinical Mastery Series - Pediatrics Self-Assessment - Form 5",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-Pediatrics-5.db",
+      "description": "NBME - Clinical Mastery Series - Pediatrics Self-Assessment - Form 5",
+      "addedDate": "20260929",
+      "featured": false,
+      "installedSize": 1122524,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/nbme-Pediatrics-5.zip",
+        "size": 567521
+      }
+    },
+    {
+      "id": "9226",
+      "title": "NBME - Clinical Mastery Series - Medicine Self-Assessment - Form 9",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-Medicine-9.db",
+      "description": "NBME - Clinical Mastery Series - Medicine Self-Assessment - Form 9",
+      "addedDate": "20260929",
+      "featured": false,
+      "installedSize": 1105932,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/nbme-Medicine-9.zip",
+        "size": 537016
+      }
+    },
+    {
+      "id": "9224",
+      "title": "NBME - Clinical Mastery Series - Medicine Self-Assessment - Form 8",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-Medicine-8.db",
+      "description": "NBME - Clinical Mastery Series - Medicine Self-Assessment - Form 8",
+      "addedDate": "20260929",
+      "featured": false,
+      "installedSize": 1232444,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/nbme-Medicine-8.zip",
+        "size": 671035
+      }
+    },
+    {
+      "id": "9221",
+      "title": "NBME - Clinical Mastery Series - Medicine Self-Assessment - Form 7",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-Medicine-7.db",
+      "description": "NBME - Clinical Mastery Series - Medicine Self-Assessment - Form 7",
+      "addedDate": "20260929",
+      "featured": false,
+      "installedSize": 1256780,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/nbme-Medicine-7.zip",
+        "size": 689503
+      }
+    },
+    {
+      "id": "9218",
+      "title": "NBME - Clinical Mastery Series - Medicine Self-Assessment - Form 6",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-Medicine-6.db",
+      "description": "NBME - Clinical Mastery Series - Medicine Self-Assessment - Form 6",
+      "addedDate": "20260929",
+      "featured": false,
+      "installedSize": 858524,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/nbme-Medicine-6.zip",
+        "size": 523326
+      }
+    },
+    {
+      "id": "9215",
+      "title": "NBME - Clinical Mastery Series - Medicine Self-Assessment - Form 5",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-Medicine-5.db",
+      "description": "NBME - Clinical Mastery Series - Medicine Self-Assessment - Form 5",
+      "addedDate": "20260929",
+      "featured": false,
+      "installedSize": 1082956,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/nbme-Medicine-5.zip",
+        "size": 616516
+      }
+    },
+    {
+      "id": "9212",
+      "title": "NBME - Clinical Mastery Series - Medicine Self-Assessment - Form 10",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-Medicine-10.db",
+      "description": "NBME - Clinical Mastery Series - Medicine Self-Assessment - Form 10",
+      "addedDate": "20260929",
+      "featured": false,
+      "installedSize": 1093244,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/nbme-Medicine-10.zip",
+        "size": 534765
+      }
+    },
+    {
+      "id": "9208",
+      "title": "NBME - Clinical Mastery Series - Family Medicine Self-Assessment - Form 5",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-Family Medicine-5.db",
+      "description": "NBME - Clinical Mastery Series - Family Medicine Self-Assessment - Form 5",
+      "addedDate": "20260929",
+      "featured": false,
+      "installedSize": 1138700,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/nbme-Family%20Medicine-5.zip",
+        "size": 558665
+      }
+    },
+    {
+      "id": "9205",
+      "title": "NBME - Clinical Mastery Series - Family Medicine Self-Assessment - Form 4",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-Family Medicine-4.db",
+      "description": "NBME - Clinical Mastery Series - Family Medicine Self-Assessment - Form 4",
+      "addedDate": "20260929",
+      "featured": false,
+      "installedSize": 1350972,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/nbme-Family%20Medicine-4.zip",
+        "size": 720732
+      }
+    },
+    {
+      "id": "9202",
+      "title": "NBME - Clinical Mastery Series - Family Medicine Self-Assessment - Form 3",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-Family Medicine-3.db",
+      "description": "NBME - Clinical Mastery Series - Family Medicine Self-Assessment - Form 3",
+      "addedDate": "20260929",
+      "featured": false,
+      "installedSize": 1220636,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/nbme-Family%20Medicine-3.zip",
+        "size": 685117
+      }
+    },
+    {
+      "id": "9199",
+      "title": "NBME - Clinical Mastery Series - Family Medicine Self-Assessment - Form 2",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-Family Medicine-2.db",
+      "description": "NBME - Clinical Mastery Series - Family Medicine Self-Assessment - Form 2",
+      "addedDate": "20260929",
+      "featured": false,
+      "installedSize": 1116812,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/nbme-Family%20Medicine-2.zip",
+        "size": 608407
+      }
+    },
+    {
+      "id": "9195",
+      "title": "NBME - Clinical Mastery Series - Emergency Medicine Self-Assessment - Form 3",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-Emergency Medicine-3.db",
+      "description": "NBME - Clinical Mastery Series - Emergency Medicine Self-Assessment - Form 3",
+      "addedDate": "20260929",
+      "featured": false,
+      "installedSize": 1802620,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/nbme-Emergency%20Medicine-3.zip",
+        "size": 1163410
+      }
+    },
+    {
+      "id": "9192",
+      "title": "NBME - Clinical Mastery Series - Emergency Medicine Self-Assessment - Form 2",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-Emergency Medicine-2.db",
+      "description": "NBME - Clinical Mastery Series - Emergency Medicine Self-Assessment - Form 2",
+      "addedDate": "20260929",
+      "featured": false,
+      "installedSize": 1827356,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/nbme-Emergency%20Medicine-2.zip",
+        "size": 1299222
+      }
+    },
+    {
+      "id": "9189",
+      "title": "NBME - Clinical Mastery Series - Emergency Medicine Self-Assessment - Form 1",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-Emergency Medicine-1.db",
+      "description": "NBME - Clinical Mastery Series - Emergency Medicine Self-Assessment - Form 1",
+      "addedDate": "20260929",
+      "featured": false,
+      "installedSize": 2033404,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/nbme-Emergency%20Medicine-1.zip",
+        "size": 1465520
+      }
+    },
+    {
+      "id": "9186",
+      "title": "NBME - Clinical Mastery Series - Clinical Obstetrics & Gynecology Self-Assessment - Form 9",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-Ob-Gyn-9.db",
+      "description": "NBME - Clinical Mastery Series - Clinical Obstetrics & Gynecology Self-Assessment - Form 9",
+      "addedDate": "20260929",
+      "featured": false,
+      "installedSize": 1647452,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/nbme-Ob-Gyn-9.zip",
+        "size": 1108273
+      }
+    },
+    {
+      "id": "9184",
+      "title": "NBME - Clinical Mastery Series - Clinical Obstetrics & Gynecology Self-Assessment - Form 8",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-Ob-Gyn-8.db",
+      "description": "NBME - Clinical Mastery Series - Clinical Obstetrics & Gynecology Self-Assessment - Form 8",
+      "addedDate": "20260929",
+      "featured": false,
+      "installedSize": 1055388,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/nbme-Ob-Gyn-8.zip",
+        "size": 460634
+      }
+    },
+    {
+      "id": "9181",
+      "title": "NBME - Clinical Mastery Series - Clinical Obstetrics & Gynecology Self-Assessment - Form 7",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-Ob-Gyn-7.db",
+      "description": "NBME - Clinical Mastery Series - Clinical Obstetrics & Gynecology Self-Assessment - Form 7",
+      "addedDate": "20260929",
+      "featured": false,
+      "installedSize": 1096780,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/nbme-Ob-Gyn-7.zip",
+        "size": 516291
+      }
+    },
+    {
+      "id": "9178",
+      "title": "NBME - Clinical Mastery Series - Clinical Obstetrics & Gynecology Self-Assessment - Form 6",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-Ob-Gyn-6.db",
+      "description": "NBME - Clinical Mastery Series - Clinical Obstetrics & Gynecology Self-Assessment - Form 6",
+      "addedDate": "20260929",
+      "featured": false,
+      "installedSize": 907964,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/nbme-Ob-Gyn-6.zip",
+        "size": 388967
+      }
+    },
+    {
+      "id": "9175",
+      "title": "NBME - Clinical Mastery Series - Clinical Obstetrics & Gynecology Self-Assessment - Form 5",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-Ob-Gyn-5.db",
+      "description": "NBME - Clinical Mastery Series - Clinical Obstetrics & Gynecology Self-Assessment - Form 5",
+      "addedDate": "20260929",
+      "featured": false,
+      "installedSize": 941292,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/nbme-Ob-Gyn-5.zip",
+        "size": 416693
+      }
+    },
+    {
+      "id": "9172",
+      "title": "NBME - Clinical Mastery Series - Clinical Obstetrics & Gynecology Self-Assessment - Form 10",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-Ob-Gyn-10.db",
+      "description": "NBME - Clinical Mastery Series - Clinical Obstetrics & Gynecology Self-Assessment - Form 10",
+      "addedDate": "20260929",
+      "featured": false,
+      "installedSize": 1373740,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/nbme-Ob-Gyn-10.zip",
+        "size": 875368
+      }
+    },
+    {
+      "id": "9170",
+      "title": "NBME - Clinical Mastery Series - Clinical Neurology Self-Assessment - Form 9",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-Neurology-9.db",
+      "description": "NBME - Clinical Mastery Series - Clinical Neurology Self-Assessment - Form 9",
+      "addedDate": "20260929",
+      "featured": false,
+      "installedSize": 1129980,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/nbme-Neurology-9.zip",
+        "size": 514150
+      }
     }
   ]
 }
