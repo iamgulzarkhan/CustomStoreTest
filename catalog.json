@@ -193,6 +193,54 @@
         "url": "https://pub-6f9986b5bc434c89b0052b46d7a3984d.r2.dev/amboss-2025.zip",
         "size": 1330256233
       }
+    },
+    {
+      "id": "8029",
+      "title": "Amboss QBank - USMLE Step 1 - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-USMLE Step 12025.db",
+      "description": "",
+      "addedDate": "2026-05-21",
+      "featured": false,
+      "installedSize": 164285724,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/ambossqb-USMLE%20Step%2012025.zip",
+        "size": 142910670
+      }
+    },
+    {
+      "id": "8030",
+      "title": "Amboss QBank - USMLE Step 2 CK - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-USMLE Step 2 CK2025.db",
+      "description": "",
+      "addedDate": "2026-05-21",
+      "featured": false,
+      "installedSize": 163572719,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/ambossqb-USMLE%20Step%202%20CK2025.zip",
+        "size": 132723034
+      }
+    },
+    {
+      "id": "8031",
+      "title": "Amboss QBank - USMLE Step 3 - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-USMLE Step 32025.db",
+      "description": "",
+      "addedDate": "2026-05-21",
+      "featured": false,
+      "installedSize": 113031452,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/ambossqb-USMLE%20Step%2032025.zip",
+        "size": 93454877
+      }
     }
   ]
 }
