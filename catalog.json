@@ -241,6 +241,38 @@
         "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/ambossqb-USMLE%20Step%2032025.zip",
         "size": 93454877
       }
+    },
+    {
+      "id": "9291",
+      "title": "NBME - Clinical Mastery Series - Clinical Neurology Self-Assessment - Form 10",
+      "version": "202611",
+      "type": "uworld",
+      "databaseName": "nbme-Neurology-10.db",
+      "description": "NBME - Clinical Mastery Series - Clinical Neurology Self-Assessment - Form 10",
+      "addedDate": "20261027",
+      "featured": false,
+      "installedSize": 1342956,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/nbme-Neurology-10.zip",
+        "size": 806627
+      }
+    },
+    {
+      "id": "9292",
+      "title": "NBME - Clinical Mastery Series - Clinical Neurology Self-Assessment - Form 11",
+      "version": "202611",
+      "type": "uworld",
+      "databaseName": "nbme-Neurology-11.db",
+      "description": "NBME - Clinical Mastery Series - Clinical Neurology Self-Assessment - Form 11",
+      "addedDate": "20261027",
+      "featured": false,
+      "installedSize": 1115404,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/nbme-Neurology-11.zip",
+        "size": 542866
+      }
     }
   ]
 }
