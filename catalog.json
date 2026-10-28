@@ -1009,6 +1009,326 @@
         "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/nbme-Neurology-9.zip",
         "size": 514150
       }
+    },
+    {
+      "id": "9168",
+      "title": "NBME - Clinical Mastery Series - Clinical Neurology Self-Assessment - Form 8",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-Neurology-8.db",
+      "description": "NBME - Clinical Mastery Series - Clinical Neurology Self-Assessment - Form 8",
+      "addedDate": "20260929",
+      "featured": false,
+      "installedSize": 1175996,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/nbme-Neurology-8.zip",
+        "size": 641441
+      }
+    },
+    {
+      "id": "9165",
+      "title": "NBME - Clinical Mastery Series - Clinical Neurology Self-Assessment - Form 7",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-Neurology-7.db",
+      "description": "NBME - Clinical Mastery Series - Clinical Neurology Self-Assessment - Form 7",
+      "addedDate": "20260929",
+      "featured": false,
+      "installedSize": 1009180,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/nbme-Neurology-7.zip",
+        "size": 432511
+      }
+    },
+    {
+      "id": "9162",
+      "title": "NBME - Clinical Mastery Series - Clinical Neurology Self-Assessment - Form 6",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-Neurology-6.db",
+      "description": "NBME - Clinical Mastery Series - Clinical Neurology Self-Assessment - Form 6",
+      "addedDate": "20260929",
+      "featured": false,
+      "installedSize": 1020716,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/nbme-Neurology-6.zip",
+        "size": 453602
+      }
+    },
+    {
+      "id": "9159",
+      "title": "NBME - Clinical Mastery Series - Clinical Neurology Self-Assessment - Form 5",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-Neurology-5.db",
+      "description": "NBME - Clinical Mastery Series - Clinical Neurology Self-Assessment - Form 5",
+      "addedDate": "20260929",
+      "featured": false,
+      "installedSize": 1113804,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/nbme-Neurology-5.zip",
+        "size": 529749
+      }
+    },
+    {
+      "id": "8395",
+      "title": "NBME - Comprehensive Clinical Science Self-Assessment - Form 9",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-2-9.db",
+      "description": "NBME - Comprehensive Clinical Science Self-Assessment - Form 9",
+      "addedDate": "20260929",
+      "featured": false,
+      "installedSize": 3864604,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/nbme-2-9.zip",
+        "size": 2114793
+      }
+    },
+    {
+      "id": "8391",
+      "title": "NBME - Comprehensive Clinical Science Self-Assessment - Form 12",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-2-12.db",
+      "description": "NBME - Comprehensive Clinical Science Self-Assessment - Form 12",
+      "addedDate": "20260929",
+      "featured": false,
+      "installedSize": 4063068,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/nbme-2-12.zip",
+        "size": 2305767
+      }
+    },
+    {
+      "id": "8390",
+      "title": "NBME - Comprehensive Clinical Science Self-Assessment - Form 11",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-2-11.db",
+      "description": "NBME - Comprehensive Clinical Science Self-Assessment - Form 11",
+      "addedDate": "20260929",
+      "featured": false,
+      "installedSize": 3640748,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/nbme-2-11.zip",
+        "size": 1965510
+      }
+    },
+    {
+      "id": "8389",
+      "title": "NBME - Comprehensive Clinical Science Self-Assessment - Form 10",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-2-10.db",
+      "description": "NBME - Comprehensive Clinical Science Self-Assessment - Form 10",
+      "addedDate": "20260929",
+      "featured": false,
+      "installedSize": 3893132,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/nbme-2-10.zip",
+        "size": 2241389
+      }
+    },
+    {
+      "id": "8387",
+      "title": "NBME - Comprehensive Basic Science Self-Assessment - Form 31",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-1-31.db",
+      "description": "NBME - Comprehensive Basic Science Self-Assessment - Form 31",
+      "addedDate": "20260929",
+      "featured": false,
+      "installedSize": 4420988,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/nbme-1-31.zip",
+        "size": 2768269
+      }
+    },
+    {
+      "id": "8386",
+      "title": "NBME - Comprehensive Basic Science Self-Assessment - Form 30",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-1-30.db",
+      "description": "NBME - Comprehensive Basic Science Self-Assessment - Form 30",
+      "addedDate": "20260929",
+      "featured": false,
+      "installedSize": 4270156,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/nbme-1-30.zip",
+        "size": 2736933
+      }
+    },
+    {
+      "id": "8385",
+      "title": "NBME - Comprehensive Basic Science Self-Assessment - Form 29",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-1-29.db",
+      "description": "NBME - Comprehensive Basic Science Self-Assessment - Form 29",
+      "addedDate": "20260929",
+      "featured": false,
+      "installedSize": 4542924,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/nbme-1-29.zip",
+        "size": 3001774
+      }
+    },
+    {
+      "id": "8384",
+      "title": "NBME - Comprehensive Basic Science Self-Assessment - Form 28",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-1-28.db",
+      "description": "NBME - Comprehensive Basic Science Self-Assessment - Form 28",
+      "addedDate": "20260929",
+      "featured": false,
+      "installedSize": 4290124,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/nbme-1-28.zip",
+        "size": 2741801
+      }
+    },
+    {
+      "id": "8383",
+      "title": "NBME - Comprehensive Basic Science Self-Assessment - Form 27",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-1-27.db",
+      "description": "NBME - Comprehensive Basic Science Self-Assessment - Form 27",
+      "addedDate": "20260929",
+      "featured": false,
+      "installedSize": 4207932,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/nbme-1-27.zip",
+        "size": 2628338
+      }
+    },
+    {
+      "id": "8382",
+      "title": "NBME - Comprehensive Basic Science Self-Assessment - Form 26",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-1-26.db",
+      "description": "NBME - Comprehensive Basic Science Self-Assessment - Form 26",
+      "addedDate": "20260929",
+      "featured": false,
+      "installedSize": 4453212,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/nbme-1-26.zip",
+        "size": 2877513
+      }
+    },
+    {
+      "id": "8381",
+      "title": "NBME - Comprehensive Basic Science Self-Assessment - Form 25",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-1-25.db",
+      "description": "NBME - Comprehensive Basic Science Self-Assessment - Form 25",
+      "addedDate": "20260929",
+      "featured": false,
+      "installedSize": 4272572,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/nbme-1-25.zip",
+        "size": 2705243
+      }
+    },
+    {
+      "id": "8393",
+      "title": "NBME - Comprehensive Clinical Science Self-Assessment - Form 14",
+      "version": "202404",
+      "type": "uworld",
+      "databaseName": "nbme-2-14.db",
+      "description": "NBME - Comprehensive Clinical Science Self-Assessment - Form 14",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 4549420,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/nbme-2-14.zip",
+        "size": 2588501
+      }
+    },
+    {
+      "id": "8392",
+      "title": "NBME - Comprehensive Clinical Science Self-Assessment - Form 13",
+      "version": "202404",
+      "type": "uworld",
+      "databaseName": "nbme-2-13.db",
+      "description": "NBME - Comprehensive Clinical Science Self-Assessment - Form 13",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 4731708,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/nbme-2-13.zip",
+        "size": 2720960
+      }
+    },
+    {
+      "id": "6845",
+      "title": "NBME - Comprehensive Basic Science Self-Assessment - Form 24",
+      "version": "202306",
+      "type": "uworld",
+      "databaseName": "nbme-1-24.db",
+      "description": "NBME - Comprehensive Basic Science Self-Assessment - Form 24",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 1988684,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/nbme-1-24.zip",
+        "size": 1498305
+      }
+    },
+    {
+      "id": "6844",
+      "title": "NBME - Comprehensive Basic Science Self-Assessment - Form 23",
+      "version": "202306",
+      "type": "uworld",
+      "databaseName": "nbme-1-23.db",
+      "description": "NBME - Comprehensive Basic Science Self-Assessment - Form 23",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 1910844,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/nbme-1-23.zip",
+        "size": 1433535
+      }
+    },
+    {
+      "id": "6843",
+      "title": "NBME - Comprehensive Basic Science Self-Assessment - Form 21",
+      "version": "202306",
+      "type": "uworld",
+      "databaseName": "nbme-1-21.db",
+      "description": "NBME - Comprehensive Basic Science Self-Assessment - Form 21",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 1961692,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/nbme-1-21.zip",
+        "size": 1485563
+      }
     }
   ]
 }
