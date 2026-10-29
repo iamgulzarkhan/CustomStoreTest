@@ -4673,6 +4673,262 @@
         "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/mehlman-9-2025.zip",
         "size": 181407740
       }
+    },
+    {
+      "id": "8278",
+      "title": "CanadaQBank - QBank for the USMLE STEP 2 CK - 2026",
+      "version": "202611",
+      "type": "uworld",
+      "databaseName": "cqb-usmlestep2-2026.db",
+      "description": "CanadaQBank - QBank for the USMLE STEP 2 CK - 2026",
+      "addedDate": "20261027",
+      "featured": false,
+      "installedSize": 28619197,
+      "icon": "Icons/cqb.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/cqb-usmlestep2-2026.zip",
+        "size": 16173222
+      }
+    },
+    {
+      "id": "8275",
+      "title": "CanadaQBank - QBank for the USMLE STEP 1 - 2026",
+      "version": "202611",
+      "type": "uworld",
+      "databaseName": "cqb-usmlestep1-2026.db",
+      "description": "CanadaQBank - QBank for the USMLE STEP 1 - 2026",
+      "addedDate": "20261027",
+      "featured": false,
+      "installedSize": 23803725,
+      "icon": "Icons/cqb.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/cqb-usmlestep1-2026.zip",
+        "size": 12596744
+      }
+    },
+    {
+      "id": "8272",
+      "title": "CanadaQBank - QBank for the SMLE - 2026",
+      "version": "202611",
+      "type": "uworld",
+      "databaseName": "cqb-smle-2026.db",
+      "description": "CanadaQBank - QBank for the SMLE - 2026",
+      "addedDate": "20261027",
+      "featured": false,
+      "installedSize": 29806493,
+      "icon": "Icons/cqb.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/cqb-smle-2026.zip",
+        "size": 16090007
+      }
+    },
+    {
+      "id": "8269",
+      "title": "CanadaQBank - QBank for the RCSFE - 2026",
+      "version": "202611",
+      "type": "uworld",
+      "databaseName": "cqb-rcsfe-2026.db",
+      "description": "CanadaQBank - QBank for the RCSFE - 2026",
+      "addedDate": "20261027",
+      "featured": false,
+      "installedSize": 8386509,
+      "icon": "Icons/cqb.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/cqb-rcsfe-2026.zip",
+        "size": 3903564
+      }
+    },
+    {
+      "id": "8266",
+      "title": "CanadaQBank - QBank for the PLAB Part 1 - 2026",
+      "version": "202611",
+      "type": "uworld",
+      "databaseName": "cqb-plabpart1-2026.db",
+      "description": "CanadaQBank - QBank for the PLAB Part 1 - 2026",
+      "addedDate": "20261027",
+      "featured": false,
+      "installedSize": 23429805,
+      "icon": "Icons/cqb.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/cqb-plabpart1-2026.zip",
+        "size": 12967524
+      }
+    },
+    {
+      "id": "8263",
+      "title": "CanadaQBank - QBank for the PEBC QE Part 1 - 2026",
+      "version": "202611",
+      "type": "uworld",
+      "databaseName": "cqb-pebcqe-2026.db",
+      "description": "CanadaQBank - QBank for the PEBC QE Part 1 - 2026",
+      "addedDate": "20261027",
+      "featured": false,
+      "installedSize": 5646925,
+      "icon": "Icons/cqb.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/cqb-pebcqe-2026.zip",
+        "size": 2685757
+      }
+    },
+    {
+      "id": "8261",
+      "title": "CanadaQBank - QBank for the PEBC EE - 2026",
+      "version": "202611",
+      "type": "uworld",
+      "databaseName": "cqb-pebcee-2026.db",
+      "description": "CanadaQBank - QBank for the PEBC EE - 2026",
+      "addedDate": "20261027",
+      "featured": false,
+      "installedSize": 20851517,
+      "icon": "Icons/cqb.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/cqb-pebcee-2026.zip",
+        "size": 13066806
+      }
+    },
+    {
+      "id": "8259",
+      "title": "CanadaQBank - QBank for the MCCQE Part 1 - 2026",
+      "version": "202611",
+      "type": "uworld",
+      "databaseName": "cqb-mccque1-2026.db",
+      "description": "CanadaQBank - QBank for the MCCQE Part 1 - 2026",
+      "addedDate": "20261027",
+      "featured": false,
+      "installedSize": 48990477,
+      "icon": "Icons/cqb.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/cqb-mccque1-2026.zip",
+        "size": 30934801
+      }
+    },
+    {
+      "id": "8256",
+      "title": "CanadaQBank - QBank for the AMC MCQ - 2026",
+      "version": "202611",
+      "type": "uworld",
+      "databaseName": "cqb-amcmcq-2026.db",
+      "description": "CanadaQBank - QBank for the AMC MCQ - 2026",
+      "addedDate": "20261027",
+      "featured": false,
+      "installedSize": 30930621,
+      "icon": "Icons/cqb.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/cqb-amcmcq-2026.zip",
+        "size": 19494749
+      }
+    },
+    {
+      "id": "41142",
+      "title": "CanadaQBank - QBank for the USMLE Step 2 CK - 2020",
+      "version": "202003",
+      "type": "uworld",
+      "databaseName": "cqb-usmle2ck-2020.db",
+      "description": "CanadaQBank - QBank for the USMLE Step 2 CK - 2020",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 23940141,
+      "icon": "Icons/cqb.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/cqb-usmle2ck-2020.zip",
+        "size": 11491563
+      }
+    },
+    {
+      "id": "41141",
+      "title": "CanadaQBank - QBank for the USMLE Step 1 - 2020",
+      "version": "202003",
+      "type": "uworld",
+      "databaseName": "cqb-usmle1-2020.db",
+      "description": "CanadaQBank - QBank for the USMLE Step 1 - 2020",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 20861997,
+      "icon": "Icons/cqb.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/cqb-usmle1-2020.zip",
+        "size": 9995716
+      }
+    },
+    {
+      "id": "41140",
+      "title": "CanadaQBank - QBank for the SMLE - 2020",
+      "version": "202003",
+      "type": "uworld",
+      "databaseName": "cqb-smle-2020.db",
+      "description": "CanadaQBank - QBank for the SMLE - 2020",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 25494557,
+      "icon": "Icons/cqb.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/cqb-smle-2020.zip",
+        "size": 12144261
+      }
+    },
+    {
+      "id": "41139",
+      "title": "CanadaQBank - QBank for the RCSFE - 2020",
+      "version": "202003",
+      "type": "uworld",
+      "databaseName": "cqb-rcsfe-2020.db",
+      "description": "CanadaQBank - QBank for the RCSFE - 2020",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 5815325,
+      "icon": "Icons/cqb.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/cqb-rcsfe-2020.zip",
+        "size": 2190870
+      }
+    },
+    {
+      "id": "41138",
+      "title": "CanadaQBank - QBank for the PLAB 1 - 2020",
+      "version": "202003",
+      "type": "uworld",
+      "databaseName": "cqb-plab-2020.db",
+      "description": "CanadaQBank - QBank for the PLAB 1 - 2020",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 18526237,
+      "icon": "Icons/cqb.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/cqb-plab-2020.zip",
+        "size": 8897944
+      }
+    },
+    {
+      "id": "41137",
+      "title": "CanadaQBank - QBank for the MCCQE 1 MCQ - 2020",
+      "version": "202003",
+      "type": "uworld",
+      "databaseName": "cqb-mccqe1-2020.db",
+      "description": "CanadaQBank - QBank for the MCCQE 1 MCQ - 2020",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 31226925,
+      "icon": "Icons/cqb.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/cqb-mccqe1-2020.zip",
+        "size": 13969391
+      }
+    },
+    {
+      "id": "41136",
+      "title": "CanadaQBank - QBank for the AMC CAT - 2020",
+      "version": "202003",
+      "type": "uworld",
+      "databaseName": "cqb-amcmcq-2020.db",
+      "description": "CanadaQBank - QBank for the AMC CAT - 2020",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 21091357,
+      "icon": "Icons/cqb.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/cqb-amcmcq-2020.zip",
+        "size": 10029550
+      }
     }
   ]
 }
