@@ -1,0 +1,4934 @@
+{
+  "schemaVersion": 1,
+  "storeName": "Gulzar's Handywork",
+  "items": [
+    {
+      "id": "clinical-2026-sept",
+      "title": "UWorld Clinical QBANK - September 2026",
+      "version": "202611",
+      "type": "uworld",
+      "databaseName": "uworldCLINICAL-2026-sept.db",
+      "description": "UWorld Clinical QBank - September 2026",
+      "addedDate": "20260922",
+      "featured": true,
+      "installedSize": 462277090,
+      "icon": "Icons/uworld.png",
+      "download": {
+        "url": "https://pub-6f9986b5bc434c89b0052b46d7a3984d.r2.dev/CLINICAL-2026-sept.zip",
+        "size": 446955239
+      }
+    },
+    {
+      "id": "imduptodate2026-10-10",
+      "title": "Uptodate",
+      "version": "20261010",
+      "type": "uptodate",
+      "databaseName": "uptodate",
+      "description": "Uptodate (offline) - 20261010",
+      "addedDate": "20261010",
+      "featured": true,
+      "installedSize": 4498961246,
+      "icon": "Icons/uptodate.png",
+      "download": {
+        "url": "https://pub-6f9986b5bc434c89b0052b46d7a3984d.r2.dev/imduptodate2026-10-10.zip",
+        "size": 2936382143
+      }
+    },
+    {
+      "id": "internal-2026-sept",
+      "title": "UWorld Internal Medicine QBank (ABIM) - September 2026",
+      "version": "202611",
+      "type": "uworld",
+      "databaseName": "uworldINTERNAL-2026-sept.db",
+      "description": "UWorld Internal Medicine QBank (ABIM) - September 2026",
+      "addedDate": "20260922",
+      "featured": true,
+      "installedSize": 110000000,
+      "icon": "Icons/uworld.png",
+      "download": {
+        "url": "https://pub-6f9986b5bc434c89b0052b46d7a3984d.r2.dev/INTERNAL-2026-sept.zip",
+        "size": 104926334
+      }
+    },
+    {
+      "id": "pm-1-qbank-2025",
+      "title": "PassMedicine - MRCP Part 1 QBank - 2025",
+      "version": "202512",
+      "type": "uworld",
+      "databaseName": "pm-1-qbank-2025.db",
+      "description": "PassMedicine MRCP Part 1 QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 85218699,
+      "icon": "Icons/passmedicine.jpg",
+      "download": {
+        "url": "https://pub-6f9986b5bc434c89b0052b46d7a3984d.r2.dev/pm-1-qbank-2025.zip",
+        "size": 53177681
+      }
+    },
+    {
+      "id": "step1-2026-sept",
+      "title": "UWorld USMLE STEP1 QBank - September 2026",
+      "version": "202611",
+      "type": "uworld",
+      "databaseName": "uworldSTEP1-2026-sept.db",
+      "description": "UWorld USMLE STEP1 QBank - September 2026",
+      "addedDate": "20260922",
+      "featured": true,
+      "installedSize": 1145040307,
+      "icon": "Icons/uworld.png",
+      "download": {
+        "url": "https://pub-6f9986b5bc434c89b0052b46d7a3984d.r2.dev/STEP1-2026-sept.zip",
+        "size": 1121410925
+      }
+    },
+    {
+      "id": "pm-1-text-2025",
+      "title": "PassMedicine - MRCP Part 1 Textbook - 2025",
+      "version": "202511",
+      "type": "epub",
+      "databaseName": "pm-1-text-2025.db",
+      "description": "PassMedicine MRCP Part 1 Textbook - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 110300073,
+      "icon": "Icons/passmedicine.jpg",
+      "download": {
+        "url": "https://pub-6f9986b5bc434c89b0052b46d7a3984d.r2.dev/pm-1-text-2025.zip",
+        "size": 94670023
+      }
+    },
+    {
+      "id": "step2-2026-sept",
+      "title": "UWorld USMLE STEP2 QBank - September 2026",
+      "version": "202611",
+      "type": "uworld",
+      "databaseName": "uworldSTEP2-2026-sept.db",
+      "description": "UWorld USMLE STEP2 QBank - September 2026",
+      "addedDate": "20260922",
+      "featured": true,
+      "installedSize": 341170525,
+      "icon": "Icons/uworld.png",
+      "download": {
+        "url": "https://pub-6f9986b5bc434c89b0052b46d7a3984d.r2.dev/STEP2-2026-sept.zip",
+        "size": 308311502
+      }
+    },
+    {
+      "id": "pm-6-qbank-2025",
+      "title": "PassMedicine - MRCP Part 2 Written QBank - 2025",
+      "version": "202512",
+      "type": "uworld",
+      "databaseName": "pm-6-qbank-2025.db",
+      "description": "PassMedicine MRCP Part 2 Written QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 64823227,
+      "icon": "Icons/passmedicine.jpg",
+      "download": {
+        "url": "https://pub-6f9986b5bc434c89b0052b46d7a3984d.r2.dev/pm-6-qbank-2025.zip",
+        "size": 45889108
+      }
+    },
+    {
+      "id": "pm-6-text-2025",
+      "title": "PassMedicine - MRCP Part 2 Written Textbook - 2025",
+      "version": "202511",
+      "type": "epub",
+      "databaseName": "pm-6-text-2025.db",
+      "description": "PassMedicine MRCP Part 2 Written Textbook - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 111242738,
+      "icon": "Icons/passmedicine.jpg",
+      "download": {
+        "url": "https://pub-6f9986b5bc434c89b0052b46d7a3984d.r2.dev/pm-6-text-2025.zip",
+        "size": 98772389
+      }
+    },
+    {
+      "id": "step3-2026-sept",
+      "title": "UWorld USMLE STEP3 QBank - September 2026",
+      "version": "202611",
+      "type": "uworld",
+      "databaseName": "uworldSTEP3-2026-sept.db",
+      "description": "UWorld USMLE STEP3 QBank - September 2026",
+      "addedDate": "20260922",
+      "featured": true,
+      "installedSize": 437330979,
+      "icon": "Icons/uworld.png",
+      "download": {
+        "url": "https://pub-6f9986b5bc434c89b0052b46d7a3984d.r2.dev/STEP3-2026-sept.zip",
+        "size": 421213584
+      }
+    },
+    {
+      "id": "uworldstep1library-september-2026",
+      "title": "UWORLD Medical Library - September 2026",
+      "version": "202610",
+      "type": "epub",
+      "databaseName": "uworldstep1library-September-2026.db",
+      "description": "UWORLD Medical Library - September 2026",
+      "addedDate": "20260923",
+      "featured": true,
+      "installedSize": 1167376114,
+      "icon": "Icons/uworld.png",
+      "download": {
+        "url": "https://pub-6f9986b5bc434c89b0052b46d7a3984d.r2.dev/uworldstep1library-September-2026.zip",
+        "size": 944408003
+      }
+    },
+    {
+      "id": "amboss-2025",
+      "title": "Amboss USMLE Library - 2025",
+      "version": "202512",
+      "type": "epub",
+      "databaseName": "amboss-2025.db",
+      "description": "Amboss USMLE Library - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 1824148493,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://pub-6f9986b5bc434c89b0052b46d7a3984d.r2.dev/amboss-2025.zip",
+        "size": 1330256233
+      }
+    },
+    {
+      "id": "8029",
+      "title": "Amboss QBank - USMLE Step 1 - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-USMLE Step 12025.db",
+      "description": "Amboss QBank - USMLE Step 1 - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 164285724,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-USMLE%20Step%2012025.zip",
+        "size": 142910670
+      }
+    },
+    {
+      "id": "8030",
+      "title": "Amboss QBank - USMLE Step 2 CK - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-USMLE Step 2 CK2025.db",
+      "description": "Amboss QBank - USMLE Step 2 CK - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 163572719,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-USMLE%20Step%202%20CK2025.zip",
+        "size": 132723034
+      }
+    },
+    {
+      "id": "8031",
+      "title": "Amboss QBank - USMLE Step 3 - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-USMLE Step 32025.db",
+      "description": "Amboss QBank - USMLE Step 3 - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 113031452,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-USMLE%20Step%2032025.zip",
+        "size": 93454877
+      }
+    },
+    {
+      "id": "9291",
+      "title": "NBME - Clinical Mastery Series - Clinical Neurology Self-Assessment - Form 10",
+      "version": "202611",
+      "type": "uworld",
+      "databaseName": "nbme-Neurology-10.db",
+      "description": "NBME - Clinical Mastery Series - Clinical Neurology Self-Assessment - Form 10",
+      "addedDate": "20251223",
+      "featured": false,
+      "installedSize": 1342956,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/nbme-Neurology-10.zip",
+        "size": 806627
+      }
+    },
+    {
+      "id": "9292",
+      "title": "NBME - Clinical Mastery Series - Clinical Neurology Self-Assessment - Form 11",
+      "version": "202611",
+      "type": "uworld",
+      "databaseName": "nbme-Neurology-11.db",
+      "description": "NBME - Clinical Mastery Series - Clinical Neurology Self-Assessment - Form 11",
+      "addedDate": "20251222",
+      "featured": false,
+      "installedSize": 1115404,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/nbme-Neurology-11.zip",
+        "size": 542866
+      }
+    },
+    {
+      "id": "9210",
+      "title": "NBME - Clinical Mastery Series - Family Medicine Self-Assessment - Form 7",
+      "version": "202611",
+      "type": "uworld",
+      "databaseName": "nbme-Family Medicine-7.db",
+      "description": "NBME - Clinical Mastery Series - Family Medicine Self-Assessment - Form 7",
+      "addedDate": "20251023",
+      "featured": false,
+      "installedSize": 2043196,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/nbme-Family%20Medicine-7.zip",
+        "size": 1510351
+      }
+    },
+    {
+      "id": "9209",
+      "title": "NBME - Clinical Mastery Series - Family Medicine Self-Assessment - Form 6",
+      "version": "202611",
+      "type": "uworld",
+      "databaseName": "nbme-Family Medicine-6.db",
+      "description": "NBME - Clinical Mastery Series - Family Medicine Self-Assessment - Form 6",
+      "addedDate": "20251024",
+      "featured": false,
+      "installedSize": 2476620,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/nbme-Family%20Medicine-6.zip",
+        "size": 1918648
+      }
+    },
+    {
+      "id": "9196",
+      "title": "NBME - Clinical Mastery Series - Emergency Medicine Self-Assessment - Form 4",
+      "version": "202611",
+      "type": "uworld",
+      "databaseName": "nbme-Emergency Medicine-4.db",
+      "description": "NBME - Clinical Mastery Series - Emergency Medicine Self-Assessment - Form 4",
+      "addedDate": "20251125",
+      "featured": false,
+      "installedSize": 2837580,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/nbme-Emergency%20Medicine-4.zip",
+        "size": 2247366
+      }
+    },
+    {
+      "id": "9290",
+      "title": "NBME - Comprehensive Clinical Science Self-Assessment - Form 16",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-2-16.db",
+      "description": "NBME - Comprehensive Clinical Science Self-Assessment - Form 16",
+      "addedDate": "20260721",
+      "featured": false,
+      "installedSize": 4698252,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/nbme-2-16.zip",
+        "size": 2956791
+      }
+    },
+    {
+      "id": "9288",
+      "title": "NBME - Comprehensive Clinical Science Self-Assessment - Form 15",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-2-15.db",
+      "description": "NBME - Comprehensive Clinical Science Self-Assessment - Form 15",
+      "addedDate": "20260722",
+      "featured": false,
+      "installedSize": 3910780,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/nbme-2-15.zip",
+        "size": 2223561
+      }
+    },
+    {
+      "id": "9285",
+      "title": "NBME - Comprehensive Clinical Medicine Self-Assessment - Form 8",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-3-8.db",
+      "description": "NBME - Comprehensive Clinical Medicine Self-Assessment - Form 8",
+      "addedDate": "20260626",
+      "featured": false,
+      "installedSize": 9682844,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/nbme-3-8.zip",
+        "size": 7874373
+      }
+    },
+    {
+      "id": "9282",
+      "title": "NBME - Comprehensive Clinical Medicine Self-Assessment - Form 7",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-3-7.db",
+      "description": "NBME - Comprehensive Clinical Medicine Self-Assessment - Form 7",
+      "addedDate": "20260627",
+      "featured": false,
+      "installedSize": 4714764,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/nbme-3-7.zip",
+        "size": 2740875
+      }
+    },
+    {
+      "id": "9279",
+      "title": "NBME - Comprehensive Clinical Medicine Self-Assessment - Form 6",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-3-6.db",
+      "description": "NBME - Comprehensive Clinical Medicine Self-Assessment - Form 6",
+      "addedDate": "20260628",
+      "featured": false,
+      "installedSize": 4638748,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/nbme-3-6.zip",
+        "size": 2636949
+      }
+    },
+    {
+      "id": "9276",
+      "title": "NBME - Comprehensive Basic Science Self-Assessment - Form 34",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-1-34.db",
+      "description": "NBME - Comprehensive Basic Science Self-Assessment - Form 34",
+      "addedDate": "20260816",
+      "featured": false,
+      "installedSize": 10761404,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/nbme-1-34.zip",
+        "size": 9136086
+      }
+    },
+    {
+      "id": "9273",
+      "title": "NBME - Comprehensive Basic Science Self-Assessment - Form 33",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-1-33.db",
+      "description": "NBME - Comprehensive Basic Science Self-Assessment - Form 33",
+      "addedDate": "20260817",
+      "featured": false,
+      "installedSize": 4013852,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/nbme-1-33.zip",
+        "size": 2493006
+      }
+    },
+    {
+      "id": "9271",
+      "title": "NBME - Comprehensive Basic Science Self-Assessment - Form 32",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-1-32.db",
+      "description": "NBME - Comprehensive Basic Science Self-Assessment - Form 32",
+      "addedDate": "20260818",
+      "featured": false,
+      "installedSize": 4284684,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/nbme-1-32.zip",
+        "size": 2703360
+      }
+    },
+    {
+      "id": "9268",
+      "title": "NBME - Clinical Mastery Series - Surgery Self-Assessment - Form 9",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-Surgery-9.db",
+      "description": "NBME - Clinical Mastery Series - Surgery Self-Assessment - Form 9",
+      "addedDate": "20260424",
+      "featured": false,
+      "installedSize": 2074604,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/nbme-Surgery-9.zip",
+        "size": 1490163
+      }
+    },
+    {
+      "id": "9265",
+      "title": "NBME - Clinical Mastery Series - Surgery Self-Assessment - Form 8",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-Surgery-8.db",
+      "description": "NBME - Clinical Mastery Series - Surgery Self-Assessment - Form 8",
+      "addedDate": "20260425",
+      "featured": false,
+      "installedSize": 1193532,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/nbme-Surgery-8.zip",
+        "size": 642461
+      }
+    },
+    {
+      "id": "9262",
+      "title": "NBME - Clinical Mastery Series - Surgery Self-Assessment - Form 7",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-Surgery-7.db",
+      "description": "NBME - Clinical Mastery Series - Surgery Self-Assessment - Form 7",
+      "addedDate": "20260426",
+      "featured": false,
+      "installedSize": 1109388,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/nbme-Surgery-7.zip",
+        "size": 578185
+      }
+    },
+    {
+      "id": "9259",
+      "title": "NBME - Clinical Mastery Series - Surgery Self-Assessment - Form 6",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-Surgery-6.db",
+      "description": "NBME - Clinical Mastery Series - Surgery Self-Assessment - Form 6",
+      "addedDate": "20260427",
+      "featured": false,
+      "installedSize": 965548,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/nbme-Surgery-6.zip",
+        "size": 469370
+      }
+    },
+    {
+      "id": "9256",
+      "title": "NBME - Clinical Mastery Series - Surgery Self-Assessment - Form 5",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-Surgery-5.db",
+      "description": "NBME - Clinical Mastery Series - Surgery Self-Assessment - Form 5",
+      "addedDate": "20260428",
+      "featured": false,
+      "installedSize": 1102428,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/nbme-Surgery-5.zip",
+        "size": 598456
+      }
+    },
+    {
+      "id": "9253",
+      "title": "NBME - Clinical Mastery Series - Psychiatry Self-Assessment - Form 8",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-Psychiatry-8.db",
+      "description": "NBME - Clinical Mastery Series - Psychiatry Self-Assessment - Form 8",
+      "addedDate": "20260125",
+      "featured": false,
+      "installedSize": 965900,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/nbme-Psychiatry-8.zip",
+        "size": 370692
+      }
+    },
+    {
+      "id": "9251",
+      "title": "NBME - Clinical Mastery Series - Psychiatry Self-Assessment - Form 7",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-Psychiatry-7.db",
+      "description": "NBME - Clinical Mastery Series - Psychiatry Self-Assessment - Form 7",
+      "addedDate": "20260126",
+      "featured": false,
+      "installedSize": 900364,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/nbme-Psychiatry-7.zip",
+        "size": 349691
+      }
+    },
+    {
+      "id": "9248",
+      "title": "NBME - Clinical Mastery Series - Psychiatry Self-Assessment - Form 6",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-Psychiatry-6.db",
+      "description": "NBME - Clinical Mastery Series - Psychiatry Self-Assessment - Form 6",
+      "addedDate": "20260127",
+      "featured": false,
+      "installedSize": 888076,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/nbme-Psychiatry-6.zip",
+        "size": 357614
+      }
+    },
+    {
+      "id": "9245",
+      "title": "NBME - Clinical Mastery Series - Psychiatry Self-Assessment - Form 5",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-Psychiatry-5.db",
+      "description": "NBME - Clinical Mastery Series - Psychiatry Self-Assessment - Form 5",
+      "addedDate": "20260128",
+      "featured": false,
+      "installedSize": 900332,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/nbme-Psychiatry-5.zip",
+        "size": 358809
+      }
+    },
+    {
+      "id": "9242",
+      "title": "NBME - Clinical Mastery Series - Pediatrics Self-Assessment - Form 9",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-Pedtiatrics-9.db",
+      "description": "NBME - Clinical Mastery Series - Pediatrics Self-Assessment - Form 9",
+      "addedDate": "20260324",
+      "featured": false,
+      "installedSize": 2167228,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/nbme-Pedtiatrics-9.zip",
+        "size": 1554183
+      }
+    },
+    {
+      "id": "9240",
+      "title": "NBME - Clinical Mastery Series - Pediatrics Self-Assessment - Form 9",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-Pediatrics-9.db",
+      "description": "NBME - Clinical Mastery Series - Pediatrics Self-Assessment - Form 9",
+      "addedDate": "20260323",
+      "featured": false,
+      "installedSize": 2167228,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/nbme-Pediatrics-9.zip",
+        "size": 1554160
+      }
+    },
+    {
+      "id": "9238",
+      "title": "NBME - Clinical Mastery Series - Pediatrics Self-Assessment - Form 8",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-Pediatrics-8.db",
+      "description": "NBME - Clinical Mastery Series - Pediatrics Self-Assessment - Form 8",
+      "addedDate": "20260325",
+      "featured": false,
+      "installedSize": 965164,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/nbme-Pediatrics-8.zip",
+        "size": 439118
+      }
+    },
+    {
+      "id": "9235",
+      "title": "NBME - Clinical Mastery Series - Pediatrics Self-Assessment - Form 7",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-Pediatrics-7.db",
+      "description": "NBME - Clinical Mastery Series - Pediatrics Self-Assessment - Form 7",
+      "addedDate": "20260326",
+      "featured": false,
+      "installedSize": 1047980,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/nbme-Pediatrics-7.zip",
+        "size": 506649
+      }
+    },
+    {
+      "id": "9232",
+      "title": "NBME - Clinical Mastery Series - Pediatrics Self-Assessment - Form 6",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-Pediatrics-6.db",
+      "description": "NBME - Clinical Mastery Series - Pediatrics Self-Assessment - Form 6",
+      "addedDate": "20260327",
+      "featured": false,
+      "installedSize": 1091036,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/nbme-Pediatrics-6.zip",
+        "size": 550684
+      }
+    },
+    {
+      "id": "9229",
+      "title": "NBME - Clinical Mastery Series - Pediatrics Self-Assessment - Form 5",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-Pediatrics-5.db",
+      "description": "NBME - Clinical Mastery Series - Pediatrics Self-Assessment - Form 5",
+      "addedDate": "20260328",
+      "featured": false,
+      "installedSize": 1122524,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/nbme-Pediatrics-5.zip",
+        "size": 567521
+      }
+    },
+    {
+      "id": "9226",
+      "title": "NBME - Clinical Mastery Series - Medicine Self-Assessment - Form 9",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-Medicine-9.db",
+      "description": "NBME - Clinical Mastery Series - Medicine Self-Assessment - Form 9",
+      "addedDate": "20260524",
+      "featured": false,
+      "installedSize": 1105932,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/nbme-Medicine-9.zip",
+        "size": 537016
+      }
+    },
+    {
+      "id": "9224",
+      "title": "NBME - Clinical Mastery Series - Medicine Self-Assessment - Form 8",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-Medicine-8.db",
+      "description": "NBME - Clinical Mastery Series - Medicine Self-Assessment - Form 8",
+      "addedDate": "20260525",
+      "featured": false,
+      "installedSize": 1232444,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/nbme-Medicine-8.zip",
+        "size": 671035
+      }
+    },
+    {
+      "id": "9221",
+      "title": "NBME - Clinical Mastery Series - Medicine Self-Assessment - Form 7",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-Medicine-7.db",
+      "description": "NBME - Clinical Mastery Series - Medicine Self-Assessment - Form 7",
+      "addedDate": "20260526",
+      "featured": false,
+      "installedSize": 1256780,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/nbme-Medicine-7.zip",
+        "size": 689503
+      }
+    },
+    {
+      "id": "9218",
+      "title": "NBME - Clinical Mastery Series - Medicine Self-Assessment - Form 6",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-Medicine-6.db",
+      "description": "NBME - Clinical Mastery Series - Medicine Self-Assessment - Form 6",
+      "addedDate": "20260527",
+      "featured": false,
+      "installedSize": 858524,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/nbme-Medicine-6.zip",
+        "size": 523326
+      }
+    },
+    {
+      "id": "9215",
+      "title": "NBME - Clinical Mastery Series - Medicine Self-Assessment - Form 5",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-Medicine-5.db",
+      "description": "NBME - Clinical Mastery Series - Medicine Self-Assessment - Form 5",
+      "addedDate": "20260528",
+      "featured": false,
+      "installedSize": 1082956,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/nbme-Medicine-5.zip",
+        "size": 616516
+      }
+    },
+    {
+      "id": "9212",
+      "title": "NBME - Clinical Mastery Series - Medicine Self-Assessment - Form 10",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-Medicine-10.db",
+      "description": "NBME - Clinical Mastery Series - Medicine Self-Assessment - Form 10",
+      "addedDate": "20260523",
+      "featured": false,
+      "installedSize": 1093244,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/nbme-Medicine-10.zip",
+        "size": 534765
+      }
+    },
+    {
+      "id": "9208",
+      "title": "NBME - Clinical Mastery Series - Family Medicine Self-Assessment - Form 5",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-Family Medicine-5.db",
+      "description": "NBME - Clinical Mastery Series - Family Medicine Self-Assessment - Form 5",
+      "addedDate": "20251025",
+      "featured": false,
+      "installedSize": 1138700,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/nbme-Family%20Medicine-5.zip",
+        "size": 558665
+      }
+    },
+    {
+      "id": "9205",
+      "title": "NBME - Clinical Mastery Series - Family Medicine Self-Assessment - Form 4",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-Family Medicine-4.db",
+      "description": "NBME - Clinical Mastery Series - Family Medicine Self-Assessment - Form 4",
+      "addedDate": "20251026",
+      "featured": false,
+      "installedSize": 1350972,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/nbme-Family%20Medicine-4.zip",
+        "size": 720732
+      }
+    },
+    {
+      "id": "9202",
+      "title": "NBME - Clinical Mastery Series - Family Medicine Self-Assessment - Form 3",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-Family Medicine-3.db",
+      "description": "NBME - Clinical Mastery Series - Family Medicine Self-Assessment - Form 3",
+      "addedDate": "20251027",
+      "featured": false,
+      "installedSize": 1220636,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/nbme-Family%20Medicine-3.zip",
+        "size": 685117
+      }
+    },
+    {
+      "id": "9199",
+      "title": "NBME - Clinical Mastery Series - Family Medicine Self-Assessment - Form 2",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-Family Medicine-2.db",
+      "description": "NBME - Clinical Mastery Series - Family Medicine Self-Assessment - Form 2",
+      "addedDate": "20251028",
+      "featured": false,
+      "installedSize": 1116812,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/nbme-Family%20Medicine-2.zip",
+        "size": 608407
+      }
+    },
+    {
+      "id": "9195",
+      "title": "NBME - Clinical Mastery Series - Emergency Medicine Self-Assessment - Form 3",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-Emergency Medicine-3.db",
+      "description": "NBME - Clinical Mastery Series - Emergency Medicine Self-Assessment - Form 3",
+      "addedDate": "20251126",
+      "featured": false,
+      "installedSize": 1802620,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/nbme-Emergency%20Medicine-3.zip",
+        "size": 1163410
+      }
+    },
+    {
+      "id": "9192",
+      "title": "NBME - Clinical Mastery Series - Emergency Medicine Self-Assessment - Form 2",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-Emergency Medicine-2.db",
+      "description": "NBME - Clinical Mastery Series - Emergency Medicine Self-Assessment - Form 2",
+      "addedDate": "20251127",
+      "featured": false,
+      "installedSize": 1827356,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/nbme-Emergency%20Medicine-2.zip",
+        "size": 1299222
+      }
+    },
+    {
+      "id": "9189",
+      "title": "NBME - Clinical Mastery Series - Emergency Medicine Self-Assessment - Form 1",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-Emergency Medicine-1.db",
+      "description": "NBME - Clinical Mastery Series - Emergency Medicine Self-Assessment - Form 1",
+      "addedDate": "20251128",
+      "featured": false,
+      "installedSize": 2033404,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/nbme-Emergency%20Medicine-1.zip",
+        "size": 1465520
+      }
+    },
+    {
+      "id": "9186",
+      "title": "NBME - Clinical Mastery Series - Clinical Obstetrics & Gynecology Self-Assessment - Form 9",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-Ob-Gyn-9.db",
+      "description": "NBME - Clinical Mastery Series - Clinical Obstetrics & Gynecology Self-Assessment - Form 9",
+      "addedDate": "20260224",
+      "featured": false,
+      "installedSize": 1647452,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/nbme-Ob-Gyn-9.zip",
+        "size": 1108273
+      }
+    },
+    {
+      "id": "9184",
+      "title": "NBME - Clinical Mastery Series - Clinical Obstetrics & Gynecology Self-Assessment - Form 8",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-Ob-Gyn-8.db",
+      "description": "NBME - Clinical Mastery Series - Clinical Obstetrics & Gynecology Self-Assessment - Form 8",
+      "addedDate": "20260225",
+      "featured": false,
+      "installedSize": 1055388,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/nbme-Ob-Gyn-8.zip",
+        "size": 460634
+      }
+    },
+    {
+      "id": "9181",
+      "title": "NBME - Clinical Mastery Series - Clinical Obstetrics & Gynecology Self-Assessment - Form 7",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-Ob-Gyn-7.db",
+      "description": "NBME - Clinical Mastery Series - Clinical Obstetrics & Gynecology Self-Assessment - Form 7",
+      "addedDate": "20260226",
+      "featured": false,
+      "installedSize": 1096780,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/nbme-Ob-Gyn-7.zip",
+        "size": 516291
+      }
+    },
+    {
+      "id": "9178",
+      "title": "NBME - Clinical Mastery Series - Clinical Obstetrics & Gynecology Self-Assessment - Form 6",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-Ob-Gyn-6.db",
+      "description": "NBME - Clinical Mastery Series - Clinical Obstetrics & Gynecology Self-Assessment - Form 6",
+      "addedDate": "20260227",
+      "featured": false,
+      "installedSize": 907964,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/nbme-Ob-Gyn-6.zip",
+        "size": 388967
+      }
+    },
+    {
+      "id": "9175",
+      "title": "NBME - Clinical Mastery Series - Clinical Obstetrics & Gynecology Self-Assessment - Form 5",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-Ob-Gyn-5.db",
+      "description": "NBME - Clinical Mastery Series - Clinical Obstetrics & Gynecology Self-Assessment - Form 5",
+      "addedDate": "20260228",
+      "featured": false,
+      "installedSize": 941292,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/nbme-Ob-Gyn-5.zip",
+        "size": 416693
+      }
+    },
+    {
+      "id": "9172",
+      "title": "NBME - Clinical Mastery Series - Clinical Obstetrics & Gynecology Self-Assessment - Form 10",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-Ob-Gyn-10.db",
+      "description": "NBME - Clinical Mastery Series - Clinical Obstetrics & Gynecology Self-Assessment - Form 10",
+      "addedDate": "20260223",
+      "featured": false,
+      "installedSize": 1373740,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/nbme-Ob-Gyn-10.zip",
+        "size": 875368
+      }
+    },
+    {
+      "id": "9170",
+      "title": "NBME - Clinical Mastery Series - Clinical Neurology Self-Assessment - Form 9",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-Neurology-9.db",
+      "description": "NBME - Clinical Mastery Series - Clinical Neurology Self-Assessment - Form 9",
+      "addedDate": "20251224",
+      "featured": false,
+      "installedSize": 1129980,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/nbme-Neurology-9.zip",
+        "size": 514150
+      }
+    },
+    {
+      "id": "9168",
+      "title": "NBME - Clinical Mastery Series - Clinical Neurology Self-Assessment - Form 8",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-Neurology-8.db",
+      "description": "NBME - Clinical Mastery Series - Clinical Neurology Self-Assessment - Form 8",
+      "addedDate": "20251225",
+      "featured": false,
+      "installedSize": 1175996,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/nbme-Neurology-8.zip",
+        "size": 641441
+      }
+    },
+    {
+      "id": "9165",
+      "title": "NBME - Clinical Mastery Series - Clinical Neurology Self-Assessment - Form 7",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-Neurology-7.db",
+      "description": "NBME - Clinical Mastery Series - Clinical Neurology Self-Assessment - Form 7",
+      "addedDate": "20251226",
+      "featured": false,
+      "installedSize": 1009180,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/nbme-Neurology-7.zip",
+        "size": 432511
+      }
+    },
+    {
+      "id": "9162",
+      "title": "NBME - Clinical Mastery Series - Clinical Neurology Self-Assessment - Form 6",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-Neurology-6.db",
+      "description": "NBME - Clinical Mastery Series - Clinical Neurology Self-Assessment - Form 6",
+      "addedDate": "20251227",
+      "featured": false,
+      "installedSize": 1020716,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/nbme-Neurology-6.zip",
+        "size": 453602
+      }
+    },
+    {
+      "id": "9159",
+      "title": "NBME - Clinical Mastery Series - Clinical Neurology Self-Assessment - Form 5",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-Neurology-5.db",
+      "description": "NBME - Clinical Mastery Series - Clinical Neurology Self-Assessment - Form 5",
+      "addedDate": "20251228",
+      "featured": false,
+      "installedSize": 1113804,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/nbme-Neurology-5.zip",
+        "size": 529749
+      }
+    },
+    {
+      "id": "8395",
+      "title": "NBME - Comprehensive Clinical Science Self-Assessment - Form 9",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-2-9.db",
+      "description": "NBME - Comprehensive Clinical Science Self-Assessment - Form 9",
+      "addedDate": "20260728",
+      "featured": false,
+      "installedSize": 3864604,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/nbme-2-9.zip",
+        "size": 2114793
+      }
+    },
+    {
+      "id": "8391",
+      "title": "NBME - Comprehensive Clinical Science Self-Assessment - Form 12",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-2-12.db",
+      "description": "NBME - Comprehensive Clinical Science Self-Assessment - Form 12",
+      "addedDate": "20260725",
+      "featured": false,
+      "installedSize": 4063068,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/nbme-2-12.zip",
+        "size": 2305767
+      }
+    },
+    {
+      "id": "8390",
+      "title": "NBME - Comprehensive Clinical Science Self-Assessment - Form 11",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-2-11.db",
+      "description": "NBME - Comprehensive Clinical Science Self-Assessment - Form 11",
+      "addedDate": "20260726",
+      "featured": false,
+      "installedSize": 3640748,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/nbme-2-11.zip",
+        "size": 1965510
+      }
+    },
+    {
+      "id": "8389",
+      "title": "NBME - Comprehensive Clinical Science Self-Assessment - Form 10",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-2-10.db",
+      "description": "NBME - Comprehensive Clinical Science Self-Assessment - Form 10",
+      "addedDate": "20260727",
+      "featured": false,
+      "installedSize": 3893132,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/nbme-2-10.zip",
+        "size": 2241389
+      }
+    },
+    {
+      "id": "8387",
+      "title": "NBME - Comprehensive Basic Science Self-Assessment - Form 31",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-1-31.db",
+      "description": "NBME - Comprehensive Basic Science Self-Assessment - Form 31",
+      "addedDate": "20260819",
+      "featured": false,
+      "installedSize": 4420988,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/nbme-1-31.zip",
+        "size": 2768269
+      }
+    },
+    {
+      "id": "8386",
+      "title": "NBME - Comprehensive Basic Science Self-Assessment - Form 30",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-1-30.db",
+      "description": "NBME - Comprehensive Basic Science Self-Assessment - Form 30",
+      "addedDate": "20260820",
+      "featured": false,
+      "installedSize": 4270156,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/nbme-1-30.zip",
+        "size": 2736933
+      }
+    },
+    {
+      "id": "8385",
+      "title": "NBME - Comprehensive Basic Science Self-Assessment - Form 29",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-1-29.db",
+      "description": "NBME - Comprehensive Basic Science Self-Assessment - Form 29",
+      "addedDate": "20260821",
+      "featured": false,
+      "installedSize": 4542924,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/nbme-1-29.zip",
+        "size": 3001774
+      }
+    },
+    {
+      "id": "8384",
+      "title": "NBME - Comprehensive Basic Science Self-Assessment - Form 28",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-1-28.db",
+      "description": "NBME - Comprehensive Basic Science Self-Assessment - Form 28",
+      "addedDate": "20260822",
+      "featured": false,
+      "installedSize": 4290124,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/nbme-1-28.zip",
+        "size": 2741801
+      }
+    },
+    {
+      "id": "8383",
+      "title": "NBME - Comprehensive Basic Science Self-Assessment - Form 27",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-1-27.db",
+      "description": "NBME - Comprehensive Basic Science Self-Assessment - Form 27",
+      "addedDate": "20260823",
+      "featured": false,
+      "installedSize": 4207932,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/nbme-1-27.zip",
+        "size": 2628338
+      }
+    },
+    {
+      "id": "8382",
+      "title": "NBME - Comprehensive Basic Science Self-Assessment - Form 26",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-1-26.db",
+      "description": "NBME - Comprehensive Basic Science Self-Assessment - Form 26",
+      "addedDate": "20260824",
+      "featured": false,
+      "installedSize": 4453212,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/nbme-1-26.zip",
+        "size": 2877513
+      }
+    },
+    {
+      "id": "8381",
+      "title": "NBME - Comprehensive Basic Science Self-Assessment - Form 25",
+      "version": "202610",
+      "type": "uworld",
+      "databaseName": "nbme-1-25.db",
+      "description": "NBME - Comprehensive Basic Science Self-Assessment - Form 25",
+      "addedDate": "20260825",
+      "featured": false,
+      "installedSize": 4272572,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/nbme-1-25.zip",
+        "size": 2705243
+      }
+    },
+    {
+      "id": "8393",
+      "title": "NBME - Comprehensive Clinical Science Self-Assessment - Form 14",
+      "version": "202404",
+      "type": "uworld",
+      "databaseName": "nbme-2-14.db",
+      "description": "NBME - Comprehensive Clinical Science Self-Assessment - Form 14",
+      "addedDate": "20260723",
+      "featured": false,
+      "installedSize": 4549420,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/nbme-2-14.zip",
+        "size": 2588501
+      }
+    },
+    {
+      "id": "8392",
+      "title": "NBME - Comprehensive Clinical Science Self-Assessment - Form 13",
+      "version": "202404",
+      "type": "uworld",
+      "databaseName": "nbme-2-13.db",
+      "description": "NBME - Comprehensive Clinical Science Self-Assessment - Form 13",
+      "addedDate": "20260724",
+      "featured": false,
+      "installedSize": 4731708,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/nbme-2-13.zip",
+        "size": 2720960
+      }
+    },
+    {
+      "id": "6845",
+      "title": "NBME - Comprehensive Basic Science Self-Assessment - Form 24",
+      "version": "202306",
+      "type": "uworld",
+      "databaseName": "nbme-1-24.db",
+      "description": "NBME - Comprehensive Basic Science Self-Assessment - Form 24",
+      "addedDate": "20260826",
+      "featured": false,
+      "installedSize": 1988684,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/nbme-1-24.zip",
+        "size": 1498305
+      }
+    },
+    {
+      "id": "6844",
+      "title": "NBME - Comprehensive Basic Science Self-Assessment - Form 23",
+      "version": "202306",
+      "type": "uworld",
+      "databaseName": "nbme-1-23.db",
+      "description": "NBME - Comprehensive Basic Science Self-Assessment - Form 23",
+      "addedDate": "20260827",
+      "featured": false,
+      "installedSize": 1910844,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/nbme-1-23.zip",
+        "size": 1433535
+      }
+    },
+    {
+      "id": "6843",
+      "title": "NBME - Comprehensive Basic Science Self-Assessment - Form 21",
+      "version": "202306",
+      "type": "uworld",
+      "databaseName": "nbme-1-21.db",
+      "description": "NBME - Comprehensive Basic Science Self-Assessment - Form 21",
+      "addedDate": "20260828",
+      "featured": false,
+      "installedSize": 1961692,
+      "icon": "Icons/nbme.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/nbme-1-21.zip",
+        "size": 1485563
+      }
+    },
+    {
+      "id": "8815",
+      "title": "Amboss DE - Klinik QBank - 2024",
+      "version": "202404",
+      "type": "uworld",
+      "databaseName": "ambossqb-Klinik2024.db",
+      "description": "Amboss DE - Klinik QBank - 2024",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 654571562,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-Klinik2024.zip",
+        "size": 590394324
+      }
+    },
+    {
+      "id": "8814",
+      "title": "Amboss - USMLE Step 3 QBank - 2024",
+      "version": "202404",
+      "type": "uworld",
+      "databaseName": "ambossqb-USMLE Step 32024.db",
+      "description": "Amboss - USMLE Step 3 QBank - 2024",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 264083338,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-USMLE%20Step%2032024.zip",
+        "size": 245497348
+      }
+    },
+    {
+      "id": "8813",
+      "title": "Amboss - USMLE Step 2 CK QBank - 2024",
+      "version": "202404",
+      "type": "uworld",
+      "databaseName": "ambossqb-USMLE Step 2 CK2024.db",
+      "description": "Amboss - USMLE Step 2 CK QBank - 2024",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 374858634,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-USMLE%20Step%202%20CK2024.zip",
+        "size": 344919223
+      }
+    },
+    {
+      "id": "8812",
+      "title": "Amboss - USMLE Step 1 QBank - 2024",
+      "version": "202404",
+      "type": "uworld",
+      "databaseName": "ambossqb-USMLE Step 12024.db",
+      "description": "Amboss - USMLE Step 1 QBank - 2024",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 398539914,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-USMLE%20Step%2012024.zip",
+        "size": 377794542
+      }
+    },
+    {
+      "id": "8811",
+      "title": "Amboss - USMLE - Supplemental Step 2 QBank - 2024",
+      "version": "202404",
+      "type": "uworld",
+      "databaseName": "ambossqb-USMLE - Supplemental Step 22024.db",
+      "description": "Amboss - USMLE - Supplemental Step 2 QBank - 2024",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 198459482,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-USMLE%20-%20Supplemental%20Step%2022024.zip",
+        "size": 189644386
+      }
+    },
+    {
+      "id": "8810",
+      "title": "Amboss - USMLE - Supplemental Step 1 QBank - 2024",
+      "version": "202404",
+      "type": "uworld",
+      "databaseName": "ambossqb-USMLE - Supplemental Step 12024.db",
+      "description": "Amboss - USMLE - Supplemental Step 1 QBank - 2024",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 207989578,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-USMLE%20-%20Supplemental%20Step%2012024.zip",
+        "size": 195744938
+      }
+    },
+    {
+      "id": "8809",
+      "title": "Amboss - Shelf-COMAT \u2013 Osteopathic principles and practice QBank - 2024",
+      "version": "202404",
+      "type": "uworld",
+      "databaseName": "ambossqb-Shelf-COMAT \u2013 Osteopathic principles and practice2024.db",
+      "description": "Amboss - Shelf-COMAT \u2013 Osteopathic principles and practice QBank - 2024",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 6823690,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-Shelf-COMAT%20%E2%80%93%20Osteopathic%20principles%20and%20practice2024.zip",
+        "size": 5856648
+      }
+    },
+    {
+      "id": "8808",
+      "title": "Amboss - Shelf \u2013 Surgery QBank - 2024",
+      "version": "202404",
+      "type": "uworld",
+      "databaseName": "ambossqb-Shelf \u2013 Surgery2024.db",
+      "description": "Amboss - Shelf \u2013 Surgery QBank - 2024",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 162035578,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-Shelf%20%E2%80%93%20Surgery2024.zip",
+        "size": 152274249
+      }
+    },
+    {
+      "id": "8807",
+      "title": "Amboss - Shelf \u2013 Psychiatry QBank - 2024",
+      "version": "202404",
+      "type": "uworld",
+      "databaseName": "ambossqb-Shelf \u2013 Psychiatry2024.db",
+      "description": "Amboss - Shelf \u2013 Psychiatry QBank - 2024",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 15690794,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-Shelf%20%E2%80%93%20Psychiatry2024.zip",
+        "size": 12735936
+      }
+    },
+    {
+      "id": "8806",
+      "title": "Amboss - Shelf \u2013 Pediatrics QBank - 2024",
+      "version": "202404",
+      "type": "uworld",
+      "databaseName": "ambossqb-Shelf \u2013 Pediatrics2024.db",
+      "description": "Amboss - Shelf \u2013 Pediatrics QBank - 2024",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 117886938,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-Shelf%20%E2%80%93%20Pediatrics2024.zip",
+        "size": 110300498
+      }
+    },
+    {
+      "id": "8805",
+      "title": "Amboss - Shelf \u2013 Obstetrics & Gynecology QBank - 2024",
+      "version": "202404",
+      "type": "uworld",
+      "databaseName": "ambossqb-Shelf \u2013 Obstetrics & Gynecology2024.db",
+      "description": "Amboss - Shelf \u2013 Obstetrics & Gynecology QBank - 2024",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 46332906,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-Shelf%20%E2%80%93%20Obstetrics%20%26%20Gynecology2024.zip",
+        "size": 41996229
+      }
+    },
+    {
+      "id": "8804",
+      "title": "Amboss - Shelf \u2013 Medicine QBank - 2024",
+      "version": "202404",
+      "type": "uworld",
+      "databaseName": "ambossqb-Shelf \u2013 Medicine2024.db",
+      "description": "Amboss - Shelf \u2013 Medicine QBank - 2024",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 282391194,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-Shelf%20%E2%80%93%20Medicine2024.zip",
+        "size": 264279285
+      }
+    },
+    {
+      "id": "8803",
+      "title": "Amboss - Shelf \u2013 Family Medicine QBank - 2024",
+      "version": "202404",
+      "type": "uworld",
+      "databaseName": "ambossqb-Shelf \u2013 Family Medicine2024.db",
+      "description": "Amboss - Shelf \u2013 Family Medicine QBank - 2024",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 211950762,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-Shelf%20%E2%80%93%20Family%20Medicine2024.zip",
+        "size": 198891316
+      }
+    },
+    {
+      "id": "8802",
+      "title": "Amboss - Shelf \u2013 Emergency Medicine QBank - 2024",
+      "version": "202404",
+      "type": "uworld",
+      "databaseName": "ambossqb-Shelf \u2013 Emergency Medicine2024.db",
+      "description": "Amboss - Shelf \u2013 Emergency Medicine QBank - 2024",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 112087114,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-Shelf%20%E2%80%93%20Emergency%20Medicine2024.zip",
+        "size": 105015455
+      }
+    },
+    {
+      "id": "8801",
+      "title": "Amboss - Shelf \u2013 Clinical Neurology QBank - 2024",
+      "version": "202404",
+      "type": "uworld",
+      "databaseName": "ambossqb-Shelf \u2013 Clinical Neurology2024.db",
+      "description": "Amboss - Shelf \u2013 Clinical Neurology QBank - 2024",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 70213946,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-Shelf%20%E2%80%93%20Clinical%20Neurology2024.zip",
+        "size": 65106266
+      }
+    },
+    {
+      "id": "8800",
+      "title": "Amboss - Shelf \u2013 Ambulatory Care QBank - 2024",
+      "version": "202404",
+      "type": "uworld",
+      "databaseName": "ambossqb-Shelf \u2013 Ambulatory Care2024.db",
+      "description": "Amboss - Shelf \u2013 Ambulatory Care QBank - 2024",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 155933706,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-Shelf%20%E2%80%93%20Ambulatory%20Care2024.zip",
+        "size": 147473887
+      }
+    },
+    {
+      "id": "8799",
+      "title": "Amboss - Shelf Exams - Supplemental Shelf \u2013 Surgery QBank - 2024",
+      "version": "202404",
+      "type": "uworld",
+      "databaseName": "ambossqb-Shelf Exams - Supplemental Shelf \u2013 Surgery2024.db",
+      "description": "Amboss - Shelf Exams - Supplemental Shelf \u2013 Surgery QBank - 2024",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 30380154,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-Shelf%20Exams%20-%20Supplemental%20Shelf%20%E2%80%93%20Surgery2024.zip",
+        "size": 29411673
+      }
+    },
+    {
+      "id": "8798",
+      "title": "Amboss - Shelf Exams - Supplemental Shelf \u2013 Psychiatry QBank - 2024",
+      "version": "202404",
+      "type": "uworld",
+      "databaseName": "ambossqb-Shelf Exams - Supplemental Shelf \u2013 Psychiatry2024.db",
+      "description": "Amboss - Shelf Exams - Supplemental Shelf \u2013 Psychiatry QBank - 2024",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 2992506,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-Shelf%20Exams%20-%20Supplemental%20Shelf%20%E2%80%93%20Psychiatry2024.zip",
+        "size": 2476798
+      }
+    },
+    {
+      "id": "8797",
+      "title": "Amboss - Shelf Exams - Supplemental Shelf \u2013 Pediatrics QBank - 2024",
+      "version": "202404",
+      "type": "uworld",
+      "databaseName": "ambossqb-Shelf Exams - Supplemental Shelf \u2013 Pediatrics2024.db",
+      "description": "Amboss - Shelf Exams - Supplemental Shelf \u2013 Pediatrics QBank - 2024",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 27894794,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-Shelf%20Exams%20-%20Supplemental%20Shelf%20%E2%80%93%20Pediatrics2024.zip",
+        "size": 26529605
+      }
+    },
+    {
+      "id": "8796",
+      "title": "Amboss - Shelf Exams - Supplemental Shelf \u2013 Obstetrics - Gynecology QBank - 2024",
+      "version": "202404",
+      "type": "uworld",
+      "databaseName": "ambossqb-Shelf Exams - Supplemental Shelf \u2013 Obstetrics - Gynecology2024.db",
+      "description": "Amboss - Shelf Exams - Supplemental Shelf \u2013 Obstetrics - Gynecology QBank - 2024",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 10445962,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-Shelf%20Exams%20-%20Supplemental%20Shelf%20%E2%80%93%20Obstetrics%20-%20Gynecology2024.zip",
+        "size": 9914159
+      }
+    },
+    {
+      "id": "8795",
+      "title": "Amboss - Shelf Exams - Supplemental Shelf \u2013 Neurology QBank - 2024",
+      "version": "202404",
+      "type": "uworld",
+      "databaseName": "ambossqb-Shelf Exams - Supplemental Shelf \u2013 Neurology2024.db",
+      "description": "Amboss - Shelf Exams - Supplemental Shelf \u2013 Neurology QBank - 2024",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 19808266,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-Shelf%20Exams%20-%20Supplemental%20Shelf%20%E2%80%93%20Neurology2024.zip",
+        "size": 18847577
+      }
+    },
+    {
+      "id": "8794",
+      "title": "Amboss - Shelf Exams - Supplemental Shelf \u2013 Medicine QBank - 2024",
+      "version": "202404",
+      "type": "uworld",
+      "databaseName": "ambossqb-Shelf Exams - Supplemental Shelf \u2013 Medicine2024.db",
+      "description": "Amboss - Shelf Exams - Supplemental Shelf \u2013 Medicine QBank - 2024",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 82448938,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-Shelf%20Exams%20-%20Supplemental%20Shelf%20%E2%80%93%20Medicine2024.zip",
+        "size": 79462095
+      }
+    },
+    {
+      "id": "8793",
+      "title": "Amboss - Shelf Exams - Supplemental Shelf \u2013 Family Medicine QBank - 2024",
+      "version": "202404",
+      "type": "uworld",
+      "databaseName": "ambossqb-Shelf Exams - Supplemental Shelf \u2013 Family Medicine2024.db",
+      "description": "Amboss - Shelf Exams - Supplemental Shelf \u2013 Family Medicine QBank - 2024",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 55847946,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-Shelf%20Exams%20-%20Supplemental%20Shelf%20%E2%80%93%20Family%20Medicine2024.zip",
+        "size": 53675221
+      }
+    },
+    {
+      "id": "8792",
+      "title": "Amboss - Shelf Exams - Supplemental Shelf \u2013 Emergency Medicine QBank - 2024",
+      "version": "202404",
+      "type": "uworld",
+      "databaseName": "ambossqb-Shelf Exams - Supplemental Shelf \u2013 Emergency Medicine2024.db",
+      "description": "Amboss - Shelf Exams - Supplemental Shelf \u2013 Emergency Medicine QBank - 2024",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 18690698,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-Shelf%20Exams%20-%20Supplemental%20Shelf%20%E2%80%93%20Emergency%20Medicine2024.zip",
+        "size": 17509512
+      }
+    },
+    {
+      "id": "8791",
+      "title": "Amboss - Shelf Exams - Supplemental Shelf \u2013 Ambulatory Care QBank - 2024",
+      "version": "202404",
+      "type": "uworld",
+      "databaseName": "ambossqb-Shelf Exams - Supplemental Shelf \u2013 Ambulatory Care2024.db",
+      "description": "Amboss - Shelf Exams - Supplemental Shelf \u2013 Ambulatory Care QBank - 2024",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 38971754,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-Shelf%20Exams%20-%20Supplemental%20Shelf%20%E2%80%93%20Ambulatory%20Care2024.zip",
+        "size": 37561280
+      }
+    },
+    {
+      "id": "8790",
+      "title": "Amboss - Physiology QBank - 2024",
+      "version": "202404",
+      "type": "uworld",
+      "databaseName": "ambossqb-Physiology2024.db",
+      "description": "Amboss - Physiology QBank - 2024",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 31135258,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-Physiology2024.zip",
+        "size": 28966661
+      }
+    },
+    {
+      "id": "8789",
+      "title": "Amboss - Pharmacology QBank - 2024",
+      "version": "202404",
+      "type": "uworld",
+      "databaseName": "ambossqb-Pharmacology2024.db",
+      "description": "Amboss - Pharmacology QBank - 2024",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 45258714,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-Pharmacology2024.zip",
+        "size": 40861186
+      }
+    },
+    {
+      "id": "8788",
+      "title": "Amboss - Pediatrics (ABP) QBank - 2024",
+      "version": "202404",
+      "type": "uworld",
+      "databaseName": "ambossqb-Pediatrics (ABP)2024.db",
+      "description": "Amboss - Pediatrics (ABP) QBank - 2024",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 56106458,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-Pediatrics%20%28ABP%292024.zip",
+        "size": 48483807
+      }
+    },
+    {
+      "id": "8787",
+      "title": "Amboss - Pathology QBank - 2024",
+      "version": "202404",
+      "type": "uworld",
+      "databaseName": "ambossqb-Pathology2024.db",
+      "description": "Amboss - Pathology QBank - 2024",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 321229978,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-Pathology2024.zip",
+        "size": 308768517
+      }
+    },
+    {
+      "id": "8786",
+      "title": "Amboss - Neuroscience QBank - 2024",
+      "version": "202404",
+      "type": "uworld",
+      "databaseName": "ambossqb-Neuroscience2024.db",
+      "description": "Amboss - Neuroscience QBank - 2024",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 49339370,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-Neuroscience2024.zip",
+        "size": 46864149
+      }
+    },
+    {
+      "id": "8785",
+      "title": "Amboss - Microbiology QBank - 2024",
+      "version": "202404",
+      "type": "uworld",
+      "databaseName": "ambossqb-Microbiology2024.db",
+      "description": "Amboss - Microbiology QBank - 2024",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 74379722,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-Microbiology2024.zip",
+        "size": 70973560
+      }
+    },
+    {
+      "id": "8784",
+      "title": "Amboss - Internal Medicine (ABIM) QBank - 2024",
+      "version": "202404",
+      "type": "uworld",
+      "databaseName": "ambossqb-Internal Medicine (ABIM)2024.db",
+      "description": "Amboss - Internal Medicine (ABIM) QBank - 2024",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 110076090,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-Internal%20Medicine%20%28ABIM%292024.zip",
+        "size": 95393509
+      }
+    },
+    {
+      "id": "8783",
+      "title": "Amboss - Histology QBank - 2024",
+      "version": "202404",
+      "type": "uworld",
+      "databaseName": "ambossqb-Histology2024.db",
+      "description": "Amboss - Histology QBank - 2024",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 36001498,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-Histology2024.zip",
+        "size": 34885316
+      }
+    },
+    {
+      "id": "8782",
+      "title": "Amboss - Family Medicine (ABFM) QBank - 2024",
+      "version": "202404",
+      "type": "uworld",
+      "databaseName": "ambossqb-Family Medicine (ABFM)2024.db",
+      "description": "Amboss - Family Medicine (ABFM) QBank - 2024",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 101549178,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-Family%20Medicine%20%28ABFM%292024.zip",
+        "size": 87023846
+      }
+    },
+    {
+      "id": "8781",
+      "title": "Amboss - COMLEX Level 3 QBank - 2024",
+      "version": "202404",
+      "type": "uworld",
+      "databaseName": "ambossqb-COMLEX Level 32024.db",
+      "description": "Amboss - COMLEX Level 3 QBank - 2024",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 267247994,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-COMLEX%20Level%2032024.zip",
+        "size": 248259379
+      }
+    },
+    {
+      "id": "8780",
+      "title": "Amboss - COMLEX Level 2-CE QBank - 2024",
+      "version": "202404",
+      "type": "uworld",
+      "databaseName": "ambossqb-COMLEX Level 2-CE2024.db",
+      "description": "Amboss - COMLEX Level 2-CE QBank - 2024",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 378571258,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-COMLEX%20Level%202-CE2024.zip",
+        "size": 348286031
+      }
+    },
+    {
+      "id": "8779",
+      "title": "Amboss - COMLEX Level 1 QBank - 2024",
+      "version": "202404",
+      "type": "uworld",
+      "databaseName": "ambossqb-COMLEX Level 12024.db",
+      "description": "Amboss - COMLEX Level 1 QBank - 2024",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 402232170,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-COMLEX%20Level%2012024.zip",
+        "size": 380795185
+      }
+    },
+    {
+      "id": "8778",
+      "title": "Amboss - Biochemistry QBank - 2024",
+      "version": "202404",
+      "type": "uworld",
+      "databaseName": "ambossqb-Biochemistry2024.db",
+      "description": "Amboss - Biochemistry QBank - 2024",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 40783370,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-Biochemistry2024.zip",
+        "size": 38036972
+      }
+    },
+    {
+      "id": "8777",
+      "title": "Amboss - Behavioral Sciences QBank - 2024",
+      "version": "202404",
+      "type": "uworld",
+      "databaseName": "ambossqb-Behavioral Sciences2024.db",
+      "description": "Amboss - Behavioral Sciences QBank - 2024",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 6486778,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-Behavioral%20Sciences2024.zip",
+        "size": 5182145
+      }
+    },
+    {
+      "id": "8776",
+      "title": "Amboss - Anatomy & Embryology QBank - 2024",
+      "version": "202404",
+      "type": "uworld",
+      "databaseName": "ambossqb-Anatomy & Embryology2024.db",
+      "description": "Amboss - Anatomy & Embryology QBank - 2024",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 55219978,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-Anatomy%20%26%20Embryology2024.zip",
+        "size": 52846657
+      }
+    },
+    {
+      "id": "8123",
+      "title": "Amboss Study Plan - USMLE Step 3 - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-Y60njS2025.db",
+      "description": "Amboss Study Plan - USMLE Step 3 - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 106360401,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-Y60njS2025.zip",
+        "size": 88642531
+      }
+    },
+    {
+      "id": "8122",
+      "title": "Amboss Study Plan - USMLE Step 2 CK - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-r-0fAi2025.db",
+      "description": "Amboss Study Plan - USMLE Step 2 CK - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 163564548,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-r-0fAi2025.zip",
+        "size": 132397660
+      }
+    },
+    {
+      "id": "8121",
+      "title": "Amboss Study Plan - USMLE Step 1 - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-EK08RS2025.db",
+      "description": "Amboss Study Plan - USMLE Step 1 - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 164761377,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-EK08RS2025.zip",
+        "size": 143090162
+      }
+    },
+    {
+      "id": "8120",
+      "title": "Amboss Study Plan - Urology Service - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-cN0aZg2025.db",
+      "description": "Amboss Study Plan - Urology Service - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 8639252,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-cN0aZg2025.zip",
+        "size": 7129091
+      }
+    },
+    {
+      "id": "8119",
+      "title": "Amboss Study Plan - Surgery  - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-SN0y0g2025.db",
+      "description": "Amboss Study Plan - Surgery  - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 42530669,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-SN0y0g2025.zip",
+        "size": 35855737
+      }
+    },
+    {
+      "id": "8118",
+      "title": "Amboss Study Plan - Step 2 Prep Condensed - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-DL01-g2025.db",
+      "description": "Amboss Study Plan - Step 2 Prep Condensed - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 10492858,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-DL01-g2025.zip",
+        "size": 8940542
+      }
+    },
+    {
+      "id": "8117",
+      "title": "Amboss Study Plan - Step 1 Prep Condensed  - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-3l0S9T2025.db",
+      "description": "Amboss Study Plan - Step 1 Prep Condensed  - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 14274923,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-3l0S9T2025.zip",
+        "size": 12818360
+      }
+    },
+    {
+      "id": "8116",
+      "title": "Amboss Study Plan - SMLE Study Plan - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-iB0J0i2025.db",
+      "description": "Amboss Study Plan - SMLE Study Plan - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 28598644,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-iB0J0i2025.zip",
+        "size": 16645917
+      }
+    },
+    {
+      "id": "8115",
+      "title": "Amboss Study Plan - Rheumatology and Immunology Service - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-TN060g2025.db",
+      "description": "Amboss Study Plan - Rheumatology and Immunology Service - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 7041688,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-TN060g2025.zip",
+        "size": 6073410
+      }
+    },
+    {
+      "id": "8114",
+      "title": "Amboss Study Plan - Pulmonology Service - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-eN0xZg2025.db",
+      "description": "Amboss Study Plan - Pulmonology Service - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 8782312,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-eN0xZg2025.zip",
+        "size": 7408310
+      }
+    },
+    {
+      "id": "8113",
+      "title": "Amboss Study Plan - Psychiatry - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-QN0uag2025.db",
+      "description": "Amboss Study Plan - Psychiatry - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 8248335,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-QN0uag2025.zip",
+        "size": 5862421
+      }
+    },
+    {
+      "id": "8112",
+      "title": "Amboss Study Plan - Pediatrics - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-iN0Jag2025.db",
+      "description": "Amboss Study Plan - Pediatrics - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 32996399,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-iN0Jag2025.zip",
+        "size": 28167320
+      }
+    },
+    {
+      "id": "8111",
+      "title": "Amboss Study Plan - Pediatrics (ABP) NEJM Knowledge  - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-bG0HBh2025.db",
+      "description": "Amboss Study Plan - Pediatrics (ABP) NEJM Knowledge  - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 27413717,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-bG0HBh2025.zip",
+        "size": 19768855
+      }
+    },
+    {
+      "id": "8110",
+      "title": "Amboss Study Plan - Pediatric Sick Visits and Urgent Care: Resident 360 Rotation Prep - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-Ew08kR2025.db",
+      "description": "Amboss Study Plan - Pediatric Sick Visits and Urgent Care: Resident 360 Rotation Prep - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 1686662,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-Ew08kR2025.zip",
+        "size": 1117701
+      }
+    },
+    {
+      "id": "8109",
+      "title": "Amboss Study Plan - Pediatric Rheumatology: Resident 360 Rotation Prep - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-8w0OkR2025.db",
+      "description": "Amboss Study Plan - Pediatric Rheumatology: Resident 360 Rotation Prep - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 1389751,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-8w0OkR2025.zip",
+        "size": 984171
+      }
+    },
+    {
+      "id": "8108",
+      "title": "Amboss Study Plan - Pediatric Pulmonology: Resident 360 Rotation Prep - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-Fw0gkR2025.db",
+      "description": "Amboss Study Plan - Pediatric Pulmonology: Resident 360 Rotation Prep - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 908790,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-Fw0gkR2025.zip",
+        "size": 495117
+      }
+    },
+    {
+      "id": "8107",
+      "title": "Amboss Study Plan - Pediatric Preventive Care: Resident 360 Rotation Prep - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-vw0AkR2025.db",
+      "description": "Amboss Study Plan - Pediatric Preventive Care: Resident 360 Rotation Prep - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 2082250,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-vw0AkR2025.zip",
+        "size": 1529893
+      }
+    },
+    {
+      "id": "8106",
+      "title": "Amboss Study Plan - Pediatric Otolaryngology: Resident 360 Rotation Prep - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-xD0EgR2025.db",
+      "description": "Amboss Study Plan - Pediatric Otolaryngology: Resident 360 Rotation Prep - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 728297,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-xD0EgR2025.zip",
+        "size": 439954
+      }
+    },
+    {
+      "id": "8105",
+      "title": "Amboss Study Plan - Pediatric Orthopedics: Resident 360 Rotation Prep - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-uw0pkR2025.db",
+      "description": "Amboss Study Plan - Pediatric Orthopedics: Resident 360 Rotation Prep - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 1392870,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-uw0pkR2025.zip",
+        "size": 970741
+      }
+    },
+    {
+      "id": "8104",
+      "title": "Amboss Study Plan - Pediatric Ophthalmology: Resident 360 Rotation Prep - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-BD0zgR2025.db",
+      "description": "Amboss Study Plan - Pediatric Ophthalmology: Resident 360 Rotation Prep - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 568952,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-BD0zgR2025.zip",
+        "size": 338785
+      }
+    },
+    {
+      "id": "8103",
+      "title": "Amboss Study Plan - Pediatric Oncology: Resident 360 Rotation Prep - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-Gw0B4R2025.db",
+      "description": "Amboss Study Plan - Pediatric Oncology: Resident 360 Rotation Prep - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 677347,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-Gw0B4R2025.zip",
+        "size": 397802
+      }
+    },
+    {
+      "id": "8102",
+      "title": "Amboss Study Plan - Pediatric Neurology: Resident 360 Rotation Prep - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-Hw0K4R2025.db",
+      "description": "Amboss Study Plan - Pediatric Neurology: Resident 360 Rotation Prep - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 1137124,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-Hw0K4R2025.zip",
+        "size": 667093
+      }
+    },
+    {
+      "id": "8101",
+      "title": "Amboss Study Plan - Pediatric Nephrology: Resident 360 Rotation Prep - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-7w044R2025.db",
+      "description": "Amboss Study Plan - Pediatric Nephrology: Resident 360 Rotation Prep - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 953317,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-7w044R2025.zip",
+        "size": 591963
+      }
+    },
+    {
+      "id": "8100",
+      "title": "Amboss Study Plan - Pediatric Mental Health: Resident 360 Rotation Prep - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-Iw0Y4R2025.db",
+      "description": "Amboss Study Plan - Pediatric Mental Health: Resident 360 Rotation Prep - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 604504,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-Iw0Y4R2025.zip",
+        "size": 243204
+      }
+    },
+    {
+      "id": "8099",
+      "title": "Amboss Study Plan - Pediatric Infectious Disease: Resident 360 Rotation Prep - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-Ow0IQR2025.db",
+      "description": "Amboss Study Plan - Pediatric Infectious Disease: Resident 360 Rotation Prep - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 2296365,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-Ow0IQR2025.zip",
+        "size": 1634288
+      }
+    },
+    {
+      "id": "8098",
+      "title": "Amboss Study Plan - Pediatric Hematology: Resident 360 Rotation Prep - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-kw0mQR2025.db",
+      "description": "Amboss Study Plan - Pediatric Hematology: Resident 360 Rotation Prep - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 684933,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-kw0mQR2025.zip",
+        "size": 345245
+      }
+    },
+    {
+      "id": "8097",
+      "title": "Amboss Study Plan - Pediatric Genetics and Metabolism: Resident 360 Rotation Prep - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-4w03QR2025.db",
+      "description": "Amboss Study Plan - Pediatric Genetics and Metabolism: Resident 360 Rotation Prep - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 634002,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-4w03QR2025.zip",
+        "size": 311133
+      }
+    },
+    {
+      "id": "8096",
+      "title": "Amboss Study Plan - Pediatric Gastroenterology: Resident 360 Rotation Prep - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-Pw0WQR2025.db",
+      "description": "Amboss Study Plan - Pediatric Gastroenterology: Resident 360 Rotation Prep - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 1127419,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-Pw0WQR2025.zip",
+        "size": 674697
+      }
+    },
+    {
+      "id": "8095",
+      "title": "Amboss Study Plan - Pediatric Endocrinology: Resident 360 Rotation Prep - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-jw0_iR2025.db",
+      "description": "Amboss Study Plan - Pediatric Endocrinology: Resident 360 Rotation Prep - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 2538760,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-jw0_iR2025.zip",
+        "size": 1899335
+      }
+    },
+    {
+      "id": "8094",
+      "title": "Amboss Study Plan - Pediatric Emergency Medicine: Resident 360 Rotation Prep - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-zD0rSR2025.db",
+      "description": "Amboss Study Plan - Pediatric Emergency Medicine: Resident 360 Rotation Prep - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 3469869,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-zD0rSR2025.zip",
+        "size": 2307133
+      }
+    },
+    {
+      "id": "8093",
+      "title": "Amboss Study Plan - Pediatric Dermatology: Resident 360 Rotation Prep - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-_D05SR2025.db",
+      "description": "Amboss Study Plan - Pediatric Dermatology: Resident 360 Rotation Prep - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 3153254,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-_D05SR2025.zip",
+        "size": 2486500
+      }
+    },
+    {
+      "id": "8092",
+      "title": "Amboss Study Plan - Pediatric Critical Care: Resident 360 Rotation Prep - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-AD0RSR2025.db",
+      "description": "Amboss Study Plan - Pediatric Critical Care: Resident 360 Rotation Prep - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 1195768,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-AD0RSR2025.zip",
+        "size": 708352
+      }
+    },
+    {
+      "id": "8091",
+      "title": "Amboss Study Plan - Pediatric Cardiology: Resident 360 Rotation Prep - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-yD0dSR2025.db",
+      "description": "Amboss Study Plan - Pediatric Cardiology: Resident 360 Rotation Prep - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 3064693,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-yD0dSR2025.zip",
+        "size": 2426674
+      }
+    },
+    {
+      "id": "8090",
+      "title": "Amboss Study Plan - Pediatric Allergy and Immunology: Resident 360 Rotation Prep - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-CD0qgR2025.db",
+      "description": "Amboss Study Plan - Pediatric Allergy and Immunology: Resident 360 Rotation Prep - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 1315633,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-CD0qgR2025.zip",
+        "size": 766854
+      }
+    },
+    {
+      "id": "8089",
+      "title": "Amboss Study Plan - Patient Chart Questions - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-Oq0IAS2025.db",
+      "description": "Amboss Study Plan - Patient Chart Questions - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 6406860,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-Oq0IAS2025.zip",
+        "size": 5270176
+      }
+    },
+    {
+      "id": "8088",
+      "title": "Amboss Study Plan - Ophthalmology Service - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-RN0lag2025.db",
+      "description": "Amboss Study Plan - Ophthalmology Service - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 6038538,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-RN0lag2025.zip",
+        "size": 5330907
+      }
+    },
+    {
+      "id": "8087",
+      "title": "Amboss Study Plan - Obstetrics and Gynecology  - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-4N03Yg2025.db",
+      "description": "Amboss Study Plan - Obstetrics and Gynecology  - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 12998671,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-4N03Yg2025.zip",
+        "size": 10414927
+      }
+    },
+    {
+      "id": "8086",
+      "title": "Amboss Study Plan - Neurology  - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-jN0_ag2025.db",
+      "description": "Amboss Study Plan - Neurology  - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 20800943,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-jN0_ag2025.zip",
+        "size": 17504621
+      }
+    },
+    {
+      "id": "8085",
+      "title": "Amboss Study Plan - Nephrology Service - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-UN0b0g2025.db",
+      "description": "Amboss Study Plan - Nephrology Service - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 6573815,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-UN0b0g2025.zip",
+        "size": 5280138
+      }
+    },
+    {
+      "id": "8084",
+      "title": "Amboss Study Plan - Neonatal Care: Resident 360 Rotation Prep - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-vD0ATR2025.db",
+      "description": "Amboss Study Plan - Neonatal Care: Resident 360 Rotation Prep - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 2683246,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-vD0ATR2025.zip",
+        "size": 1770013
+      }
+    },
+    {
+      "id": "8083",
+      "title": "Amboss Study Plan - Medicine  - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-GN0Bcg2025.db",
+      "description": "Amboss Study Plan - Medicine  - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 74746670,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-GN0Bcg2025.zip",
+        "size": 62662320
+      }
+    },
+    {
+      "id": "8082",
+      "title": "Amboss Study Plan - Internal Medicine (ABIM) NEJM Knowledge  - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-cG0ayh2025.db",
+      "description": "Amboss Study Plan - Internal Medicine (ABIM) NEJM Knowledge  - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 56386925,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-cG0ayh2025.zip",
+        "size": 41431731
+      }
+    },
+    {
+      "id": "8081",
+      "title": "Amboss Study Plan - Intern Bootcamp: Lifesaving Essentials - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-wx0hAR2025.db",
+      "description": "Amboss Study Plan - Intern Bootcamp: Lifesaving Essentials - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 4854987,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-wx0hAR2025.zip",
+        "size": 4296408
+      }
+    },
+    {
+      "id": "8080",
+      "title": "Amboss Study Plan - Infectious Diseases Service - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-gN0F0g2025.db",
+      "description": "Amboss Study Plan - Infectious Diseases Service - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 12894336,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-gN0F0g2025.zip",
+        "size": 10585069
+      }
+    },
+    {
+      "id": "8079",
+      "title": "Amboss Study Plan - High-Yield Table-Based Questions - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-e60xPS2025.db",
+      "description": "Amboss Study Plan - High-Yield Table-Based Questions - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 5480789,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-e60xPS2025.zip",
+        "size": 4497095
+      }
+    },
+    {
+      "id": "8078",
+      "title": "Amboss Study Plan - High-Yield Summer Crash Course - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-wL0h-g2025.db",
+      "description": "Amboss Study Plan - High-Yield Summer Crash Course - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 6352659,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-wL0h-g2025.zip",
+        "size": 5466559
+      }
+    },
+    {
+      "id": "8077",
+      "title": "Amboss Study Plan - High-Yield Screening & Vaccination - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-V60GPS2025.db",
+      "description": "Amboss Study Plan - High-Yield Screening & Vaccination - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 2571095,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-V60GPS2025.zip",
+        "size": 1718206
+      }
+    },
+    {
+      "id": "8076",
+      "title": "Amboss Study Plan - High-Yield Risk Factors - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-d60oPS2025.db",
+      "description": "Amboss Study Plan - High-Yield Risk Factors - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 7353628,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-d60oPS2025.zip",
+        "size": 6242401
+      }
+    },
+    {
+      "id": "8075",
+      "title": "Amboss Study Plan - High-Yield Patient Safety & Quality Improvement - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-Y80nO32025.db",
+      "description": "Amboss Study Plan - High-Yield Patient Safety & Quality Improvement - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 1641812,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-Y80nO32025.zip",
+        "size": 1099070
+      }
+    },
+    {
+      "id": "8074",
+      "title": "Amboss Study Plan - High-Yield Osteopathic Manipulative Medicine - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-z70roh2025.db",
+      "description": "Amboss Study Plan - High-Yield Osteopathic Manipulative Medicine - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 4446721,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-z70roh2025.zip",
+        "size": 3489594
+      }
+    },
+    {
+      "id": "8073",
+      "title": "Amboss Study Plan - High-Yield Ethics - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-260T4S2025.db",
+      "description": "Amboss Study Plan - High-Yield Ethics - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 1911030,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-260T4S2025.zip",
+        "size": 969447
+      }
+    },
+    {
+      "id": "8072",
+      "title": "Amboss Study Plan - High-Yield Biostatistics & Epidemiology - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-G90BKR2025.db",
+      "description": "Amboss Study Plan - High-Yield Biostatistics & Epidemiology - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 4402668,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-G90BKR2025.zip",
+        "size": 3201479
+      }
+    },
+    {
+      "id": "8071",
+      "title": "Amboss Study Plan - Hematology and Oncology Service - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-fN0k0g2025.db",
+      "description": "Amboss Study Plan - Hematology and Oncology Service - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 7654356,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-fN0k0g2025.zip",
+        "size": 6348374
+      }
+    },
+    {
+      "id": "8070",
+      "title": "Amboss Study Plan - Geriatrics: Resident 360 Rotation Prep - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-l80v532025.db",
+      "description": "Amboss Study Plan - Geriatrics: Resident 360 Rotation Prep - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 1388619,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-l80v532025.zip",
+        "size": 935116
+      }
+    },
+    {
+      "id": "8069",
+      "title": "Amboss Study Plan - Genetics Service - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-dN0oZg2025.db",
+      "description": "Amboss Study Plan - Genetics Service - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 13997733,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-dN0oZg2025.zip",
+        "size": 11648737
+      }
+    },
+    {
+      "id": "8068",
+      "title": "Amboss Study Plan - Gastroenterology Service - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-VN0GZg2025.db",
+      "description": "Amboss Study Plan - Gastroenterology Service - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 12216141,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-VN0GZg2025.zip",
+        "size": 10091066
+      }
+    },
+    {
+      "id": "8067",
+      "title": "Amboss Study Plan - Family Medicine (ABFM) NEJM Knowledge  - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-XG09Bh2025.db",
+      "description": "Amboss Study Plan - Family Medicine (ABFM) NEJM Knowledge  - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 52474235,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-XG09Bh2025.zip",
+        "size": 37802284
+      }
+    },
+    {
+      "id": "8066",
+      "title": "Amboss Study Plan - Family Medicine  - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-Un0bsg2025.db",
+      "description": "Amboss Study Plan - Family Medicine  - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 58644325,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-Un0bsg2025.zip",
+        "size": 49910295
+      }
+    },
+    {
+      "id": "8065",
+      "title": "Amboss Study Plan - ENT Service - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-1N02Zg2025.db",
+      "description": "Amboss Study Plan - ENT Service - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 6499744,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-1N02Zg2025.zip",
+        "size": 5753534
+      }
+    },
+    {
+      "id": "8064",
+      "title": "Amboss Study Plan - Endocrinology Service - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-2N0T0g2025.db",
+      "description": "Amboss Study Plan - Endocrinology Service - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 6815338,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-2N0T0g2025.zip",
+        "size": 5445474
+      }
+    },
+    {
+      "id": "8063",
+      "title": "Amboss Study Plan - Emergency Medicine (ABEM) Knowledge  - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-bz0Hri2025.db",
+      "description": "Amboss Study Plan - Emergency Medicine (ABEM) Knowledge  - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 29863705,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-bz0Hri2025.zip",
+        "size": 19505242
+      }
+    },
+    {
+      "id": "8062",
+      "title": "Amboss Study Plan - Emergency Medicine  - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-9M0NIg2025.db",
+      "description": "Amboss Study Plan - Emergency Medicine  - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 33687400,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-9M0NIg2025.zip",
+        "size": 28799043
+      }
+    },
+    {
+      "id": "8061",
+      "title": "Amboss Study Plan - Developmental and Behavioral Pediatrics: Resident 360 Rotation Prep - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-ED08TR2025.db",
+      "description": "Amboss Study Plan - Developmental and Behavioral Pediatrics: Resident 360 Rotation Prep - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 555400,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-ED08TR2025.zip",
+        "size": 228385
+      }
+    },
+    {
+      "id": "8060",
+      "title": "Amboss Study Plan - Dermatology Service - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-WN0PZg2025.db",
+      "description": "Amboss Study Plan - Dermatology Service - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 27667464,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-WN0PZg2025.zip",
+        "size": 25398584
+      }
+    },
+    {
+      "id": "8059",
+      "title": "Amboss Study Plan - Child Abuse and Neglect: Resident 360 Rotation Prep - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-uD0pTR2025.db",
+      "description": "Amboss Study Plan - Child Abuse and Neglect: Resident 360 Rotation Prep - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 494168,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-uD0pTR2025.zip",
+        "size": 306614
+      }
+    },
+    {
+      "id": "8058",
+      "title": "Amboss Study Plan - Cardiology and Angiology Service - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-3N0Sag2025.db",
+      "description": "Amboss Study Plan - Cardiology and Angiology Service - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 16996101,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-3N0Sag2025.zip",
+        "size": 14563934
+      }
+    },
+    {
+      "id": "8057",
+      "title": "Amboss Study Plan - Adult Women's Health: Resident 360 Rotation Prep - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-J80sn32025.db",
+      "description": "Amboss Study Plan - Adult Women's Health: Resident 360 Rotation Prep - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 1271605,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-J80sn32025.zip",
+        "size": 783866
+      }
+    },
+    {
+      "id": "8056",
+      "title": "Amboss Study Plan - Adult Wards: Resident 360 Rotation Prep - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-q_0C6i2025.db",
+      "description": "Amboss Study Plan - Adult Wards: Resident 360 Rotation Prep - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 2342220,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-q_0C6i2025.zip",
+        "size": 1826189
+      }
+    },
+    {
+      "id": "8055",
+      "title": "Amboss Study Plan - Adult Rheumatology: Resident 360 Rotation Prep  - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-p80Ln32025.db",
+      "description": "Amboss Study Plan - Adult Rheumatology: Resident 360 Rotation Prep  - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 2851972,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-p80Ln32025.zip",
+        "size": 1996969
+      }
+    },
+    {
+      "id": "8054",
+      "title": "Amboss Study Plan - Adult Pulmonology & Sleep Medicine: Resident 360 Rotation Prep - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-o800n32025.db",
+      "description": "Amboss Study Plan - Adult Pulmonology & Sleep Medicine: Resident 360 Rotation Prep - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 3910051,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-o800n32025.zip",
+        "size": 2896982
+      }
+    },
+    {
+      "id": "8053",
+      "title": "Amboss Study Plan - Adult Primary Care: Resident 360 Rotation Prep - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-R80lm32025.db",
+      "description": "Amboss Study Plan - Adult Primary Care: Resident 360 Rotation Prep - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 1429059,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-R80lm32025.zip",
+        "size": 828362
+      }
+    },
+    {
+      "id": "8052",
+      "title": "Amboss Study Plan - Adult Perioperative Medicine: Resident 360 Rotation Prep - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-680jn32025.db",
+      "description": "Amboss Study Plan - Adult Perioperative Medicine: Resident 360 Rotation Prep - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 667069,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-680jn32025.zip",
+        "size": 384982
+      }
+    },
+    {
+      "id": "8051",
+      "title": "Amboss Study Plan - Adult Palliative Medicine: Resident 360 Rotation Prep - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-K80Un32025.db",
+      "description": "Amboss Study Plan - Adult Palliative Medicine: Resident 360 Rotation Prep - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 596314,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-K80Un32025.zip",
+        "size": 293721
+      }
+    },
+    {
+      "id": "8050",
+      "title": "Amboss Study Plan - Adult Oncology: Resident 360 Rotation Prep - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-L80wM32025.db",
+      "description": "Amboss Study Plan - Adult Oncology: Resident 360 Rotation Prep - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 1748623,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-L80wM32025.zip",
+        "size": 1146212
+      }
+    },
+    {
+      "id": "8049",
+      "title": "Amboss Study Plan - Adult Neurology: Resident 360 Rotation Prep - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-n807M32025.db",
+      "description": "Amboss Study Plan - Adult Neurology: Resident 360 Rotation Prep - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 2400736,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-n807M32025.zip",
+        "size": 1657967
+      }
+    },
+    {
+      "id": "8048",
+      "title": "Amboss Study Plan - Adult Nephrology & Urology: Resident 360 Rotation Prep - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-M80MM32025.db",
+      "description": "Amboss Study Plan - Adult Nephrology & Urology: Resident 360 Rotation Prep - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 1887195,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-M80MM32025.zip",
+        "size": 1228903
+      }
+    },
+    {
+      "id": "8047",
+      "title": "Amboss Study Plan - Adult Mental Health: Resident 360 Rotation Prep - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-580iM32025.db",
+      "description": "Amboss Study Plan - Adult Mental Health: Resident 360 Rotation Prep - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 1567637,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-580iM32025.zip",
+        "size": 820583
+      }
+    },
+    {
+      "id": "8046",
+      "title": "Amboss Study Plan - Adult Infectious Disease: Resident 360 Rotation Prep - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-m80VM32025.db",
+      "description": "Amboss Study Plan - Adult Infectious Disease: Resident 360 Rotation Prep - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 2651657,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-m80VM32025.zip",
+        "size": 1699050
+      }
+    },
+    {
+      "id": "8045",
+      "title": "Amboss Study Plan - Adult Hematology: Resident 360 Rotation Prep - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-N80-532025.db",
+      "description": "Amboss Study Plan - Adult Hematology: Resident 360 Rotation Prep - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 2579233,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-N80-532025.zip",
+        "size": 1685807
+      }
+    },
+    {
+      "id": "8044",
+      "title": "Amboss Study Plan - Adult Gastroenterology: Resident 360 Rotation Prep - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-O80I532025.db",
+      "description": "Amboss Study Plan - Adult Gastroenterology: Resident 360 Rotation Prep - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 2944871,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-O80I532025.zip",
+        "size": 1966667
+      }
+    },
+    {
+      "id": "8043",
+      "title": "Amboss Study Plan - Adult Endocrinology: Resident 360 Rotation Prep - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-k80m532025.db",
+      "description": "Amboss Study Plan - Adult Endocrinology: Resident 360 Rotation Prep - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 4100388,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-k80m532025.zip",
+        "size": 2710051
+      }
+    },
+    {
+      "id": "8042",
+      "title": "Amboss Study Plan - Adult Emergency Medicine: Resident 360 Rotation Prep - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-4803532025.db",
+      "description": "Amboss Study Plan - Adult Emergency Medicine: Resident 360 Rotation Prep - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 4823097,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-4803532025.zip",
+        "size": 3946718
+      }
+    },
+    {
+      "id": "8041",
+      "title": "Amboss Study Plan - Adult Dermatology: Resident 360 Rotation Prep - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-P80W532025.db",
+      "description": "Amboss Study Plan - Adult Dermatology: Resident 360 Rotation Prep - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 3082562,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-P80W532025.zip",
+        "size": 2615894
+      }
+    },
+    {
+      "id": "8040",
+      "title": "Amboss Study Plan - Adult Critical Care: Resident 360 Rotation Prep - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-j80_m32025.db",
+      "description": "Amboss Study Plan - Adult Critical Care: Resident 360 Rotation Prep - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 960452,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-j80_m32025.zip",
+        "size": 652542
+      }
+    },
+    {
+      "id": "8039",
+      "title": "Amboss Study Plan - Adult Cardiology: Resident 360 Rotation Prep - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-Q80um32025.db",
+      "description": "Amboss Study Plan - Adult Cardiology: Resident 360 Rotation Prep - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 6698753,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-Q80um32025.zip",
+        "size": 5584587
+      }
+    },
+    {
+      "id": "8038",
+      "title": "Amboss Study Plan - Adult Allergy and Immunology: Resident 360 Rotation Prep - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-i80Jm32025.db",
+      "description": "Amboss Study Plan - Adult Allergy and Immunology: Resident 360 Rotation Prep - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 728525,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-i80Jm32025.zip",
+        "size": 394348
+      }
+    },
+    {
+      "id": "8037",
+      "title": "Amboss Study Plan - Adolescent Care: Resident 360 Rotation Prep - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-5v0i0R2025.db",
+      "description": "Amboss Study Plan - Adolescent Care: Resident 360 Rotation Prep - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 711056,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-5v0i0R2025.zip",
+        "size": 424458
+      }
+    },
+    {
+      "id": "8036",
+      "title": "Amboss Study Plan - 200 Concepts That Appear in Every Step 2 Exam - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-f60k4S2025.db",
+      "description": "Amboss Study Plan - 200 Concepts That Appear in Every Step 2 Exam - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 17759778,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-f60k4S2025.zip",
+        "size": 15748767
+      }
+    },
+    {
+      "id": "8035",
+      "title": "Amboss Study Plan - 200 Concepts That Appear in Every Step 1 Exam - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-W60PPS2025.db",
+      "description": "Amboss Study Plan - 200 Concepts That Appear in Every Step 1 Exam - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 21553410,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-W60PPS2025.zip",
+        "size": 19729597
+      }
+    },
+    {
+      "id": "8034",
+      "title": "Amboss Study Plan - 200 Concepts That Appear in Every PANCE Exam - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-bx0HER2025.db",
+      "description": "Amboss Study Plan - 200 Concepts That Appear in Every PANCE Exam - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 18397585,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-bx0HER2025.zip",
+        "size": 16626732
+      }
+    },
+    {
+      "id": "8033",
+      "title": "Amboss Study Plan - 200 Concepts That Appear in Every COMLEX Level 2 Exam - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-YB0nzR2025.db",
+      "description": "Amboss Study Plan - 200 Concepts That Appear in Every COMLEX Level 2 Exam - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 14255338,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-YB0nzR2025.zip",
+        "size": 12351025
+      }
+    },
+    {
+      "id": "8032",
+      "title": "Amboss Study Plan - 200 Concepts That Appear in Every COMLEX Level 1 Exam - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-FB0gci2025.db",
+      "description": "Amboss Study Plan - 200 Concepts That Appear in Every COMLEX Level 1 Exam - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 21204874,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-FB0gci2025.zip",
+        "size": 19427512
+      }
+    },
+    {
+      "id": "8028",
+      "title": "Amboss QBank - USMLE - Supplemental Step 2 - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-USMLE - Supplemental Step 22025.db",
+      "description": "Amboss QBank - USMLE - Supplemental Step 2 - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 78333355,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-USMLE%20-%20Supplemental%20Step%2022025.zip",
+        "size": 69446233
+      }
+    },
+    {
+      "id": "8027",
+      "title": "Amboss QBank - USMLE - Supplemental Step 1 - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-USMLE - Supplemental Step 12025.db",
+      "description": "Amboss QBank - USMLE - Supplemental Step 1 - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 83560123,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-USMLE%20-%20Supplemental%20Step%2012025.zip",
+        "size": 71336184
+      }
+    },
+    {
+      "id": "8026",
+      "title": "Amboss QBank - SMLE - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-SMLE2025.db",
+      "description": "Amboss QBank - SMLE - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 31168388,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-SMLE2025.zip",
+        "size": 18208213
+      }
+    },
+    {
+      "id": "8025",
+      "title": "Amboss QBank - Shelf-COMAT \u2013 Osteopathic principles and practice - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-Shelf-COMAT \u2013 Osteopathic principles and practice2025.db",
+      "description": "Amboss QBank - Shelf-COMAT \u2013 Osteopathic principles and practice - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 3831443,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-Shelf-COMAT%20%E2%80%93%20Osteopathic%20principles%20and%20practice2025.zip",
+        "size": 2848830
+      }
+    },
+    {
+      "id": "8024",
+      "title": "Amboss QBank - Shelf \u2013 Surgery - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-Shelf \u2013 Surgery2025.db",
+      "description": "Amboss QBank - Shelf \u2013 Surgery - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 66515665,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-Shelf%20%E2%80%93%20Surgery2025.zip",
+        "size": 56774231
+      }
+    },
+    {
+      "id": "8023",
+      "title": "Amboss QBank - Shelf \u2013 Psychiatry - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-Shelf \u2013 Psychiatry2025.db",
+      "description": "Amboss QBank - Shelf \u2013 Psychiatry - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 10505492,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-Shelf%20%E2%80%93%20Psychiatry2025.zip",
+        "size": 7417487
+      }
+    },
+    {
+      "id": "8022",
+      "title": "Amboss QBank - Shelf \u2013 Pediatrics - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-Shelf \u2013 Pediatrics2025.db",
+      "description": "Amboss QBank - Shelf \u2013 Pediatrics - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 48645028,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-Shelf%20%E2%80%93%20Pediatrics2025.zip",
+        "size": 41030583
+      }
+    },
+    {
+      "id": "8021",
+      "title": "Amboss QBank - Shelf \u2013 Obstetrics & Gynecology - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-Shelf \u2013 Obstetrics & Gynecology2025.db",
+      "description": "Amboss QBank - Shelf \u2013 Obstetrics & Gynecology - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 22031313,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-Shelf%20%E2%80%93%20Obstetrics%20%26%20Gynecology2025.zip",
+        "size": 17647372
+      }
+    },
+    {
+      "id": "8020",
+      "title": "Amboss QBank - Shelf \u2013 Medicine - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-Shelf \u2013 Medicine2025.db",
+      "description": "Amboss QBank - Shelf \u2013 Medicine - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 114746082,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-Shelf%20%E2%80%93%20Medicine2025.zip",
+        "size": 96595200
+      }
+    },
+    {
+      "id": "8019",
+      "title": "Amboss QBank - Shelf \u2013 Family Medicine - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-Shelf \u2013 Family Medicine2025.db",
+      "description": "Amboss QBank - Shelf \u2013 Family Medicine - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 85183001,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-Shelf%20%E2%80%93%20Family%20Medicine2025.zip",
+        "size": 71801271
+      }
+    },
+    {
+      "id": "8018",
+      "title": "Amboss QBank - Shelf \u2013 Emergency Medicine - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-Shelf \u2013 Emergency Medicine2025.db",
+      "description": "Amboss QBank - Shelf \u2013 Emergency Medicine - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 47503356,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-Shelf%20%E2%80%93%20Emergency%20Medicine2025.zip",
+        "size": 40474729
+      }
+    },
+    {
+      "id": "8017",
+      "title": "Amboss QBank - Shelf \u2013 Clinical Neurology - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-Shelf \u2013 Clinical Neurology2025.db",
+      "description": "Amboss QBank - Shelf \u2013 Clinical Neurology - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 32515820,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-Shelf%20%E2%80%93%20Clinical%20Neurology2025.zip",
+        "size": 27387832
+      }
+    },
+    {
+      "id": "8016",
+      "title": "Amboss QBank - Shelf \u2013 Ambulatory Care - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-Shelf \u2013 Ambulatory Care2025.db",
+      "description": "Amboss QBank - Shelf \u2013 Ambulatory Care - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 59758153,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-Shelf%20%E2%80%93%20Ambulatory%20Care2025.zip",
+        "size": 51237018
+      }
+    },
+    {
+      "id": "8015",
+      "title": "Amboss QBank - Shelf Exams - Supplemental Shelf \u2013 Surgery - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-Shelf Exams - Supplemental Shelf \u2013 Surgery2025.db",
+      "description": "Amboss QBank - Shelf Exams - Supplemental Shelf \u2013 Surgery - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 11817100,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-Shelf%20Exams%20-%20Supplemental%20Shelf%20%E2%80%93%20Surgery2025.zip",
+        "size": 10828406
+      }
+    },
+    {
+      "id": "8014",
+      "title": "Amboss QBank - Shelf Exams - Supplemental Shelf \u2013 Psychiatry - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-Shelf Exams - Supplemental Shelf \u2013 Psychiatry2025.db",
+      "description": "Amboss QBank - Shelf Exams - Supplemental Shelf \u2013 Psychiatry - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 1841007,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-Shelf%20Exams%20-%20Supplemental%20Shelf%20%E2%80%93%20Psychiatry2025.zip",
+        "size": 1341601
+      }
+    },
+    {
+      "id": "8013",
+      "title": "Amboss QBank - Shelf Exams - Supplemental Shelf \u2013 Pediatrics - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-Shelf Exams - Supplemental Shelf \u2013 Pediatrics2025.db",
+      "description": "Amboss QBank - Shelf Exams - Supplemental Shelf \u2013 Pediatrics - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 12337343,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-Shelf%20Exams%20-%20Supplemental%20Shelf%20%E2%80%93%20Pediatrics2025.zip",
+        "size": 10992397
+      }
+    },
+    {
+      "id": "8012",
+      "title": "Amboss QBank - Shelf Exams - Supplemental Shelf \u2013 Obstetrics - Gynecology - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-Shelf Exams - Supplemental Shelf \u2013 Obstetrics - Gynecology2025.db",
+      "description": "Amboss QBank - Shelf Exams - Supplemental Shelf \u2013 Obstetrics - Gynecology - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 4286460,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-Shelf%20Exams%20-%20Supplemental%20Shelf%20%E2%80%93%20Obstetrics%20-%20Gynecology2025.zip",
+        "size": 3761940
+      }
+    },
+    {
+      "id": "8011",
+      "title": "Amboss QBank - Shelf Exams - Supplemental Shelf \u2013 Neurology - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-Shelf Exams - Supplemental Shelf \u2013 Neurology2025.db",
+      "description": "Amboss QBank - Shelf Exams - Supplemental Shelf \u2013 Neurology - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 8788494,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-Shelf%20Exams%20-%20Supplemental%20Shelf%20%E2%80%93%20Neurology2025.zip",
+        "size": 7816978
+      }
+    },
+    {
+      "id": "8010",
+      "title": "Amboss QBank - Shelf Exams - Supplemental Shelf \u2013 Medicine - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-Shelf Exams - Supplemental Shelf \u2013 Medicine2025.db",
+      "description": "Amboss QBank - Shelf Exams - Supplemental Shelf \u2013 Medicine - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 31357421,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-Shelf%20Exams%20-%20Supplemental%20Shelf%20%E2%80%93%20Medicine2025.zip",
+        "size": 28346543
+      }
+    },
+    {
+      "id": "8009",
+      "title": "Amboss QBank - Shelf Exams - Supplemental Shelf \u2013 Family Medicine - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-Shelf Exams - Supplemental Shelf \u2013 Family Medicine2025.db",
+      "description": "Amboss QBank - Shelf Exams - Supplemental Shelf \u2013 Family Medicine - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 21525876,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-Shelf%20Exams%20-%20Supplemental%20Shelf%20%E2%80%93%20Family%20Medicine2025.zip",
+        "size": 19351742
+      }
+    },
+    {
+      "id": "8008",
+      "title": "Amboss QBank - Shelf Exams - Supplemental Shelf \u2013 Emergency Medicine - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-Shelf Exams - Supplemental Shelf \u2013 Emergency Medicine2025.db",
+      "description": "Amboss QBank - Shelf Exams - Supplemental Shelf \u2013 Emergency Medicine - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 8525303,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-Shelf%20Exams%20-%20Supplemental%20Shelf%20%E2%80%93%20Emergency%20Medicine2025.zip",
+        "size": 7334059
+      }
+    },
+    {
+      "id": "8007",
+      "title": "Amboss QBank - Shelf Exams - Supplemental Shelf \u2013 Ambulatory Care - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-Shelf Exams - Supplemental Shelf \u2013 Ambulatory Care2025.db",
+      "description": "Amboss QBank - Shelf Exams - Supplemental Shelf \u2013 Ambulatory Care - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 14534468,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-Shelf%20Exams%20-%20Supplemental%20Shelf%20%E2%80%93%20Ambulatory%20Care2025.zip",
+        "size": 13125744
+      }
+    },
+    {
+      "id": "8006",
+      "title": "Amboss QBank - PNA - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-PNA2025.db",
+      "description": "Amboss QBank - PNA - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 159547171,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-PNA2025.zip",
+        "size": 131061548
+      }
+    },
+    {
+      "id": "8005",
+      "title": "Amboss QBank - Physiology - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-Physiology2025.db",
+      "description": "Amboss QBank - Physiology - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 14824682,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-Physiology2025.zip",
+        "size": 12614723
+      }
+    },
+    {
+      "id": "8004",
+      "title": "Amboss QBank - Pharmacology - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-Pharmacology2025.db",
+      "description": "Amboss QBank - Pharmacology - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 21774076,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-Pharmacology2025.zip",
+        "size": 17452279
+      }
+    },
+    {
+      "id": "8003",
+      "title": "Amboss QBank - Pediatrics (ABP) - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-Pediatrics (ABP)2025.db",
+      "description": "Amboss QBank - Pediatrics (ABP) - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 27788560,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-Pediatrics%20%28ABP%292025.zip",
+        "size": 20082533
+      }
+    },
+    {
+      "id": "8002",
+      "title": "Amboss QBank - Pathology - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-Pathology2025.db",
+      "description": "Amboss QBank - Pathology - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 122968809,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-Pathology2025.zip",
+        "size": 110470234
+      }
+    },
+    {
+      "id": "8001",
+      "title": "Amboss QBank - PANRE - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-PANRE2025.db",
+      "description": "Amboss QBank - PANRE - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 91336789,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-PANRE2025.zip",
+        "size": 76992223
+      }
+    },
+    {
+      "id": "8000",
+      "title": "Amboss QBank - PANCE - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-PANCE2025.db",
+      "description": "Amboss QBank - PANCE - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 91479653,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-PANCE2025.zip",
+        "size": 77068067
+      }
+    },
+    {
+      "id": "7999",
+      "title": "Amboss QBank - Neuroscience - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-Neuroscience2025.db",
+      "description": "Amboss QBank - Neuroscience - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 21515404,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-Neuroscience2025.zip",
+        "size": 18996174
+      }
+    },
+    {
+      "id": "7998",
+      "title": "Amboss QBank - Microbiology - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-Microbiology2025.db",
+      "description": "Amboss QBank - Microbiology - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 27232396,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-Microbiology2025.zip",
+        "size": 23877846
+      }
+    },
+    {
+      "id": "7997",
+      "title": "Amboss QBank - MCCQE Part I - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-MCCQE Part I2025.db",
+      "description": "Amboss QBank - MCCQE Part I - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 69233452,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-MCCQE%20Part%20I2025.zip",
+        "size": 55924524
+      }
+    },
+    {
+      "id": "7996",
+      "title": "Amboss QBank - Internal Medicine (ABIM) - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-Internal Medicine (ABIM)2025.db",
+      "description": "Amboss QBank - Internal Medicine (ABIM) - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 56304952,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-Internal%20Medicine%20%28ABIM%292025.zip",
+        "size": 41604812
+      }
+    },
+    {
+      "id": "7995",
+      "title": "Amboss QBank - IFOM CSE (Espanol) - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-IFOM CSE (Espanol)2025.db",
+      "description": "Amboss QBank - IFOM CSE (Espanol) - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 154183731,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-IFOM%20CSE%20%28Espanol%292025.zip",
+        "size": 123741350
+      }
+    },
+    {
+      "id": "7994",
+      "title": "Amboss QBank - IFOM CSE (English) - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-IFOM CSE (English)2025.db",
+      "description": "Amboss QBank - IFOM CSE (English) - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 155371026,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-IFOM%20CSE%20%28English%292025.zip",
+        "size": 126944172
+      }
+    },
+    {
+      "id": "7993",
+      "title": "Amboss QBank - IFOM BSE (Espanol) - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-IFOM BSE (Espanol)2025.db",
+      "description": "Amboss QBank - IFOM BSE (Espanol) - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 157647187,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-IFOM%20BSE%20%28Espanol%292025.zip",
+        "size": 136245057
+      }
+    },
+    {
+      "id": "7992",
+      "title": "Amboss QBank - IFOM BSE (English) - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-IFOM BSE (English)2025.db",
+      "description": "Amboss QBank - IFOM BSE (English) - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 158904770,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-IFOM%20BSE%20%28English%292025.zip",
+        "size": 138923057
+      }
+    },
+    {
+      "id": "7991",
+      "title": "Amboss QBank - Histology - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-Histology2025.db",
+      "description": "Amboss QBank - Histology - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 13521737,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-Histology2025.zip",
+        "size": 12376092
+      }
+    },
+    {
+      "id": "7990",
+      "title": "Amboss QBank - General Clinical Science Exams - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-General Clinical Science Exams2025.db",
+      "description": "Amboss QBank - General Clinical Science Exams - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 153906350,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-General%20Clinical%20Science%20Exams2025.zip",
+        "size": 126056453
+      }
+    },
+    {
+      "id": "7989",
+      "title": "Amboss QBank - General Basic Science Exams - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-General Basic Science Exams2025.db",
+      "description": "Amboss QBank - General Basic Science Exams - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 158732379,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-General%20Basic%20Science%20Exams2025.zip",
+        "size": 138842674
+      }
+    },
+    {
+      "id": "7988",
+      "title": "Amboss QBank - Family Medicine (ABFM) - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-Family Medicine (ABFM)2025.db",
+      "description": "Amboss QBank - Family Medicine (ABFM) - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 52497926,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-Family%20Medicine%20%28ABFM%292025.zip",
+        "size": 37999227
+      }
+    },
+    {
+      "id": "7987",
+      "title": "Amboss QBank - EOR - Surgery - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-EOR - Surgery2025.db",
+      "description": "Amboss QBank - EOR - Surgery - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 13995245,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-EOR%20-%20Surgery2025.zip",
+        "size": 12218735
+      }
+    },
+    {
+      "id": "7986",
+      "title": "Amboss QBank - EOR - Psychiatry & Behavioral Health - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-EOR - Psychiatry & Behavioral Health2025.db",
+      "description": "Amboss QBank - EOR - Psychiatry & Behavioral Health - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 3329860,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-EOR%20-%20Psychiatry%20%26%20Behavioral%20Health2025.zip",
+        "size": 2262373
+      }
+    },
+    {
+      "id": "7985",
+      "title": "Amboss QBank - EOR - Pediatrics - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-EOR - Pediatrics2025.db",
+      "description": "Amboss QBank - EOR - Pediatrics - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 13828832,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-EOR%20-%20Pediatrics2025.zip",
+        "size": 11745476
+      }
+    },
+    {
+      "id": "7984",
+      "title": "Amboss QBank - EOR - Internal Medicine - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-EOR - Internal Medicine2025.db",
+      "description": "Amboss QBank - EOR - Internal Medicine - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 35113095,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-EOR%20-%20Internal%20Medicine2025.zip",
+        "size": 30027889
+      }
+    },
+    {
+      "id": "7983",
+      "title": "Amboss QBank - EOR - Gynecologic, Sexual, and Reproductive Health - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-EOR - Gynecologic, Sexual, and Reproductive Health2025.db",
+      "description": "Amboss QBank - EOR - Gynecologic, Sexual, and Reproductive Health - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 8094434,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-EOR%20-%20Gynecologic%2C%20Sexual%2C%20and%20Reproductive%20Health2025.zip",
+        "size": 6585404
+      }
+    },
+    {
+      "id": "7982",
+      "title": "Amboss QBank - EOR - Family Medicine - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-EOR - Family Medicine2025.db",
+      "description": "Amboss QBank - EOR - Family Medicine - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 34460085,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-EOR%20-%20Family%20Medicine2025.zip",
+        "size": 29171081
+      }
+    },
+    {
+      "id": "7981",
+      "title": "Amboss QBank - EOR - Emergency Medicine - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-EOR - Emergency Medicine2025.db",
+      "description": "Amboss QBank - EOR - Emergency Medicine - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 23208056,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-EOR%20-%20Emergency%20Medicine2025.zip",
+        "size": 20198955
+      }
+    },
+    {
+      "id": "7980",
+      "title": "Amboss QBank - Emergency Medicine (ABEM) - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-Emergency Medicine (ABEM)2025.db",
+      "description": "Amboss QBank - Emergency Medicine (ABEM) - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 31109113,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-Emergency%20Medicine%20%28ABEM%292025.zip",
+        "size": 20416170
+      }
+    },
+    {
+      "id": "7979",
+      "title": "Amboss QBank - COMLEX Level 3 - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-COMLEX Level 32025.db",
+      "description": "Amboss QBank - COMLEX Level 3 - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 112614302,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-COMLEX%20Level%2032025.zip",
+        "size": 93246584
+      }
+    },
+    {
+      "id": "7978",
+      "title": "Amboss QBank - COMLEX Level 2-CE - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-COMLEX Level 2-CE2025.db",
+      "description": "Amboss QBank - COMLEX Level 2-CE - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 164008129,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-COMLEX%20Level%202-CE2025.zip",
+        "size": 133300462
+      }
+    },
+    {
+      "id": "7977",
+      "title": "Amboss QBank - COMLEX Level 1 - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-COMLEX Level 12025.db",
+      "description": "Amboss QBank - COMLEX Level 1 - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 165357998,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-COMLEX%20Level%2012025.zip",
+        "size": 143674884
+      }
+    },
+    {
+      "id": "7976",
+      "title": "Amboss QBank - Biochemistry - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-Biochemistry2025.db",
+      "description": "Amboss QBank - Biochemistry - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 18976652,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-Biochemistry2025.zip",
+        "size": 16246745
+      }
+    },
+    {
+      "id": "7975",
+      "title": "Amboss QBank - Behavioral Sciences - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-Behavioral Sciences2025.db",
+      "description": "Amboss QBank - Behavioral Sciences - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 4442867,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-Behavioral%20Sciences2025.zip",
+        "size": 3119238
+      }
+    },
+    {
+      "id": "7974",
+      "title": "Amboss QBank - Anatomy & Embryology - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "ambossqb-Anatomy & Embryology2025.db",
+      "description": "Amboss QBank - Anatomy & Embryology - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 23623940,
+      "icon": "Icons/amboss.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/ambossqb-Anatomy%20%26%20Embryology2025.zip",
+        "size": 21255975
+      }
+    },
+    {
+      "id": "8664",
+      "title": "UWorld USMLE STEP3 Self Assessment Simulation 2 - October 2026",
+      "version": "202612",
+      "type": "uworld",
+      "databaseName": "uworldSTEP3-2026-Oct-SIM2.db",
+      "description": "UWorld USMLE STEP3 Self Assessment Simulation 2 - October 2026",
+      "addedDate": "20261024",
+      "featured": false,
+      "installedSize": 7750097,
+      "icon": "Icons/uworld.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/uworldSTEP3-2026-Oct-SIM2.zip",
+        "size": 6039530
+      }
+    },
+    {
+      "id": "8659",
+      "title": "UWorld USMLE STEP3 Self Assessment Simulation 1 - October 2026",
+      "version": "202612",
+      "type": "uworld",
+      "databaseName": "uworldSTEP3-2026-Oct-SIM1.db",
+      "description": "UWorld USMLE STEP3 Self Assessment Simulation 1 - October 2026",
+      "addedDate": "20261024",
+      "featured": false,
+      "installedSize": 37247271,
+      "icon": "Icons/uworld.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/uworldSTEP3-2026-Oct-SIM1.zip",
+        "size": 35600238
+      }
+    },
+    {
+      "id": "8650",
+      "title": "UWorld USMLE STEP2 Self Assessment Simulation 3 - October 2026",
+      "version": "202612",
+      "type": "uworld",
+      "databaseName": "uworldSTEP2-2026-Oct-SIM3.db",
+      "description": "UWorld USMLE STEP2 Self Assessment Simulation 3 - October 2026",
+      "addedDate": "20261024",
+      "featured": false,
+      "installedSize": 58485099,
+      "icon": "Icons/uworld.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/uworldSTEP2-2026-Oct-SIM3.zip",
+        "size": 56660234
+      }
+    },
+    {
+      "id": "8647",
+      "title": "UWorld USMLE STEP2 Self Assessment Simulation 2 - October 2026",
+      "version": "202612",
+      "type": "uworld",
+      "databaseName": "uworldSTEP2-2026-Oct-SIM2.db",
+      "description": "UWorld USMLE STEP2 Self Assessment Simulation 2 - October 2026",
+      "addedDate": "20261024",
+      "featured": false,
+      "installedSize": 21849453,
+      "icon": "Icons/uworld.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/uworldSTEP2-2026-Oct-SIM2.zip",
+        "size": 20215531
+      }
+    },
+    {
+      "id": "8642",
+      "title": "UWorld USMLE STEP2 Self Assessment Simulation 1 - October 2026",
+      "version": "202612",
+      "type": "uworld",
+      "databaseName": "uworldSTEP2-2026-Oct-SIM1.db",
+      "description": "UWorld USMLE STEP2 Self Assessment Simulation 1 - October 2026",
+      "addedDate": "20261024",
+      "featured": false,
+      "installedSize": 86106440,
+      "icon": "Icons/uworld.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/uworldSTEP2-2026-Oct-SIM1.zip",
+        "size": 84496844
+      }
+    },
+    {
+      "id": "8629",
+      "title": "UWorld USMLE STEP1 Self Assessment Simulation 3 - October 2026",
+      "version": "202612",
+      "type": "uworld",
+      "databaseName": "uworldSTEP1-2026-Oct-SIM3.db",
+      "description": "UWorld USMLE STEP1 Self Assessment Simulation 3 - October 2026",
+      "addedDate": "20261024",
+      "featured": false,
+      "installedSize": 51710878,
+      "icon": "Icons/uworld.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/uworldSTEP1-2026-Oct-SIM3.zip",
+        "size": 50235450
+      }
+    },
+    {
+      "id": "8626",
+      "title": "UWorld USMLE STEP1 Self Assessment Simulation 2 - October 2026",
+      "version": "202612",
+      "type": "uworld",
+      "databaseName": "uworldSTEP1-2026-Oct-SIM2.db",
+      "description": "UWorld USMLE STEP1 Self Assessment Simulation 2 - October 2026",
+      "addedDate": "20261024",
+      "featured": false,
+      "installedSize": 46276987,
+      "icon": "Icons/uworld.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/uworldSTEP1-2026-Oct-SIM2.zip",
+        "size": 44958282
+      }
+    },
+    {
+      "id": "8621",
+      "title": "UWorld USMLE STEP1 Self Assessment Simulation 1 - October 2026",
+      "version": "202612",
+      "type": "uworld",
+      "databaseName": "uworldSTEP1-2026-Oct-SIM1.db",
+      "description": "UWorld USMLE STEP1 Self Assessment Simulation 1 - October 2026",
+      "addedDate": "20261024",
+      "featured": false,
+      "installedSize": 91466941,
+      "icon": "Icons/uworld.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/uworldSTEP1-2026-Oct-SIM1.zip",
+        "size": 90151949
+      }
+    },
+    {
+      "id": "23617",
+      "title": "UWORLD USMLE STEP2 ReadyDeck Flashcards - September 2026",
+      "version": "202609",
+      "type": "uworld",
+      "databaseName": "uworldstep2flash-September-2026.db",
+      "description": "UWORLD USMLE STEP2 ReadyDeck Flashcards - September 2026",
+      "addedDate": "20260922",
+      "featured": false,
+      "installedSize": 80014222,
+      "icon": "Icons/uworld.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/uworldstep2flash-September-2026.zip",
+        "size": 76503904
+      }
+    },
+    {
+      "id": "23616",
+      "title": "UWORLD USMLE STEP1 ReadyDeck Flashcards - September 2026",
+      "version": "202609",
+      "type": "uworld",
+      "databaseName": "uworldstep1flash-September-2026.db",
+      "description": "UWORLD USMLE STEP1 ReadyDeck Flashcards - September 2026",
+      "addedDate": "20260922",
+      "featured": false,
+      "installedSize": 76630846,
+      "icon": "Icons/uworld.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/uworldstep1flash-September-2026.zip",
+        "size": 74295371
+      }
+    },
+    {
+      "id": "23602",
+      "title": "UWorld UKMLA QBank - September 2026",
+      "version": "202611",
+      "type": "uworld",
+      "databaseName": "uworldUKMLA-2026-sept.db",
+      "description": "UWorld UKMLA QBank - September 2026",
+      "addedDate": "20260922",
+      "featured": false,
+      "installedSize": 461033438,
+      "icon": "Icons/uworld.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/uworldUKMLA-2026-sept.zip",
+        "size": 444890463
+      }
+    },
+    {
+      "id": "23594",
+      "title": "UWorld Family Medicine QBank (ABFM) - September 2026",
+      "version": "202611",
+      "type": "uworld",
+      "databaseName": "uworldFAMILY-2026-sept.db",
+      "description": "UWorld Family Medicine QBank (ABFM) - September 2026",
+      "addedDate": "20260922",
+      "featured": false,
+      "installedSize": 66964062,
+      "icon": "Icons/uworld.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/uworldFAMILY-2026-sept.zip",
+        "size": 58394487
+      }
+    },
+    {
+      "id": "23576",
+      "title": "Mehlman - Step 3 Qbank - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "mehlman-3-2025.db",
+      "description": "Mehlman - Step 3 Qbank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 896811392,
+      "icon": "Icons/mehlman.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/mehlman-3-2025.zip",
+        "size": 514553496
+      }
+    },
+    {
+      "id": "23575",
+      "title": "Mehlman - Step 2 CK Qbank - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "mehlman-2-2025.db",
+      "description": "Mehlman - Step 2 CK Qbank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 1210911459,
+      "icon": "Icons/mehlman.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/mehlman-2-2025.zip",
+        "size": 786758960
+      }
+    },
+    {
+      "id": "23574",
+      "title": "Mehlman - Step 1 QBank - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "mehlman-1-2025.db",
+      "description": "Mehlman - Step 1 QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 2028605546,
+      "icon": "Icons/mehlman.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/mehlman-1-2025.zip",
+        "size": 1762318274
+      }
+    },
+    {
+      "id": "23573",
+      "title": "Mehlman - HY Surgery - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "mehlman-6-2025.db",
+      "description": "Mehlman - HY Surgery - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 431385462,
+      "icon": "Icons/mehlman.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/mehlman-6-2025.zip",
+        "size": 152589983
+      }
+    },
+    {
+      "id": "23572",
+      "title": "Mehlman - HY Psychiatry - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "mehlman-10-2025.db",
+      "description": "Mehlman - HY Psychiatry - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 460306063,
+      "icon": "Icons/mehlman.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/mehlman-10-2025.zip",
+        "size": 105574570
+      }
+    },
+    {
+      "id": "23571",
+      "title": "Mehlman - HY Pediatrics - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "mehlman-4-2025.db",
+      "description": "Mehlman - HY Pediatrics - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 593625681,
+      "icon": "Icons/mehlman.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/mehlman-4-2025.zip",
+        "size": 211392797
+      }
+    },
+    {
+      "id": "23570",
+      "title": "Mehlman - HY Obgyn - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "mehlman-5-2025.db",
+      "description": "Mehlman - HY Obgyn - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 394731666,
+      "icon": "Icons/mehlman.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/mehlman-5-2025.zip",
+        "size": 101953749
+      }
+    },
+    {
+      "id": "23569",
+      "title": "Mehlman - HY Internal Medicine - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "mehlman-7-2025.db",
+      "description": "Mehlman - HY Internal Medicine - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 546044022,
+      "icon": "Icons/mehlman.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/mehlman-7-2025.zip",
+        "size": 236748012
+      }
+    },
+    {
+      "id": "23568",
+      "title": "Mehlman - HY Family Medicine - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "mehlman-8-2025.db",
+      "description": "Mehlman - HY Family Medicine - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 536522871,
+      "icon": "Icons/mehlman.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/mehlman-8-2025.zip",
+        "size": 199687581
+      }
+    },
+    {
+      "id": "23567",
+      "title": "Mehlman - HY Emergency Medicine - 2025",
+      "version": "202511",
+      "type": "uworld",
+      "databaseName": "mehlman-9-2025.db",
+      "description": "Mehlman - HY Emergency Medicine - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 477280685,
+      "icon": "Icons/mehlman.png",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/mehlman-9-2025.zip",
+        "size": 181407740
+      }
+    },
+    {
+      "id": "8278",
+      "title": "CanadaQBank - QBank for the USMLE STEP 2 CK - 2026",
+      "version": "202611",
+      "type": "uworld",
+      "databaseName": "cqb-usmlestep2-2026.db",
+      "description": "CanadaQBank - QBank for the USMLE STEP 2 CK - 2026",
+      "addedDate": "20261027",
+      "featured": false,
+      "installedSize": 28619197,
+      "icon": "Icons/cqb.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/cqb-usmlestep2-2026.zip",
+        "size": 16173222
+      }
+    },
+    {
+      "id": "8275",
+      "title": "CanadaQBank - QBank for the USMLE STEP 1 - 2026",
+      "version": "202611",
+      "type": "uworld",
+      "databaseName": "cqb-usmlestep1-2026.db",
+      "description": "CanadaQBank - QBank for the USMLE STEP 1 - 2026",
+      "addedDate": "20261027",
+      "featured": false,
+      "installedSize": 23803725,
+      "icon": "Icons/cqb.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/cqb-usmlestep1-2026.zip",
+        "size": 12596744
+      }
+    },
+    {
+      "id": "8272",
+      "title": "CanadaQBank - QBank for the SMLE - 2026",
+      "version": "202611",
+      "type": "uworld",
+      "databaseName": "cqb-smle-2026.db",
+      "description": "CanadaQBank - QBank for the SMLE - 2026",
+      "addedDate": "20261027",
+      "featured": false,
+      "installedSize": 29806493,
+      "icon": "Icons/cqb.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/cqb-smle-2026.zip",
+        "size": 16090007
+      }
+    },
+    {
+      "id": "8269",
+      "title": "CanadaQBank - QBank for the RCSFE - 2026",
+      "version": "202611",
+      "type": "uworld",
+      "databaseName": "cqb-rcsfe-2026.db",
+      "description": "CanadaQBank - QBank for the RCSFE - 2026",
+      "addedDate": "20261027",
+      "featured": false,
+      "installedSize": 8386509,
+      "icon": "Icons/cqb.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/cqb-rcsfe-2026.zip",
+        "size": 3903564
+      }
+    },
+    {
+      "id": "8266",
+      "title": "CanadaQBank - QBank for the PLAB Part 1 - 2026",
+      "version": "202611",
+      "type": "uworld",
+      "databaseName": "cqb-plabpart1-2026.db",
+      "description": "CanadaQBank - QBank for the PLAB Part 1 - 2026",
+      "addedDate": "20261027",
+      "featured": false,
+      "installedSize": 23429805,
+      "icon": "Icons/cqb.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/cqb-plabpart1-2026.zip",
+        "size": 12967524
+      }
+    },
+    {
+      "id": "8263",
+      "title": "CanadaQBank - QBank for the PEBC QE Part 1 - 2026",
+      "version": "202611",
+      "type": "uworld",
+      "databaseName": "cqb-pebcqe-2026.db",
+      "description": "CanadaQBank - QBank for the PEBC QE Part 1 - 2026",
+      "addedDate": "20261027",
+      "featured": false,
+      "installedSize": 5646925,
+      "icon": "Icons/cqb.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/cqb-pebcqe-2026.zip",
+        "size": 2685757
+      }
+    },
+    {
+      "id": "8261",
+      "title": "CanadaQBank - QBank for the PEBC EE - 2026",
+      "version": "202611",
+      "type": "uworld",
+      "databaseName": "cqb-pebcee-2026.db",
+      "description": "CanadaQBank - QBank for the PEBC EE - 2026",
+      "addedDate": "20261027",
+      "featured": false,
+      "installedSize": 20851517,
+      "icon": "Icons/cqb.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/cqb-pebcee-2026.zip",
+        "size": 13066806
+      }
+    },
+    {
+      "id": "8259",
+      "title": "CanadaQBank - QBank for the MCCQE Part 1 - 2026",
+      "version": "202611",
+      "type": "uworld",
+      "databaseName": "cqb-mccque1-2026.db",
+      "description": "CanadaQBank - QBank for the MCCQE Part 1 - 2026",
+      "addedDate": "20261027",
+      "featured": false,
+      "installedSize": 48990477,
+      "icon": "Icons/cqb.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/cqb-mccque1-2026.zip",
+        "size": 30934801
+      }
+    },
+    {
+      "id": "8256",
+      "title": "CanadaQBank - QBank for the AMC MCQ - 2026",
+      "version": "202611",
+      "type": "uworld",
+      "databaseName": "cqb-amcmcq-2026.db",
+      "description": "CanadaQBank - QBank for the AMC MCQ - 2026",
+      "addedDate": "20261027",
+      "featured": false,
+      "installedSize": 30930621,
+      "icon": "Icons/cqb.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/cqb-amcmcq-2026.zip",
+        "size": 19494749
+      }
+    },
+    {
+      "id": "41142",
+      "title": "CanadaQBank - QBank for the USMLE Step 2 CK - 2020",
+      "version": "202003",
+      "type": "uworld",
+      "databaseName": "cqb-usmle2ck-2020.db",
+      "description": "CanadaQBank - QBank for the USMLE Step 2 CK - 2020",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 23940141,
+      "icon": "Icons/cqb.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/cqb-usmle2ck-2020.zip",
+        "size": 11491563
+      }
+    },
+    {
+      "id": "41141",
+      "title": "CanadaQBank - QBank for the USMLE Step 1 - 2020",
+      "version": "202003",
+      "type": "uworld",
+      "databaseName": "cqb-usmle1-2020.db",
+      "description": "CanadaQBank - QBank for the USMLE Step 1 - 2020",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 20861997,
+      "icon": "Icons/cqb.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/cqb-usmle1-2020.zip",
+        "size": 9995716
+      }
+    },
+    {
+      "id": "41140",
+      "title": "CanadaQBank - QBank for the SMLE - 2020",
+      "version": "202003",
+      "type": "uworld",
+      "databaseName": "cqb-smle-2020.db",
+      "description": "CanadaQBank - QBank for the SMLE - 2020",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 25494557,
+      "icon": "Icons/cqb.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/cqb-smle-2020.zip",
+        "size": 12144261
+      }
+    },
+    {
+      "id": "41139",
+      "title": "CanadaQBank - QBank for the RCSFE - 2020",
+      "version": "202003",
+      "type": "uworld",
+      "databaseName": "cqb-rcsfe-2020.db",
+      "description": "CanadaQBank - QBank for the RCSFE - 2020",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 5815325,
+      "icon": "Icons/cqb.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/cqb-rcsfe-2020.zip",
+        "size": 2190870
+      }
+    },
+    {
+      "id": "41138",
+      "title": "CanadaQBank - QBank for the PLAB 1 - 2020",
+      "version": "202003",
+      "type": "uworld",
+      "databaseName": "cqb-plab-2020.db",
+      "description": "CanadaQBank - QBank for the PLAB 1 - 2020",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 18526237,
+      "icon": "Icons/cqb.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/cqb-plab-2020.zip",
+        "size": 8897944
+      }
+    },
+    {
+      "id": "41137",
+      "title": "CanadaQBank - QBank for the MCCQE 1 MCQ - 2020",
+      "version": "202003",
+      "type": "uworld",
+      "databaseName": "cqb-mccqe1-2020.db",
+      "description": "CanadaQBank - QBank for the MCCQE 1 MCQ - 2020",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 31226925,
+      "icon": "Icons/cqb.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/cqb-mccqe1-2020.zip",
+        "size": 13969391
+      }
+    },
+    {
+      "id": "41136",
+      "title": "CanadaQBank - QBank for the AMC CAT - 2020",
+      "version": "202003",
+      "type": "uworld",
+      "databaseName": "cqb-amcmcq-2020.db",
+      "description": "CanadaQBank - QBank for the AMC CAT - 2020",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 21091357,
+      "icon": "Icons/cqb.jpg",
+      "download": {
+        "url": "https://137-23-54-112.sslip.io/dl/cqb-amcmcq-2020.zip",
+        "size": 10029550
+      }
+    }
+  ]
+}
