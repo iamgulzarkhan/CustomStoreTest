@@ -4929,6 +4929,22 @@
         "url": "https://137-23-54-112.sslip.io/49e2ff815a933fe5632ce088/cqb-amcmcq-2020.zip",
         "size": 10029550
       }
+    },
+    {
+      "id": "342",
+      "title": "Current Medical Diagnosis & Treatment 2027",
+      "version": "202609",
+      "type": "accessmedicine",
+      "databaseName": "3743.db",
+      "description": "Current Medical Diagnosis & Treatment 2027",
+      "addedDate": "20260915",
+      "featured": false,
+      "installedSize": 32656330,
+      "icon": "Icons/cover_9781264824718_fc_1784192147_32025_thumb.jpeg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/3743.zip",
+        "size": 21903166
+      }
     }
   ]
 }
