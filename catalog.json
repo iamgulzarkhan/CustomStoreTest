@@ -4945,6 +4945,2198 @@
         "url": "https://gulzmd.duckdns.org/dl/3743.zip",
         "size": 21903166
       }
+    },
+    {
+      "id": "1521",
+      "title": "Netter Atlas of Human Anatomy: Classic Regional Anatomy Approach - Eighth Edition",
+      "version": "202204",
+      "type": "elseviernew",
+      "databaseName": "3-s2.0-C20180044345.db",
+      "description": "Netter Atlas of Human Anatomy: Classic Regional Anatomy Approach - Eighth Edition",
+      "addedDate": "20261024",
+      "featured": false,
+      "installedSize": 532159033,
+      "icon": "Icons/3-s2.0-C20180044345-thumb.gif",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/3-s2.0-C20180044345.zip",
+        "size": 532523521
+      }
+    },
+    {
+      "id": "8864",
+      "title": "BMJ OnExamination - Situational Judgement Test QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "bmjone-101-2025.db",
+      "description": "BMJ OnExamination - Situational Judgement Test QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 1251418,
+      "icon": "Icons/bmjonexam.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/bmjone-101-2025.zip",
+        "size": 545756
+      }
+    },
+    {
+      "id": "8863",
+      "title": "BMJ OnExamination - Respiratory Medicine SCE QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "bmjone-160-2025.db",
+      "description": "BMJ OnExamination - Respiratory Medicine SCE QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 2490250,
+      "icon": "Icons/bmjonexam.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/bmjone-160-2025.zip",
+        "size": 1638043
+      }
+    },
+    {
+      "id": "8862",
+      "title": "BMJ OnExamination - PSA QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "bmjone-152-2025.db",
+      "description": "BMJ OnExamination - PSA QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 959930,
+      "icon": "Icons/bmjonexam.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/bmjone-152-2025.zip",
+        "size": 464511
+      }
+    },
+    {
+      "id": "8861",
+      "title": "BMJ OnExamination - PLAB QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "bmjone-155-2025.db",
+      "description": "BMJ OnExamination - PLAB QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 8675450,
+      "icon": "Icons/bmjonexam.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/bmjone-155-2025.zip",
+        "size": 4714247
+      }
+    },
+    {
+      "id": "8860",
+      "title": "BMJ OnExamination - NMC Part 1 QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "bmjone-153-2025.db",
+      "description": "BMJ OnExamination - NMC Part 1 QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 1620026,
+      "icon": "Icons/bmjonexam.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/bmjone-153-2025.zip",
+        "size": 742478
+      }
+    },
+    {
+      "id": "8859",
+      "title": "BMJ OnExamination - MRCS Part A papers 1 and 2 QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "bmjone-10-2025.db",
+      "description": "BMJ OnExamination - MRCS Part A papers 1 and 2 QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 11799242,
+      "icon": "Icons/bmjonexam.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/bmjone-10-2025.zip",
+        "size": 5806721
+      }
+    },
+    {
+      "id": "8858",
+      "title": "BMJ OnExamination - MRCPsych Paper B QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "bmjone-38-2025.db",
+      "description": "BMJ OnExamination - MRCPsych Paper B QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 1923146,
+      "icon": "Icons/bmjonexam.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/bmjone-38-2025.zip",
+        "size": 905518
+      }
+    },
+    {
+      "id": "8857",
+      "title": "BMJ OnExamination - MRCPsych Paper A QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "bmjone-143-2025.db",
+      "description": "BMJ OnExamination - MRCPsych Paper A QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 6124122,
+      "icon": "Icons/bmjonexam.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/bmjone-143-2025.zip",
+        "size": 2968690
+      }
+    },
+    {
+      "id": "8856",
+      "title": "BMJ OnExamination - MRCPCH Theory and Science of Practice QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "bmjone-168-2025.db",
+      "description": "BMJ OnExamination - MRCPCH Theory and Science of Practice QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 5286570,
+      "icon": "Icons/bmjonexam.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/bmjone-168-2025.zip",
+        "size": 2713117
+      }
+    },
+    {
+      "id": "8855",
+      "title": "BMJ OnExamination - MRCPCH Part 2 QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "bmjone-39-2025.db",
+      "description": "BMJ OnExamination - MRCPCH Part 2 QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 7127146,
+      "icon": "Icons/bmjonexam.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/bmjone-39-2025.zip",
+        "size": 5431491
+      }
+    },
+    {
+      "id": "8854",
+      "title": "BMJ OnExamination - MRCPCH Foundation/Theory and Science QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "bmjone-166-2025.db",
+      "description": "BMJ OnExamination - MRCPCH Foundation/Theory and Science QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 8664874,
+      "icon": "Icons/bmjonexam.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/bmjone-166-2025.zip",
+        "size": 4456981
+      }
+    },
+    {
+      "id": "8853",
+      "title": "BMJ OnExamination - MRCPCH Foundation of Practice / DCH QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "bmjone-167-2025.db",
+      "description": "BMJ OnExamination - MRCPCH Foundation of Practice / DCH QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 6002586,
+      "icon": "Icons/bmjonexam.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/bmjone-167-2025.zip",
+        "size": 2984494
+      }
+    },
+    {
+      "id": "8852",
+      "title": "BMJ OnExamination - MRCP Part 2 Written QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "bmjone-9-2025.db",
+      "description": "BMJ OnExamination - MRCP Part 2 Written QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 21070042,
+      "icon": "Icons/bmjonexam.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/bmjone-9-2025.zip",
+        "size": 13934020
+      }
+    },
+    {
+      "id": "8851",
+      "title": "BMJ OnExamination - MRCP Part 1 QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "bmjone-1-2025.db",
+      "description": "BMJ OnExamination - MRCP Part 1 QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 17769354,
+      "icon": "Icons/bmjonexam.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/bmjone-1-2025.zip",
+        "size": 8458333
+      }
+    },
+    {
+      "id": "8850",
+      "title": "BMJ OnExamination - MRCOG Part 2 QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "bmjone-31-2025.db",
+      "description": "BMJ OnExamination - MRCOG Part 2 QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 3900250,
+      "icon": "Icons/bmjonexam.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/bmjone-31-2025.zip",
+        "size": 1955323
+      }
+    },
+    {
+      "id": "8849",
+      "title": "BMJ OnExamination - MRCOG Part 1 QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "bmjone-30-2025.db",
+      "description": "BMJ OnExamination - MRCOG Part 1 QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 7019930,
+      "icon": "Icons/bmjonexam.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/bmjone-30-2025.zip",
+        "size": 3457879
+      }
+    },
+    {
+      "id": "8848",
+      "title": "BMJ OnExamination - MRCGP QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "bmjone-28-2025.db",
+      "description": "BMJ OnExamination - MRCGP QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 24843466,
+      "icon": "Icons/bmjonexam.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/bmjone-28-2025.zip",
+        "size": 14543120
+      }
+    },
+    {
+      "id": "8847",
+      "title": "BMJ OnExamination - MRCEM Primary SBA QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "bmjone-161-2025.db",
+      "description": "BMJ OnExamination - MRCEM Primary SBA QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 5977498,
+      "icon": "Icons/bmjonexam.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/bmjone-161-2025.zip",
+        "size": 3834818
+      }
+    },
+    {
+      "id": "8846",
+      "title": "BMJ OnExamination - Medical Student Years 1-3 QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "bmjone-44-2025.db",
+      "description": "BMJ OnExamination - Medical Student Years 1-3 QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 9960090,
+      "icon": "Icons/bmjonexam.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/bmjone-44-2025.zip",
+        "size": 6727009
+      }
+    },
+    {
+      "id": "8845",
+      "title": "BMJ OnExamination - Medical Student Finals QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "bmjone-15-2025.db",
+      "description": "BMJ OnExamination - Medical Student Finals QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 29837530,
+      "icon": "Icons/bmjonexam.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/bmjone-15-2025.zip",
+        "size": 19770410
+      }
+    },
+    {
+      "id": "8844",
+      "title": "BMJ OnExamination - GP ST QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "bmjone-46-2025.db",
+      "description": "BMJ OnExamination - GP ST QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 7887002,
+      "icon": "Icons/bmjonexam.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/bmjone-46-2025.zip",
+        "size": 4478166
+      }
+    },
+    {
+      "id": "8843",
+      "title": "BMJ OnExamination - Geriatric Medicine SCE QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "bmjone-65-2025.db",
+      "description": "BMJ OnExamination - Geriatric Medicine SCE QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 1053738,
+      "icon": "Icons/bmjonexam.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/bmjone-65-2025.zip",
+        "size": 498327
+      }
+    },
+    {
+      "id": "8842",
+      "title": "BMJ OnExamination - FRCS Trauma Orthopaedics QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "bmjone-83-2025.db",
+      "description": "BMJ OnExamination - FRCS Trauma Orthopaedics QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 2571834,
+      "icon": "Icons/bmjonexam.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/bmjone-83-2025.zip",
+        "size": 1290274
+      }
+    },
+    {
+      "id": "8841",
+      "title": "BMJ OnExamination - FRCS - General Surgery QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "bmjone-156-2025.db",
+      "description": "BMJ OnExamination - FRCS - General Surgery QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 6768186,
+      "icon": "Icons/bmjonexam.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/bmjone-156-2025.zip",
+        "size": 3466346
+      }
+    },
+    {
+      "id": "8840",
+      "title": "BMJ OnExamination - FRCR Part 1 QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "bmjone-53-2025.db",
+      "description": "BMJ OnExamination - FRCR Part 1 QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 1210426,
+      "icon": "Icons/bmjonexam.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/bmjone-53-2025.zip",
+        "size": 572604
+      }
+    },
+    {
+      "id": "8839",
+      "title": "BMJ OnExamination - FRCA Primary QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "bmjone-23-2025.db",
+      "description": "BMJ OnExamination - FRCA Primary QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 12292682,
+      "icon": "Icons/bmjonexam.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/bmjone-23-2025.zip",
+        "size": 5873079
+      }
+    },
+    {
+      "id": "8838",
+      "title": "BMJ OnExamination - FRCA Final QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "bmjone-145-2025.db",
+      "description": "BMJ OnExamination - FRCA Final QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 7000666,
+      "icon": "Icons/bmjonexam.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/bmjone-145-2025.zip",
+        "size": 3187795
+      }
+    },
+    {
+      "id": "8837",
+      "title": "BMJ OnExamination - FFICM QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "bmjone-165-2025.db",
+      "description": "BMJ OnExamination - FFICM QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 7252394,
+      "icon": "Icons/bmjonexam.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/bmjone-165-2025.zip",
+        "size": 3802986
+      }
+    },
+    {
+      "id": "8836",
+      "title": "BMJ OnExamination - ESENEPH QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "bmjone-164-2025.db",
+      "description": "BMJ OnExamination - ESENEPH QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 2077226,
+      "icon": "Icons/bmjonexam.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/bmjone-164-2025.zip",
+        "size": 972269
+      }
+    },
+    {
+      "id": "8835",
+      "title": "BMJ OnExamination - ESEGH QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "bmjone-58-2025.db",
+      "description": "BMJ OnExamination - ESEGH QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 4564762,
+      "icon": "Icons/bmjonexam.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/bmjone-58-2025.zip",
+        "size": 3154775
+      }
+    },
+    {
+      "id": "8834",
+      "title": "BMJ OnExamination - Endocrinology and Diabetes SCE QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "bmjone-70-2025.db",
+      "description": "BMJ OnExamination - Endocrinology and Diabetes SCE QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 5179242,
+      "icon": "Icons/bmjonexam.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/bmjone-70-2025.zip",
+        "size": 2711655
+      }
+    },
+    {
+      "id": "8833",
+      "title": "BMJ OnExamination - DRCOG QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "bmjone-171-2025.db",
+      "description": "BMJ OnExamination - DRCOG QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 2815786,
+      "icon": "Icons/bmjonexam.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/bmjone-171-2025.zip",
+        "size": 1329942
+      }
+    },
+    {
+      "id": "8832",
+      "title": "BMJ OnExamination - Acute Medicine SCE QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "bmjone-147-2025.db",
+      "description": "BMJ OnExamination - Acute Medicine SCE QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 3983642,
+      "icon": "Icons/bmjonexam.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/bmjone-147-2025.zip",
+        "size": 2557619
+      }
+    },
+    {
+      "id": "8253",
+      "title": "BOARDVITALS - USMLE Step 3 QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-45-2025.db",
+      "description": "BOARDVITALS - USMLE Step 3 QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 66713605,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-45-2025.zip",
+        "size": 54513325
+      }
+    },
+    {
+      "id": "8252",
+      "title": "BOARDVITALS - USMLE Step 3 Practice Exam QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-263-2025.db",
+      "description": "BOARDVITALS - USMLE Step 3 Practice Exam QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 8177813,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-263-2025.zip",
+        "size": 5070465
+      }
+    },
+    {
+      "id": "8251",
+      "title": "BOARDVITALS - USMLE Step 2 QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-41-2025.db",
+      "description": "BOARDVITALS - USMLE Step 2 QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 69775989,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-41-2025.zip",
+        "size": 59425100
+      }
+    },
+    {
+      "id": "8250",
+      "title": "BOARDVITALS - USMLE Step 2 Practice Exam QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-256-2025.db",
+      "description": "BOARDVITALS - USMLE Step 2 Practice Exam QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 7246117,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-256-2025.zip",
+        "size": 5117179
+      }
+    },
+    {
+      "id": "8249",
+      "title": "BOARDVITALS - USMLE Step 1 QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-32-2025.db",
+      "description": "BOARDVITALS - USMLE Step 1 QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 154085445,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-32-2025.zip",
+        "size": 133670588
+      }
+    },
+    {
+      "id": "8248",
+      "title": "BOARDVITALS - USMLE Step 1 Practice Exam QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-255-2025.db",
+      "description": "BOARDVITALS - USMLE Step 1 Practice Exam QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 5696165,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-255-2025.zip",
+        "size": 3611518
+      }
+    },
+    {
+      "id": "8247",
+      "title": "BOARDVITALS - Urology QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-83-2025.db",
+      "description": "BOARDVITALS - Urology QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 5444501,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-83-2025.zip",
+        "size": 2789007
+      }
+    },
+    {
+      "id": "8246",
+      "title": "BOARDVITALS - Surgical Technologist QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-173-2025.db",
+      "description": "BOARDVITALS - Surgical Technologist QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 83009733,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-173-2025.zip",
+        "size": 78690765
+      }
+    },
+    {
+      "id": "8245",
+      "title": "BOARDVITALS - Surgery Shelf Exam QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-36-2025.db",
+      "description": "BOARDVITALS - Surgery Shelf Exam QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 6538789,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-36-2025.zip",
+        "size": 4267757
+      }
+    },
+    {
+      "id": "8244",
+      "title": "BOARDVITALS - Surgery QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-8-2025.db",
+      "description": "BOARDVITALS - Surgery QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 12369045,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-8-2025.zip",
+        "size": 7604103
+      }
+    },
+    {
+      "id": "8243",
+      "title": "BOARDVITALS - Surgery MOC QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-72-2025.db",
+      "description": "BOARDVITALS - Surgery MOC QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 12250997,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-72-2025.zip",
+        "size": 7509978
+      }
+    },
+    {
+      "id": "8242",
+      "title": "BOARDVITALS - Sports Medicine QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-133-2025.db",
+      "description": "BOARDVITALS - Sports Medicine QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 17973589,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-133-2025.zip",
+        "size": 15442283
+      }
+    },
+    {
+      "id": "8241",
+      "title": "BOARDVITALS - SPEX QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-126-2025.db",
+      "description": "BOARDVITALS - SPEX QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 32832005,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-126-2025.zip",
+        "size": 26400285
+      }
+    },
+    {
+      "id": "8240",
+      "title": "BOARDVITALS - Sleep Medicine QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-52-2025.db",
+      "description": "BOARDVITALS - Sleep Medicine QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 38700405,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-52-2025.zip",
+        "size": 35986195
+      }
+    },
+    {
+      "id": "8239",
+      "title": "BOARDVITALS - Sleep Medicine MOC QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-181-2025.db",
+      "description": "BOARDVITALS - Sleep Medicine MOC QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 38700421,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-181-2025.zip",
+        "size": 35986374
+      }
+    },
+    {
+      "id": "8238",
+      "title": "BOARDVITALS - Rheumatology QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-175-2025.db",
+      "description": "BOARDVITALS - Rheumatology QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 14109813,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-175-2025.zip",
+        "size": 11767876
+      }
+    },
+    {
+      "id": "8237",
+      "title": "BOARDVITALS - Radiology MOC QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-66-2025.db",
+      "description": "BOARDVITALS - Radiology MOC QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 208983989,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-66-2025.zip",
+        "size": 203275072
+      }
+    },
+    {
+      "id": "8236",
+      "title": "BOARDVITALS - Radiology CORE QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-6-2025.db",
+      "description": "BOARDVITALS - Radiology CORE QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 201563237,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-6-2025.zip",
+        "size": 196201418
+      }
+    },
+    {
+      "id": "8235",
+      "title": "BOARDVITALS - Radiology Certifying Exam QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-55-2025.db",
+      "description": "BOARDVITALS - Radiology Certifying Exam QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 228269557,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-55-2025.zip",
+        "size": 222057435
+      }
+    },
+    {
+      "id": "8234",
+      "title": "BOARDVITALS - Pulmonary and Critical Care Medicine QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-96-2025.db",
+      "description": "BOARDVITALS - Pulmonary and Critical Care Medicine QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 35242389,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-96-2025.zip",
+        "size": 31815372
+      }
+    },
+    {
+      "id": "8233",
+      "title": "BOARDVITALS - Pulmonary and Critical Care Medicine MOC QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-188-2025.db",
+      "description": "BOARDVITALS - Pulmonary and Critical Care Medicine MOC QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 35123605,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-188-2025.zip",
+        "size": 31762254
+      }
+    },
+    {
+      "id": "8232",
+      "title": "BOARDVITALS - Psychiatry Vignettes QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-49-2025.db",
+      "description": "BOARDVITALS - Psychiatry Vignettes QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 1941973,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-49-2025.zip",
+        "size": 901688
+      }
+    },
+    {
+      "id": "8231",
+      "title": "BOARDVITALS - Psychiatry Shelf Exam QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-35-2025.db",
+      "description": "BOARDVITALS - Psychiatry Shelf Exam QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 11971829,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-35-2025.zip",
+        "size": 8637250
+      }
+    },
+    {
+      "id": "8230",
+      "title": "BOARDVITALS - Psychiatry QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-17-2025.db",
+      "description": "BOARDVITALS - Psychiatry QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 20082757,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-17-2025.zip",
+        "size": 13924314
+      }
+    },
+    {
+      "id": "8229",
+      "title": "BOARDVITALS - Psychiatry Practice Exam QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-269-2025.db",
+      "description": "BOARDVITALS - Psychiatry Practice Exam QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 3709941,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-269-2025.zip",
+        "size": 1634236
+      }
+    },
+    {
+      "id": "8228",
+      "title": "BOARDVITALS - Psychiatry MOC QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-60-2025.db",
+      "description": "BOARDVITALS - Psychiatry MOC QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 15187909,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-60-2025.zip",
+        "size": 10002975
+      }
+    },
+    {
+      "id": "8227",
+      "title": "BOARDVITALS - Psychiatric-Mental Health Nurse Practitioner QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-57-2025.db",
+      "description": "BOARDVITALS - Psychiatric-Mental Health Nurse Practitioner QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 46770517,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-57-2025.zip",
+        "size": 40747653
+      }
+    },
+    {
+      "id": "8226",
+      "title": "BOARDVITALS - Psychiatric-Mental Health Nurse Practitioner Practice Exam QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-260-2025.db",
+      "description": "BOARDVITALS - Psychiatric-Mental Health Nurse Practitioner Practice Exam QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 1407285,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-260-2025.zip",
+        "size": 600345
+      }
+    },
+    {
+      "id": "8225",
+      "title": "BOARDVITALS - Preventive Medicine QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-136-2025.db",
+      "description": "BOARDVITALS - Preventive Medicine QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 4181493,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-136-2025.zip",
+        "size": 2221425
+      }
+    },
+    {
+      "id": "8224",
+      "title": "BOARDVITALS - Preventive Medicine MOC QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-182-2025.db",
+      "description": "BOARDVITALS - Preventive Medicine MOC QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 4187365,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-182-2025.zip",
+        "size": 2203864
+      }
+    },
+    {
+      "id": "8223",
+      "title": "BOARDVITALS - Physical Medicine & Rehabilitation QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-95-2025.db",
+      "description": "BOARDVITALS - Physical Medicine & Rehabilitation QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 16850101,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-95-2025.zip",
+        "size": 14006288
+      }
+    },
+    {
+      "id": "8222",
+      "title": "BOARDVITALS - Physical Medicine & Rehabilitation MOC QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-178-2025.db",
+      "description": "BOARDVITALS - Physical Medicine & Rehabilitation MOC QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 10526661,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-178-2025.zip",
+        "size": 8343363
+      }
+    },
+    {
+      "id": "8221",
+      "title": "BOARDVITALS - Pharmacotherapeutics QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-109-2025.db",
+      "description": "BOARDVITALS - Pharmacotherapeutics QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 5251589,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-109-2025.zip",
+        "size": 4237570
+      }
+    },
+    {
+      "id": "8220",
+      "title": "BOARDVITALS - Pediatrics Shelf Exam QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-39-2025.db",
+      "description": "BOARDVITALS - Pediatrics Shelf Exam QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 38216565,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-39-2025.zip",
+        "size": 30848881
+      }
+    },
+    {
+      "id": "8219",
+      "title": "BOARDVITALS - Pediatrics Practice Exam QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-274-2025.db",
+      "description": "BOARDVITALS - Pediatrics Practice Exam QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 24875845,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-274-2025.zip",
+        "size": 22471698
+      }
+    },
+    {
+      "id": "8218",
+      "title": "BOARDVITALS - Pediatrics MOC QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-63-2025.db",
+      "description": "BOARDVITALS - Pediatrics MOC QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 64932725,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-63-2025.zip",
+        "size": 55763218
+      }
+    },
+    {
+      "id": "8217",
+      "title": "BOARDVITALS - Pediatric QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-16-2025.db",
+      "description": "BOARDVITALS - Pediatric QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 89145445,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-16-2025.zip",
+        "size": 77603303
+      }
+    },
+    {
+      "id": "8216",
+      "title": "BOARDVITALS - Pediatric Primary Care Nurse Practitioner QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-56-2025.db",
+      "description": "BOARDVITALS - Pediatric Primary Care Nurse Practitioner QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 23154517,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-56-2025.zip",
+        "size": 17132256
+      }
+    },
+    {
+      "id": "8215",
+      "title": "BOARDVITALS - Pediatric Nurse Practitioner-Acute Care QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-176-2025.db",
+      "description": "BOARDVITALS - Pediatric Nurse Practitioner-Acute Care QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 30063589,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-176-2025.zip",
+        "size": 24013892
+      }
+    },
+    {
+      "id": "8214",
+      "title": "BOARDVITALS - Pediatric Cardiology Certification QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-170-2025.db",
+      "description": "BOARDVITALS - Pediatric Cardiology Certification QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 15161589,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-170-2025.zip",
+        "size": 13305679
+      }
+    },
+    {
+      "id": "8213",
+      "title": "BOARDVITALS - Pediatric Cardiology Certification MOC QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-186-2025.db",
+      "description": "BOARDVITALS - Pediatric Cardiology Certification MOC QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 16300837,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-186-2025.zip",
+        "size": 14431006
+      }
+    },
+    {
+      "id": "8212",
+      "title": "BOARDVITALS - Pathology QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-12-2025.db",
+      "description": "BOARDVITALS - Pathology QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 311557701,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-12-2025.zip",
+        "size": 307211323
+      }
+    },
+    {
+      "id": "8211",
+      "title": "BOARDVITALS - Pathology MOC QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-61-2025.db",
+      "description": "BOARDVITALS - Pathology MOC QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 306604117,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-61-2025.zip",
+        "size": 302389238
+      }
+    },
+    {
+      "id": "8210",
+      "title": "BOARDVITALS - PANCE/PANRE QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-276-2025.db",
+      "description": "BOARDVITALS - PANCE/PANRE QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 83484741,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-276-2025.zip",
+        "size": 72673364
+      }
+    },
+    {
+      "id": "8209",
+      "title": "BOARDVITALS - Pain Medicine QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-54-2025.db",
+      "description": "BOARDVITALS - Pain Medicine QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 8995317,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-54-2025.zip",
+        "size": 5797274
+      }
+    },
+    {
+      "id": "8208",
+      "title": "BOARDVITALS - Pain Medicine MOC QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-183-2025.db",
+      "description": "BOARDVITALS - Pain Medicine MOC QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 8978933,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-183-2025.zip",
+        "size": 5796748
+      }
+    },
+    {
+      "id": "8207",
+      "title": "BOARDVITALS - Otolaryngology QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-10-2025.db",
+      "description": "BOARDVITALS - Otolaryngology QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 34243813,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-10-2025.zip",
+        "size": 29317028
+      }
+    },
+    {
+      "id": "8206",
+      "title": "BOARDVITALS - Otolaryngology MOC QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-65-2025.db",
+      "description": "BOARDVITALS - Otolaryngology MOC QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 34358837,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-65-2025.zip",
+        "size": 29265481
+      }
+    },
+    {
+      "id": "8205",
+      "title": "BOARDVITALS - Orthopedic Surgery QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-131-2025.db",
+      "description": "BOARDVITALS - Orthopedic Surgery QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 30116997,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-131-2025.zip",
+        "size": 27401226
+      }
+    },
+    {
+      "id": "8204",
+      "title": "BOARDVITALS - Orthopedic Surgery MOC QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-184-2025.db",
+      "description": "BOARDVITALS - Orthopedic Surgery MOC QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 29705925,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-184-2025.zip",
+        "size": 27041151
+      }
+    },
+    {
+      "id": "8203",
+      "title": "BOARDVITALS - Opioid Prescribing, Substance Abuse, and Pain Management QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-243-2025.db",
+      "description": "BOARDVITALS - Opioid Prescribing, Substance Abuse, and Pain Management QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 3129237,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-243-2025.zip",
+        "size": 1874380
+      }
+    },
+    {
+      "id": "8202",
+      "title": "BOARDVITALS - Ophthalmology QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-222-2025.db",
+      "description": "BOARDVITALS - Ophthalmology QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 107309621,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-222-2025.zip",
+        "size": 103599524
+      }
+    },
+    {
+      "id": "8201",
+      "title": "BOARDVITALS - OBGYN Shelf Exam QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-34-2025.db",
+      "description": "BOARDVITALS - OBGYN Shelf Exam QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 6938693,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-34-2025.zip",
+        "size": 4908891
+      }
+    },
+    {
+      "id": "8200",
+      "title": "BOARDVITALS - OBGYN QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-21-2025.db",
+      "description": "BOARDVITALS - OBGYN QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 17024725,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-21-2025.zip",
+        "size": 12133787
+      }
+    },
+    {
+      "id": "8199",
+      "title": "BOARDVITALS - OBGYN MOC QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-74-2025.db",
+      "description": "BOARDVITALS - OBGYN MOC QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 17183605,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-74-2025.zip",
+        "size": 12346136
+      }
+    },
+    {
+      "id": "8198",
+      "title": "BOARDVITALS - Nuclear Cardiology QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-85-2025.db",
+      "description": "BOARDVITALS - Nuclear Cardiology QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 4822069,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-85-2025.zip",
+        "size": 3845042
+      }
+    },
+    {
+      "id": "8197",
+      "title": "BOARDVITALS - NPLEX Part 2 QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-89-2025.db",
+      "description": "BOARDVITALS - NPLEX Part 2 QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 3258597,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-89-2025.zip",
+        "size": 1532475
+      }
+    },
+    {
+      "id": "8196",
+      "title": "BOARDVITALS - NPLEX Part 1 QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-88-2025.db",
+      "description": "BOARDVITALS - NPLEX Part 1 QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 2589637,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-88-2025.zip",
+        "size": 1248299
+      }
+    },
+    {
+      "id": "8195",
+      "title": "BOARDVITALS - Neurology Shelf Exam QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-33-2025.db",
+      "description": "BOARDVITALS - Neurology Shelf Exam QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 10114517,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-33-2025.zip",
+        "size": 9054507
+      }
+    },
+    {
+      "id": "8194",
+      "title": "BOARDVITALS - Neurology QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-9-2025.db",
+      "description": "BOARDVITALS - Neurology QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 51894149,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-9-2025.zip",
+        "size": 42659555
+      }
+    },
+    {
+      "id": "8193",
+      "title": "BOARDVITALS - Neurology MOC QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-62-2025.db",
+      "description": "BOARDVITALS - Neurology MOC QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 47596965,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-62-2025.zip",
+        "size": 38964704
+      }
+    },
+    {
+      "id": "8192",
+      "title": "BOARDVITALS - Nephrology QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-90-2025.db",
+      "description": "BOARDVITALS - Nephrology QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 7866293,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-90-2025.zip",
+        "size": 5292938
+      }
+    },
+    {
+      "id": "8191",
+      "title": "BOARDVITALS - Nephrology MOC QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-180-2025.db",
+      "description": "BOARDVITALS - Nephrology MOC QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 7627349,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-180-2025.zip",
+        "size": 5123668
+      }
+    },
+    {
+      "id": "8190",
+      "title": "BOARDVITALS - NCLEX-RN QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-28-2025.db",
+      "description": "BOARDVITALS - NCLEX-RN QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 70221941,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-28-2025.zip",
+        "size": 54950734
+      }
+    },
+    {
+      "id": "8189",
+      "title": "BOARDVITALS - NCLEX-PN QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-30-2025.db",
+      "description": "BOARDVITALS - NCLEX-PN QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 29784325,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-30-2025.zip",
+        "size": 23381908
+      }
+    },
+    {
+      "id": "8188",
+      "title": "BOARDVITALS - NBDHE QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-87-2025.db",
+      "description": "BOARDVITALS - NBDHE QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 7243909,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-87-2025.zip",
+        "size": 4087242
+      }
+    },
+    {
+      "id": "8187",
+      "title": "BOARDVITALS - NAPLEX QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-50-2025.db",
+      "description": "BOARDVITALS - NAPLEX QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 11667589,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-50-2025.zip",
+        "size": 6640548
+      }
+    },
+    {
+      "id": "8186",
+      "title": "BOARDVITALS - Internal Medicine Shelf Exam QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-37-2025.db",
+      "description": "BOARDVITALS - Internal Medicine Shelf Exam QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 17643541,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-37-2025.zip",
+        "size": 15586882
+      }
+    },
+    {
+      "id": "8185",
+      "title": "BOARDVITALS - Internal Medicine QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-15-2025.db",
+      "description": "BOARDVITALS - Internal Medicine QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 94326021,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-15-2025.zip",
+        "size": 81930645
+      }
+    },
+    {
+      "id": "8184",
+      "title": "BOARDVITALS - Internal Medicine Practice Exam QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-268-2025.db",
+      "description": "BOARDVITALS - Internal Medicine Practice Exam QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 7415685,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-268-2025.zip",
+        "size": 5234074
+      }
+    },
+    {
+      "id": "8183",
+      "title": "BOARDVITALS - Internal Medicine MOC QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-67-2025.db",
+      "description": "BOARDVITALS - Internal Medicine MOC QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 70807093,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-67-2025.zip",
+        "size": 62205759
+      }
+    },
+    {
+      "id": "8182",
+      "title": "BOARDVITALS - Infectious Disease QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-174-2025.db",
+      "description": "BOARDVITALS - Infectious Disease QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 32814165,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-174-2025.zip",
+        "size": 29112930
+      }
+    },
+    {
+      "id": "8181",
+      "title": "BOARDVITALS - INBDE QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-250-2025.db",
+      "description": "BOARDVITALS - INBDE QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 36250181,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-250-2025.zip",
+        "size": 28087867
+      }
+    },
+    {
+      "id": "8180",
+      "title": "BOARDVITALS - INBDE Practice Exam QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-270-2025.db",
+      "description": "BOARDVITALS - INBDE Practice Exam QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 7283253,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-270-2025.zip",
+        "size": 5405030
+      }
+    },
+    {
+      "id": "8179",
+      "title": "BOARDVITALS - Hospital Medicine MOC QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-226-2025.db",
+      "description": "BOARDVITALS - Hospital Medicine MOC QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 36632245,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-226-2025.zip",
+        "size": 30687747
+      }
+    },
+    {
+      "id": "8178",
+      "title": "BOARDVITALS - Hospice & Palliative Medicine QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-225-2025.db",
+      "description": "BOARDVITALS - Hospice & Palliative Medicine QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 5699637,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-225-2025.zip",
+        "size": 2740429
+      }
+    },
+    {
+      "id": "8177",
+      "title": "BOARDVITALS - Hematology and Oncology QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-82-2025.db",
+      "description": "BOARDVITALS - Hematology and Oncology QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 12804789,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-82-2025.zip",
+        "size": 9559327
+      }
+    },
+    {
+      "id": "8176",
+      "title": "BOARDVITALS - Hematology and Oncology MOC QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-187-2025.db",
+      "description": "BOARDVITALS - Hematology and Oncology MOC QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 12655845,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-187-2025.zip",
+        "size": 9488568
+      }
+    },
+    {
+      "id": "8175",
+      "title": "BOARDVITALS - Geriatric Medicine QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-232-2025.db",
+      "description": "BOARDVITALS - Geriatric Medicine QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 41605797,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-232-2025.zip",
+        "size": 35223832
+      }
+    },
+    {
+      "id": "8174",
+      "title": "BOARDVITALS - Gastroenterology QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-19-2025.db",
+      "description": "BOARDVITALS - Gastroenterology QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 12267237,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-19-2025.zip",
+        "size": 8842446
+      }
+    },
+    {
+      "id": "8173",
+      "title": "BOARDVITALS - Gastroenterology MOC QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-68-2025.db",
+      "description": "BOARDVITALS - Gastroenterology MOC QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 12170533,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-68-2025.zip",
+        "size": 8764689
+      }
+    },
+    {
+      "id": "8172",
+      "title": "BOARDVITALS - Family Medicine Shelf Exam QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-38-2025.db",
+      "description": "BOARDVITALS - Family Medicine Shelf Exam QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 63684773,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-38-2025.zip",
+        "size": 56508763
+      }
+    },
+    {
+      "id": "8171",
+      "title": "BOARDVITALS - Family Medicine QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-23-2025.db",
+      "description": "BOARDVITALS - Family Medicine QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 188928453,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-23-2025.zip",
+        "size": 169343032
+      }
+    },
+    {
+      "id": "8170",
+      "title": "BOARDVITALS - Family Medicine Practice Exam QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-275-2025.db",
+      "description": "BOARDVITALS - Family Medicine Practice Exam QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 12304773,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-275-2025.zip",
+        "size": 9982823
+      }
+    },
+    {
+      "id": "8169",
+      "title": "BOARDVITALS - Family Medicine MOC QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-70-2025.db",
+      "description": "BOARDVITALS - Family Medicine MOC QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 149058517,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-70-2025.zip",
+        "size": 134242907
+      }
+    },
+    {
+      "id": "8168",
+      "title": "BOARDVITALS - ENT Oral Boards QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-130-2025.db",
+      "description": "BOARDVITALS - ENT Oral Boards QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 2388485,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-130-2025.zip",
+        "size": 2018100
+      }
+    },
+    {
+      "id": "8167",
+      "title": "BOARDVITALS - Emergency Nurse Practitioner QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-58-2025.db",
+      "description": "BOARDVITALS - Emergency Nurse Practitioner QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 18533109,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-58-2025.zip",
+        "size": 16127726
+      }
+    },
+    {
+      "id": "8166",
+      "title": "BOARDVITALS - Emergency Medicine Shelf Exam QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-230-2025.db",
+      "description": "BOARDVITALS - Emergency Medicine Shelf Exam QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 26128725,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-230-2025.zip",
+        "size": 22865774
+      }
+    },
+    {
+      "id": "8165",
+      "title": "BOARDVITALS - Emergency Medicine MOC QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-71-2025.db",
+      "description": "BOARDVITALS - Emergency Medicine MOC QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 52760213,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-71-2025.zip",
+        "size": 47784051
+      }
+    },
+    {
+      "id": "8164",
+      "title": "BOARDVITALS - Echocardiography QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-5-2025.db",
+      "description": "BOARDVITALS - Echocardiography QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 44612949,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-5-2025.zip",
+        "size": 43487558
+      }
+    },
+    {
+      "id": "8163",
+      "title": "BOARDVITALS - Dermatology MOC QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-73-2025.db",
+      "description": "BOARDVITALS - Dermatology MOC QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 92165733,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-73-2025.zip",
+        "size": 88597299
+      }
+    },
+    {
+      "id": "8162",
+      "title": "BOARDVITALS - CST Mock Exam QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-223-2025.db",
+      "description": "BOARDVITALS - CST Mock Exam QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 3829541,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-223-2025.zip",
+        "size": 3035810
+      }
+    },
+    {
+      "id": "8161",
+      "title": "BOARDVITALS - Critical Care Nursing QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-84-2025.db",
+      "description": "BOARDVITALS - Critical Care Nursing QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 7940005,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-84-2025.zip",
+        "size": 6240185
+      }
+    },
+    {
+      "id": "8160",
+      "title": "BOARDVITALS - CREOG QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-92-2025.db",
+      "description": "BOARDVITALS - CREOG QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 14127429,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-92-2025.zip",
+        "size": 10701423
+      }
+    },
+    {
+      "id": "8159",
+      "title": "BOARDVITALS - COMVEX QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-127-2025.db",
+      "description": "BOARDVITALS - COMVEX QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 37674933,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-127-2025.zip",
+        "size": 30286208
+      }
+    },
+    {
+      "id": "8158",
+      "title": "BOARDVITALS - COMLEX Level 1 QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-42-2025.db",
+      "description": "BOARDVITALS - COMLEX Level 1 QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 46659957,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-42-2025.zip",
+        "size": 38218489
+      }
+    },
+    {
+      "id": "8157",
+      "title": "BOARDVITALS - Child Psychiatry QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-20-2025.db",
+      "description": "BOARDVITALS - Child Psychiatry QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 9457989,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-20-2025.zip",
+        "size": 6221311
+      }
+    },
+    {
+      "id": "8156",
+      "title": "BOARDVITALS - Child Psychiatry MOC QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-69-2025.db",
+      "description": "BOARDVITALS - Child Psychiatry MOC QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 9025925,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-69-2025.zip",
+        "size": 6029687
+      }
+    },
+    {
+      "id": "8155",
+      "title": "BOARDVITALS - Child Neurology QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-31-2025.db",
+      "description": "BOARDVITALS - Child Neurology QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 51024197,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-31-2025.zip",
+        "size": 41457775
+      }
+    },
+    {
+      "id": "8154",
+      "title": "BOARDVITALS - Child Neurology MOC QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-179-2025.db",
+      "description": "BOARDVITALS - Child Neurology MOC QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 37332213,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-179-2025.zip",
+        "size": 30817567
+      }
+    },
+    {
+      "id": "8153",
+      "title": "BOARDVITALS - Certified Pediatric Nurse  QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-273-2025.db",
+      "description": "BOARDVITALS - Certified Pediatric Nurse  QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 49844197,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-273-2025.zip",
+        "size": 43345599
+      }
+    },
+    {
+      "id": "8152",
+      "title": "BOARDVITALS - Certified Nurse Midwife QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-231-2025.db",
+      "description": "BOARDVITALS - Certified Nurse Midwife QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 4304117,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-231-2025.zip",
+        "size": 2695554
+      }
+    },
+    {
+      "id": "8151",
+      "title": "BOARDVITALS - Cardiology QBank - 2025",
+      "version": "202501",
+      "type": "uworld",
+      "databaseName": "boardvitals-7-2025.db",
+      "description": "BOARDVITALS - Cardiology QBank - 2025",
+      "addedDate": "20260521",
+      "featured": false,
+      "installedSize": 125995445,
+      "icon": "Icons/boardvitals.jpg",
+      "download": {
+        "url": "https://gulzmd.duckdns.org/dl/boardvitals-7-2025.zip",
+        "size": 118308946
+      }
     }
   ]
 }
