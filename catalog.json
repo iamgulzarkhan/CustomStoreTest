@@ -11,11 +11,11 @@
       "description": "A new version of GulzMD is available. Please update the app. Contact Gulzar for assistance.",
       "addedDate": "20261101",
       "featured": true,
-      "installedSize": 000000000,
+      "installedSize": 000000001,
       "icon": "Icons/update.png",
       "download": {
         "url": "",
-        "size": 000000000
+        "size": 000000001
       }
     }   
   ]
